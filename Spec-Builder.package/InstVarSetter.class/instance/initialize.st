@@ -6,4 +6,4 @@ initialize
 	super initialize.
 	
 	self announcer weak
-		on: WidgetBuilt do: [ text widget ifNotNil: [:m | m styler workspace: self ] ]
+		on: WidgetBuilt send: #widgetBuilt to: self

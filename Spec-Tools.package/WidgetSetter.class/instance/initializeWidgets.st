@@ -1,7 +1,7 @@
 initialization
 initializeWidgets 
 	
-	self instantiateModels: #( apiSetters #ListModel ).
+	self instantiateModels: #( apiSetters ListComposableModel ).
 	
 	apiSetters 
 		allowToSelect: false;

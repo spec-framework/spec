@@ -2,4 +2,4 @@ accessing
 index: anIndex
 
 	index := anIndex.
-	self valueChanged: index
+	self changed: #index

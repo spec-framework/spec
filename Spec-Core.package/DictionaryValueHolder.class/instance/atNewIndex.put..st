@@ -1,5 +1,5 @@
 protocol
 atNewIndex: index put: anObject
 	
-	value atNewIndex: index put: anObject.
-	self valueChanged: anObject.
+	contents atNewIndex: index put: anObject.
+	self contentsChanged: anObject.

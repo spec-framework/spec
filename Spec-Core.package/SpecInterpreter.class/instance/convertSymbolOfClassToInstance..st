@@ -1,9 +1,9 @@
 bindings
 convertSymbolOfClassToInstance: aSymbol
-	| translatedSymbol |
+	| symbol |
 	
-	translatedSymbol := self bindings translateSymbol: aSymbol.
+	symbol := self retrieveClassSymbolFor: aSymbol.
 	
 	^ (Smalltalk 
-		at: translatedSymbol
-		ifAbsent: [ ^ translatedSymbol ]) new
+		at: symbol
+		ifAbsent: [ ^ aSymbol ]) new

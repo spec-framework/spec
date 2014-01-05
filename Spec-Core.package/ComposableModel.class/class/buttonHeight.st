@@ -1,4 +1,0 @@
-defaults
-buttonHeight
-
-	^ 26

@@ -2,6 +2,6 @@ protocol
 removeLast: n
 
 	| result |
-	result := value removeLast: n.
-	self valueChanged: result.
+	result := contents removeLast: n.
+	self contentsChanged: result.
 	^ result

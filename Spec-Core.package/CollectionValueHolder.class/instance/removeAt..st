@@ -2,6 +2,6 @@ protocol
 removeAt: index
 
 	| result |
-	result := value removeAt: index.
-	self valueChanged: result.
+	result := contents removeAt: index.
+	self contentsChanged: result.
 	^ result

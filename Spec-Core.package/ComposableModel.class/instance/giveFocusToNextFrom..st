@@ -1,7 +1,7 @@
 private-focus
 giveFocusToNextFrom: aModel
+
 	| focus |
-	
 	focus := self focusOrder.
 
 	(focus includes: aModel)

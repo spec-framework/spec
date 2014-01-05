@@ -1,3 +1,3 @@
 accessing
 title
-	^ title value
+	^ title contents

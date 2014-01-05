@@ -1,16 +1,16 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 10/17/2013 11:58",
+		"defaultSpec" : "bvr 6/4/2012 14:51",
 		"title" : "BenjaminVanRyseghem 5/10/2012 13:07" },
 	"instance" : {
 		"addAll:withSpec:" : "IgorStasenko 12/20/2012 14:03",
 		"hFill" : "BenjaminVanRyseghem 5/10/2012 13:05",
-		"initialize" : "CamilloBruni 7/17/2013 22:57",
+		"initialize" : "BenjaminVanRyseghem 6/11/2012 10:31",
 		"initializePresenter" : "BenjaminVanRyseghem 4/26/2013 14:09",
 		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 18:02",
-		"okAction" : "BenjaminVanRyseghem 10/17/2013 16:05",
-		"okAction:" : "BenjaminVanRyseghem 10/17/2013 16:06",
-		"okActionBlock" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"okAction" : "BenjaminVanRyseghem 5/10/2012 13:05",
+		"okAction:" : "BenjaminVanRyseghem 5/10/2012 13:05",
+		"okActionBlock" : "BenjaminVanRyseghem 4/26/2013 14:09",
 		"okButton" : "BenjaminVanRyseghem 5/10/2012 13:05",
 		"registerOkButtonEvents" : "BenjaminVanRyseghem 6/12/2012 18:01",
 		"triggerOkAction" : "BenjaminVanRyseghem 4/26/2013 14:09" } }

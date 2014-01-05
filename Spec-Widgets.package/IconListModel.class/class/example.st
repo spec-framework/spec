@@ -2,6 +2,6 @@ example
 example
 
 	self new
-		icons: [:e | Smalltalk ui icons forwardIcon ];
+		icons: [:e | UITheme current forwardIcon ];
 		items: (1 to: 10) asArray;
 		openWithSpec

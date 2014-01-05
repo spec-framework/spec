@@ -7,6 +7,8 @@ interpretASpec: aPresenter selector: aSelector
 	(self retrieveSpecFrom: aPresenter selector: aSelector)
 		ifNotNil: [ :instance | ^ instance ].
 
+	specForChildren := self retrieveSpecToProvideToChildren.
+
 	index := 2.
 	[ index <= arrayToInterpret size ]
 		whileTrue: [ 

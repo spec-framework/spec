@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-NewInterpreter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NewSpecDefinitionConsumer",
+	"pools" : [
+		 ],
+	"super" : "NewSpecInterpreterConsumer",
+	"type" : "normal" }

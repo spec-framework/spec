@@ -1,4 +1,0 @@
-protocol
-getHeaderHeight
-
-	^ headerHeight value

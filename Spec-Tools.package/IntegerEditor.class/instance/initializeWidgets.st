@@ -12,7 +12,7 @@ initializeWidgets
 	slider 
 		quantum: 1;
 		whenValueChangedDo: [:v | 
-			integer value: v.
+			integer contents: v.
 			text text: v asString ].
 			
 	self focusOrder 

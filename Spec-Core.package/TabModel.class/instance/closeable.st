@@ -1,4 +1,0 @@
-protocol
-closeable
-
-	^ closeable value

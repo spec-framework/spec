@@ -1,4 +1,4 @@
 protocol
 extent
 
-	^  extentHolder value
+	^  extentHolder contents

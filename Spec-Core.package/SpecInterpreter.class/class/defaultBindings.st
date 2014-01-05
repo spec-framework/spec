@@ -1,4 +1,4 @@
-private
+protocol
 defaultBindings
 	
-	^ MorphicAdapterBindings new
+	^ BindingsHolder new

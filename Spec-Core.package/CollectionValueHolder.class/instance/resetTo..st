@@ -1,5 +1,5 @@
 protocol
 resetTo: index
 
-	value resetTo: index.
-	self valueChanged
+	contents resetTo: index.
+	self contentsChanged

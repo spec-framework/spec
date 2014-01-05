@@ -1,4 +1,4 @@
 protocol
 aboutText
 
-	^ aboutText value
+	^ aboutText contents

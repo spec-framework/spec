@@ -1,5 +1,5 @@
 protocol
 replace: aBlock 
 
-	value replace: aBlock .
-	self valueChanged
+	contents replace: aBlock .
+	self contentsChanged

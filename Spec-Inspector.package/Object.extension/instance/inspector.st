@@ -1,3 +1,3 @@
 *Spec-Inspector
 inspector
-	^ Smalltalk tools inspector inspector: self
+	^ Smalltalk tools inspector: self

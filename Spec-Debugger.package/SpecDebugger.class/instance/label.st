@@ -1,4 +1,4 @@
 accessing
 label
 
-	^ labelHolder value
+	^ labelHolder contents

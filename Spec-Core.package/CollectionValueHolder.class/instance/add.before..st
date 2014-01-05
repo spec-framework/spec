@@ -2,6 +2,6 @@ protocol
 add: newObject before: oldObject
 	
 	| result |
-	result := value add: newObject before: oldObject.
-	self valueChanged: newObject.
+	result := contents add: newObject before: oldObject.
+	self contentsChanged: newObject.
 	^ result

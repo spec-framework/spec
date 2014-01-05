@@ -8,9 +8,14 @@ classMenu: menu shifted: shifted from: src to: dest
 	menuSrc := menu copy.
 	src classMenu: menuSrc shifted: shifted.
 
-	menuDual := MenuModel new fromSpec: (PragmaMenuBuilder 
+	menuDual := (PragmaMenuBuilder 
 		pragmaKeyword: 'dualChangeSorterClassListMenu'
-		model: {self. src. dest}) menuSpec.
-
+		model: {self. src. dest}) 
+		menu.
+		
+	menu addAllFrom: (MenuMorph new 
+		addAllMorphs: menuDual submorphs;
+		addAllMorphs: menuSrc submorphs;
+		yourself).
 		
 	^menu	

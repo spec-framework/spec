@@ -1,4 +1,4 @@
 protocol
 askOkToClose: aBoolean
 
-	askOkToClose value: aBoolean
+	askOkToClose contents: aBoolean

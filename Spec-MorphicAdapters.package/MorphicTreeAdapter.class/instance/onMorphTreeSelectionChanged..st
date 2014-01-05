@@ -1,4 +1,11 @@
 spec protocol
-onMorphTreeSelectionChanged: selection
+onMorphTreeSelectionChanged: ann
+	| items |
+	
+	items := (ann selection
+		ifNil: [ #() ]
+		ifNotNil: [:selection | selection selectedNodes ]).
+		
+	items := items collect: [ :each | each nodeModel ].
 
-	self model selectionChanged: selection
+	self model selectedItems: items

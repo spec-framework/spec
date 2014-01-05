@@ -1,4 +1,4 @@
 accessing
 contextClass: anObject
 
-	contextClassHolder value: anObject 
+	contextClassHolder contents: anObject 

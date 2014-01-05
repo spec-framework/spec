@@ -2,4 +2,4 @@ accessing
 selection: aSelection
 
 	selection := aSelection.
-	self valueChanged: selection
+	self changed: #selection

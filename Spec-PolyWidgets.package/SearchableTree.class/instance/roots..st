@@ -1,5 +1,5 @@
 protocol
 roots: aCollection
 
-	roots value: aCollection.	
+	roots contents: aCollection.	
 	tree roots: aCollection

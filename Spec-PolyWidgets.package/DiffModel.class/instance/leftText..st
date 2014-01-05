@@ -1,4 +1,4 @@
 accessing
 leftText: anObject
 
-	leftTextHolder value: anObject 
+	leftTextHolder contents: anObject 

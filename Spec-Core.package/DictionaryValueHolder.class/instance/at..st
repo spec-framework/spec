@@ -1,4 +1,4 @@
 override
 at: anObject
 
-	^ value at: anObject
+	^ contents at: anObject

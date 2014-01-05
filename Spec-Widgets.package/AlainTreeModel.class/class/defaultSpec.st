@@ -8,10 +8,8 @@ defaultSpec
 		#initializeColumsFrom:. #(model).
 		#hResizing:. 	#spaceFill.
 		#vResizing:.	#spaceFill.
-		#autoDeselection:. #(model autoDeselection).
 		#resizerWidth:.	#(model resizerWidth).
 		#columnInset:. #(model columnInset).
-		#iconBlock:.	#(model iconBlock).
 		#rowInset:.		#(model rowInset).
 		#keystrokeActionSelector:. #keyStroke:.
 		#preferedPaneColor:. #(model preferedPaneColor).

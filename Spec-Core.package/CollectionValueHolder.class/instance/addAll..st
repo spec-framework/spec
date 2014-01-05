@@ -2,6 +2,6 @@ protocol
 addAll: aCollection 
 	
 	| result |
-	result := value addAll: aCollection.
-	self valueChanged: aCollection.
+	result := contents addAll: aCollection.
+	self contentsChanged: aCollection.
 	^ result

@@ -1,4 +1,0 @@
-protocol
-oddRowColor
-
-	^ oddRowColor value

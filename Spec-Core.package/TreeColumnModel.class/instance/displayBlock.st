@@ -1,4 +1,0 @@
-protocol
-displayBlock
-
-	^ displayBlock value

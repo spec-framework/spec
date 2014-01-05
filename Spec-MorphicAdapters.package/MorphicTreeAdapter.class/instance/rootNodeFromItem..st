@@ -2,6 +2,9 @@ widget API
 rootNodeFromItem: item
 	| node |
 	
-	node := self model rootNodeFor: item.
-	
+	node := item isTreeNodeModel
+		ifTrue: [ item ]
+		ifFalse: [ self rootNodeHolder cull: item ].
+		
+	node container: self model.
 	^ node buildWithSpec

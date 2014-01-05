@@ -1,0 +1,16 @@
+{
+	"category" : "Spec-Core-Specs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"instance",
+		"bindings",
+		"selector" ],
+	"name" : "AbstractSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

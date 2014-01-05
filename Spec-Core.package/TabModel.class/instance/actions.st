@@ -1,4 +1,0 @@
-protocol
-actions
-
-	^ actions value

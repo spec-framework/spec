@@ -1,3 +1,3 @@
 *Spec-Inspector
 additionalInspectorClasses
-	^ super additionalInspectorClasses, { EyeViewHierarchyInspector. EyeMorphViewer }
+	^ super additionalInspectorClasses, { EyeViewHierarchyExplorerInspector }

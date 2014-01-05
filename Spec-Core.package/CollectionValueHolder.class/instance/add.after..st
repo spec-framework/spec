@@ -2,6 +2,6 @@ protocol
 add: newObject after: oldObject 
 	
 	| result |
-	result := value add: newObject after: oldObject.
-	self valueChanged: newObject.
+	result := contents add: newObject after: oldObject.
+	self contentsChanged: newObject.
 	^ result

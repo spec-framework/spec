@@ -9,6 +9,8 @@ buildWithSpecLayout: aSpec
 			widget := SpecInterpreter private_buildWidgetFor: self withSpec: self defaultSpecSelector.
 			self addModelIn: widget withSpecLayout: aSpec ].
 
-	self ensureExtentFor: widget.
-	
+	self extent ifNotNil: [:ex | 
+		(widget respondsTo: #extent:)
+			ifTrue: [ widget extent: ex ]].
+		
 	^ widget

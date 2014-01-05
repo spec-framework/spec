@@ -2,6 +2,6 @@ protocol
 atAllPut: anObject 
 	
 	| result |
-	result := value atAllPut: anObject.
-	self valueChanged: anObject.
+	result := contents atAllPut: anObject.
+	self contentsChanged: anObject.
 	^ result

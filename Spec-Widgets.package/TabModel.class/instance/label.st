@@ -1,4 +1,0 @@
-morphic
-label
-
-	^ label contents

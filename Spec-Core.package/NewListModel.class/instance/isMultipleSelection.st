@@ -1,4 +1,0 @@
-protocol
-isMultipleSelection
-
-	^ isMultipleSelection value

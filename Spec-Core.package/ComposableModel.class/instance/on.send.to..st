@@ -1,7 +1,7 @@
 protocol-announcements
 on: anAnnouncement send: aSelector to: aTarget
 
-	self announcer
+	self announcer weak
 		on: anAnnouncement 
 		send: aSelector 
 		to: aTarget

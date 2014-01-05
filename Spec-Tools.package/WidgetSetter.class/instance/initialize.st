@@ -11,7 +11,7 @@ initialize
 			apiSetters listItems do: [ :e | e selectorWidth: max ] ].
 	super initialize.
 	
-	self announcer
+	self announcer weak
 		on: WidgetBuilt
 		send: #registerEvents
 		to: self.

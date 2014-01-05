@@ -1,4 +1,0 @@
-protocol
-retrievingBlock
-
-	^ retrievingBlock value

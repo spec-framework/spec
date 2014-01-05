@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Core-Specs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DialogWindowSpec",
+	"pools" : [
+		 ],
+	"super" : "WindowSpec",
+	"type" : "normal" }

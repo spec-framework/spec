@@ -1,4 +1,0 @@
-protocol
-resizable
-
-	^ resizable value

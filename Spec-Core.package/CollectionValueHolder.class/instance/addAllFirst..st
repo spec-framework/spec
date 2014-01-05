@@ -2,6 +2,6 @@ protocol
 addAllFirst: anOrderedCollection
 	
 	| result |
-	result := value addAllFirst: anOrderedCollection.
-	self valueChanged: anOrderedCollection.
+	result := contents addAllFirst: anOrderedCollection.
+	self contentsChanged: anOrderedCollection.
 	^ result

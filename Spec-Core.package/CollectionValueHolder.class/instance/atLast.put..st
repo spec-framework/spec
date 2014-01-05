@@ -2,6 +2,6 @@ protocol
 atLast: indexFromEnd put: obj
 	
 	| result |
-	result := value atLast: indexFromEnd put: obj.
-	self valueChanged: obj.
+	result := contents atLast: indexFromEnd put: obj.
+	self contentsChanged: obj.
 	^ result

@@ -1,4 +1,4 @@
 protocol-events
 title
 
-	^ title value
+	^ title contents

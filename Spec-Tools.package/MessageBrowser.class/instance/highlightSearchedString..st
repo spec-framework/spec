@@ -2,7 +2,7 @@ private
 highlightSearchedString: string
 	
 	| searchedString interval firstIndex |
-	searchedString := searchedStringHolder value.
+	searchedString := searchedStringHolder contents.
 	searchedString ifNil: [ ^ 0 to: 0 ].
 
 	(searchedString includes: $:)

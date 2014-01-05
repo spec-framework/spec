@@ -1,8 +1,9 @@
 initialization
 initializeWidgets
 
-	listModel := self newList.
-	methodModel := self instantiate: MethodBrowser.
+	self instantiateModels: #(
+		listModel ListComposableModel
+		methodModel MethodBrowser ).
 	
 	self focusOrder
 		add: listModel;

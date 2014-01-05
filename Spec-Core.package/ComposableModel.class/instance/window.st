@@ -1,7 +1,7 @@
 accessing
 window
 
-	^ window value
+	^ window contents
 		ifNil: [
 			owner
 				ifNil: [ nil ]

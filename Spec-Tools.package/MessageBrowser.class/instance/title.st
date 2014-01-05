@@ -1,4 +1,4 @@
 private
 title
 		
-	^ titleHolder value , ' [' , listModel listSize printString , ']'
+	^ titleHolder contents , ' [' , listModel listSize printString , ']'

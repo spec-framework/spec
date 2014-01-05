@@ -1,10 +1,18 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/2/2013 19:01" },
+		"defaultSpec" : "BenjaminVanRyseghem 12/3/2013 10:59" },
 	"instance" : {
-		"buildWidget" : "BenjaminVanRyseghem 11/2/2013 19:06",
+		"buildWidget" : "BenjaminVanRyseghem 11/24/2013 13:34",
 		"childrenBlock" : "ChristopheDemarey 11/20/2013 14:40",
 		"container" : "BenjaminVanRyseghem 11/2/2013 18:53",
+		"deselect" : "BenjaminVanRyseghem 11/30/2013 21:36",
+		"hasContentToShow" : "BenjaminVanRyseghem 11/22/2013 15:43",
 		"icon" : "BenjaminVanRyseghem 11/2/2013 18:55",
+		"isExpanded:" : "BenjaminVanRyseghem 11/24/2013 13:39",
 		"item" : "BenjaminVanRyseghem 11/2/2013 18:53",
+		"itemBlock" : "BenjaminVanRyseghem 12/3/2013 10:59",
+		"select" : "BenjaminVanRyseghem 11/30/2013 21:35",
+		"selected" : "BenjaminVanRyseghem 11/24/2013 13:22",
+		"selected:" : "BenjaminVanRyseghem 11/22/2013 13:25",
+		"takeHighlight" : "BenjaminVanRyseghem 11/25/2013 16:29",
 		"updateAccordingTo:" : "BenjaminVanRyseghem 11/21/2013 12:23" } }

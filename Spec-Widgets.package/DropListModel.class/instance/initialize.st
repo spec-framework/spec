@@ -4,7 +4,7 @@ initialize
 
 	super initialize.
 
-	listHolder := OrderedCollection new asValueHolder.
+	listHolder := {} asValueHolder.
 	selectionHolder := SelectionValueHolder new.
 	
 	listHolder whenChangedDo: [ 

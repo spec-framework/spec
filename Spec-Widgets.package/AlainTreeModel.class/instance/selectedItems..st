@@ -3,7 +3,6 @@ selectedItems: aCollection
 	< api: #st getter: #selectedItems registration: #whenSelectedItemsChanged:>
 	"Set the selected item"
 	"In the case of a multiple selection list, it returns the last selected item"
-
-	"treeModel selectNodePath: aCollection."
-	selectionHolder contents: aCollection.
 	
+	selectionHolder contents: aCollection.
+	treeModel selectItems: aCollection

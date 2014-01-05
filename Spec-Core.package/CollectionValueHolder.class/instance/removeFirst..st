@@ -2,6 +2,6 @@ protocol
 removeFirst: n 
 
 	| result |
-	result := value removeFirst: n .
-	self valueChanged: result.
+	result := contents removeFirst: n .
+	self contentsChanged: result.
 	^ result

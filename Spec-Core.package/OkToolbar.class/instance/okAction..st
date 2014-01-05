@@ -1,4 +1,4 @@
 protocol
 okAction: aBlock
 
-	^ okAction value: aBlock
+	^ okAction contents: aBlock

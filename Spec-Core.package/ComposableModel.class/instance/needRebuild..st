@@ -1,4 +1,4 @@
 accessing
 needRebuild: aBoolean
 
-	needRebuild value: aBoolean
+	needRebuild contents: aBoolean

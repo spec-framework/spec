@@ -1,4 +1,0 @@
-protocol
-allowMenuOnNoItem
-
-	^ allowMenuOnNoItem contents

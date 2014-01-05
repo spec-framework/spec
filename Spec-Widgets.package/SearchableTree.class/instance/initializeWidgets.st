@@ -12,7 +12,7 @@ initializeWidgets
 			
 	button 
 		label: '';
-		icon: (Smalltalk ui icons iconNamed: #smallFindIcon);
+		icon: (UITheme current iconNamed: #smallFindIcon);
 		state: false;
 		action: [ inputField accept ].
 			

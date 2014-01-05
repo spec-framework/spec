@@ -1,4 +1,0 @@
-protocol
-deSelectOnReclick
-
-	^ deSelectOnReclick value

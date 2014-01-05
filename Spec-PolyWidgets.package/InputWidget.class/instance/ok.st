@@ -2,4 +2,4 @@ actions
 ok
 
 	input accept.
-	^ okAction value value
+	^ okAction contents value

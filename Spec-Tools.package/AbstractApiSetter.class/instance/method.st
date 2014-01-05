@@ -1,4 +1,4 @@
 accessing
 method
 
-	^ method value
+	^ method contents

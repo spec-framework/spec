@@ -1,4 +1,0 @@
-protocol
-allowToSelect
-
-	^ allowToSelect value

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"canInterpret:atIndex:" : "EstebanLorenzano 5/22/2013 17:04",
+		"collectConsumers" : "EstebanLorenzano 5/24/2013 15:28",
+		"consumerFor:atIndex:" : "EstebanLorenzano 5/22/2013 17:06",
+		"consumerFor:atIndex:ifNone:" : "EstebanLorenzano 5/23/2013 01:11",
+		"consumers" : "EstebanLorenzano 5/24/2013 15:27",
+		"for:" : "EstebanLorenzano 5/23/2013 01:13",
+		"new" : "EstebanLorenzano 5/16/2013 20:51",
+		"priority" : "EstebanLorenzano 5/22/2013 15:17" },
+	"instance" : {
+		"bindingHolder" : "EstebanLorenzano 5/22/2013 18:52",
+		"bindings" : "EstebanLorenzano 5/22/2013 19:04",
+		"element" : "EstebanLorenzano 5/16/2013 20:48",
+		"initialize:" : "EstebanLorenzano 5/16/2013 20:52",
+		"interpretWith:" : "EstebanLorenzano 5/16/2013 20:49",
+		"interpreter" : "EstebanLorenzano 5/17/2013 17:12",
+		"interpreter:" : "EstebanLorenzano 5/17/2013 17:12",
+		"model" : "EstebanLorenzano 5/22/2013 14:47",
+		"receiver" : "EstebanLorenzano 5/22/2013 15:26",
+		"receiver:" : "EstebanLorenzano 5/22/2013 15:25",
+		"selector" : "EstebanLorenzano 5/22/2013 14:30",
+		"spec" : "EstebanLorenzano 5/22/2013 15:39",
+		"spec:" : "EstebanLorenzano 5/22/2013 15:39" } }

@@ -2,14 +2,14 @@ protocol
 openDialogWithSpecLayout: aSpec
 	"Build the widget using the spec name provided as argument and display it into a window"
 
-	(window value notNil and: [ self needRebuild not ])
+	(window contents notNil and: [ self needRebuild not ])
 		ifTrue: [
-			window value rebuildWithSpec: aSpec ]
+			window contents rebuildWithSpec: aSpec ]
 		ifFalse: [
-			window value: (DialogWindowModel new model: self).
-			window value openWithSpecLayout: aSpec.
-			self initializeDialogWindow: window value.
-			window value updateTitle.
+			window contents: (DialogWindowModel new model: self).
+			window contents openWithSpecLayout: aSpec.
+			self initializeDialogWindow: window contents.
+			window contents updateTitle.
 			self takeKeyboardFocus ].
 		
-	^ window value
+	^ window contents

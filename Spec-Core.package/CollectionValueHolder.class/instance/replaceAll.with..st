@@ -1,5 +1,5 @@
 protocol
 replaceAll: oldObject with: newObject 
 
-	value replaceAll: oldObject with: newObject .
-	self valueChanged: oldObject
+	contents replaceAll: oldObject with: newObject .
+	self contentsChanged: oldObject

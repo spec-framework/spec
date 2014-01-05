@@ -1,4 +1,0 @@
-protocol
-rootNodeHolder
-
-	^ rootNodeHolder value

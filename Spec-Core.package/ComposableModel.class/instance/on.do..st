@@ -1,4 +1,6 @@
 protocol-shortcuts
 on: aShortcut do: aBlock
 
-	self bindKeyCombination: aShortcut toAction: aBlock
+	additionalKeyBindings at: aShortcut put: aBlock.
+	
+	self widget ifNotNil:[:w | w on: aShortcut do: aBlock ]

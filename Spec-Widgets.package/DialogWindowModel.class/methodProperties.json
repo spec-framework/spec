@@ -2,7 +2,8 @@
 	"class" : {
 		"defaultSpec" : "BenjaminVanRyseghem 7/10/2012 16:22" },
 	"instance" : {
-		"buildWithSpecLayout:" : "BenjaminVanRyseghem 5/19/2013 16:22",
+		"buildWithSpec:" : "BenjaminVanRyseghem 10/18/2012 15:21",
+		"buildWithSpecLayout:" : "BenjaminVanRyseghem 10/18/2012 15:21",
 		"cancelAction:" : "BenjaminVanRyseghem 7/10/2012 16:25",
 		"cancelled" : "BenjaminVanRyseghem 7/10/2012 16:25",
 		"contentMorph" : "BenjaminVanRyseghem 7/10/2012 16:14",

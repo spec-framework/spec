@@ -1,4 +1,4 @@
 *Spec-Core
 asValueHolder
 
-	^ NewValueHolder value: self
+	^ NewValueHolder contents: self

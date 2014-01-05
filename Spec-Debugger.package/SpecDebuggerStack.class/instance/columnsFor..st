@@ -1,20 +1,10 @@
 printing
-"protocol: printing"
 columnsFor: anEntry
 	"Answer the array of contexts."
-	| method classLocation receiverClass |
-	
-	method := anEntry home method.
-	classLocation := method methodClass.
-	receiverClass := anEntry receiver class.
-	
-	"If the receiver is differen from the implementor, show the original method implementor"
-	classLocation = receiverClass
-		ifTrue: [ classLocation := classLocation name ]
-		ifFalse: [ 
-			classLocation := receiverClass name, '(', classLocation name, ')' ].
-	
-	anEntry isBlockContext
-		ifTrue: [ classLocation := '[...] in ', classLocation ].
-		
-	^ {classLocation. method selector asString}
+
+	| first second index stringRepresentation |
+	stringRepresentation := anEntry printString.
+	index := stringRepresentation findString: '>>'.
+	first := stringRepresentation copyFrom: 1 to: index-1.
+	second := stringRepresentation copyFrom: index+2 to: stringRepresentation size.
+	^ {(self buildClassNameFor: first). second}

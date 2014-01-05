@@ -7,8 +7,8 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"announcer",
-		"lock",
-		"value" ],
+		"contents",
+		"lock" ],
 	"name" : "NewValueHolder",
 	"pools" : [
 		 ],

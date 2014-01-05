@@ -1,6 +1,5 @@
 override
-at: key put: anObject
+at: key put: value
 
-	value at: key put: anObject.
-	self valueChanged: value.
-	^ anObject
+	contents at: key put: value.
+	self contentsChanged: value

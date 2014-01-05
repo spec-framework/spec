@@ -1,3 +1,3 @@
 accessing
 color
-	^ color value
+	^ color contents

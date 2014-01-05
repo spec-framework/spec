@@ -25,10 +25,7 @@
 		"displayBlock",
 		"rootNodeHolder",
 		"columns",
-		"treeUpdated",
-		"iconBlock",
-		"autoDeselection",
-		"allowMenuOnNoItem" ],
+		"treeUpdated" ],
 	"name" : "AlainTreeModel",
 	"pools" : [
 		 ],

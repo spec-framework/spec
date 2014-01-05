@@ -1,4 +1,4 @@
 protocol-focus
 keyStrokesForNextFocus: aCollection
 
-	keyStrokesForNextFocusHolder value: aCollection
+	keyStrokesForNextFocusHolder contents: aCollection

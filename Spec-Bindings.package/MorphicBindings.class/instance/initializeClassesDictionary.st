@@ -12,9 +12,9 @@ initializeClassesDictionary
 		at: #TextField 			put: #PluggableTextFieldMorph;
 		at: #Label 				put: #LabelMorph;
 		at: #MultiColumnList 	put: #PluggableMultiColumnListMorph;
-		at: #Tree				put: #PluggableTreeMorph;
+		at: #Tree				put: #MorphTreeMorph;
 		at: #Slider 				put: #PluggableSliderMorph;
 		at: #FrameLayout		put: #LayoutFrame;
-		at: #Window 			put: #StandardWindow;
-		at: #DialogWindow 		put: #SpecDialogWindow;
+		at: #Window 			put: #SpecWindow;
+		at: #DialogWindow 	put: #SpecDialogWindow;
 		yourself

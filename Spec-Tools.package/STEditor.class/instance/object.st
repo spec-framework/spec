@@ -1,4 +1,4 @@
 accessing
 object
 
-	^ object value
+	^ object contents

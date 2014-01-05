@@ -13,7 +13,6 @@ initialize
 	dragTransformationBlock := [ :item :source | item ] asValueHolder.
 	wantDropBlock := [ :draggedItem :event :source | self dropEnabled ] asValueHolder.
 	acceptDropBlock := [ :draggedItem :event :source | ] asValueHolder.
-	transferBlock := [:passenger :source | super transferFor: passenger from: source ] asValueHolder.
 	
 	helpHolder whenChangedDo: [:string | 
 		self widget ifNotNil: [:w | w setBalloonText: string ]].

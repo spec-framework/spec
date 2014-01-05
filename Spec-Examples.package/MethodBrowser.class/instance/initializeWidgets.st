@@ -1,9 +1,10 @@
 initialization
 initializeWidgets
 
-	listModel := self newList.
-	textModel := self newText.
-	toolbarModel := self instantiate: MethodToolbar.
+	self instantiateModels: #(
+		listModel ListComposableModel
+		textModel TextModel
+		toolbarModel MethodToolbar ).
 	
 	self focusOrder
 		add: listModel;

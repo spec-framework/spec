@@ -4,4 +4,4 @@ example
 	| mb |
 	mb := MethodBrowser new.
 	mb openWithSpec.
-	mb methods: Object methods
+	mb methods: Object methodDict values

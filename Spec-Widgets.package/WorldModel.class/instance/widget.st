@@ -1,4 +1,0 @@
-protocol
-widget
-
-	^ widget 

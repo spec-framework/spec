@@ -1,4 +1,4 @@
 accessing
 rightText
 
-	^ rightTextHolder value
+	^ rightTextHolder contents

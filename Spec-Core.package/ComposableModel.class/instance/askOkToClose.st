@@ -1,4 +1,4 @@
 protocol
 askOkToClose
 
-	^ askOkToClose value
+	^ askOkToClose contents

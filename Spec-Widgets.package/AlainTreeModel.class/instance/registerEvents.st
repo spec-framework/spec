@@ -8,11 +8,9 @@ registerEvents
 	childrenBlockHolder whenChangedDo: [ self updateTree ].
 	displayBlock whenChangedDo: [ self updateTree ].
 	rootNodeHolder whenChangedDo: [ self updateTree ].
-	iconBlock whenChangedDo:[ self updateTree ].
-	autoDeselection whenChangedDo: [:boolean | self update: {#autoDeselection:. boolean} ].
 	
 	columns whenChangedDo: [ :col | 
-		self widget ifNotNil: [ :w | w columns: col ] ].
-	
-	self announcer weak
-		on: WidgetBuilt do: [ self selectedItems: selectionHolder contents ].
+		self widget ifNotNil: [ :w | 
+			w 
+				columns: col;
+			 	updateColumnMorphs. ] ]

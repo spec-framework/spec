@@ -2,6 +2,6 @@ protocol
 at: index ifAbsentPut: block
 
 	| result |
-	result := value at: index ifAbsentPut: block.
-	self valueChanged: block value.
+	result := contents at: index ifAbsentPut: block.
+	self contentsChanged: block value.
 	^ result

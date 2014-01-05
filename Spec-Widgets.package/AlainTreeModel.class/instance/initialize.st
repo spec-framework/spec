@@ -10,13 +10,11 @@ initialize
 	rootsHolder := {} asValueHolder.
 	selectionHolder := {} asValueHolder.
 	menuBlockHolder := [] asValueHolder.
-	displayBlock := [:item | item asString ] asValueHolder.
+	displayBlock := [:item | item printString ] asValueHolder.
 	
-	autoDeselection := true asValueHolder.
 	autoMultiSelection := false asValueHolder.
 	columnInset := 5 asValueHolder.
 	doubleClick := [] asValueHolder.
-	allowMenuOnNoItem := false asValueHolder.
 	evenRowColor := Color veryLightGray muchLighter asValueHolder.
 	isCheckList := false asValueHolder.
 	keyStroke := [ :key | ] asValueHolder.
@@ -25,7 +23,6 @@ initialize
 	preferedPaneColor := Color white asValueHolder.
 	resizerWidth := 2 asValueHolder.
 	rowInset := 2 asValueHolder.
-	iconBlock := [:e | ] asValueHolder.
 	rootNodeHolder := [:item | DefaultSpecTreeNode with: item model: treeModel ] asValueHolder.
 	columns := { MorphTreeColumn new
 		rowMorphGetSelector: [:node | (self wrapItem: node item) asMorph ] } asValueHolder.

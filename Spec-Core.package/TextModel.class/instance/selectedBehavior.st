@@ -1,4 +1,0 @@
-protocol
-selectedBehavior
-
-	^ behaviorHolder value

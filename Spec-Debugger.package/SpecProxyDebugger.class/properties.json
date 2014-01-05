@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SpecProxyDebugger",
+	"pools" : [
+		 ],
+	"super" : "Debugger",
+	"type" : "normal" }

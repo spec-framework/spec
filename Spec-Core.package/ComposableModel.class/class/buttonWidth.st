@@ -1,4 +1,0 @@
-defaults
-buttonWidth
-
-	^ 150

@@ -1,4 +1,0 @@
-protocol
-rowInset
-
-	^ rowInset value

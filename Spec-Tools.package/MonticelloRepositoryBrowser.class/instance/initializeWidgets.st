@@ -2,8 +2,8 @@ initialize
 initializeWidgets
 
 	self instantiateModels: #(
-		repositories  #ListModel
-		workingCopies  #ListModel).
+		repositories  ListComposableModel
+		workingCopies  ListComposableModel).
 		
 	workingCopies sortingBlock: self defaultOrderingBlock.
 	workingCopies displayBlock: [ :item | item description ].

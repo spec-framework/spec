@@ -3,6 +3,7 @@ shortcutText
 	| shortcut platform string |
 	
 	shortcut := self shortcut.
+	shortcut isString ifTrue: [ shortcut := self defaultModifierShortcut ].
 	shortcut ifNil: [ ^ nil ].
 	platform := Smalltalk os platformFamily.
 	shortcut combinationsDo: [ :each | (each platform = Smalltalk os platformFamily) ifTrue: [ shortcut := each ] ].

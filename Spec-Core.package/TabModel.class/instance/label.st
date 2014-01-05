@@ -1,4 +1,0 @@
-protocol
-label
-
-	^ label value

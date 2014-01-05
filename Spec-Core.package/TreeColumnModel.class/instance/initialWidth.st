@@ -1,4 +1,0 @@
-protocol
-initialWidth
-
-	^ initialWidth value

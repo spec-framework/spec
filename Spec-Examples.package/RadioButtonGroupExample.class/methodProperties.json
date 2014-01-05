@@ -1,15 +1,17 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 15:11",
-		"title" : "BenjaminVanRyseghem 2/1/2012 17:51" },
+		"defaultSpec" : "StephaneDucasse 12/21/2012 18:59",
+		"defaultSpec2" : "bvr 6/4/2012 17:27",
+		"title" : "BenjaminVanRyseghem 2/1/2012 17:51",
+		"topSpec" : "bvr 6/4/2012 17:21" },
 	"instance" : {
 		"button1" : "BenjaminVanRyseghem 2/1/2012 17:52",
 		"button2" : "BenjaminVanRyseghem 2/1/2012 17:52",
 		"button3" : "BenjaminVanRyseghem 2/1/2012 17:52",
-		"container" : "BenjaminVanRyseghem 10/1/2013 15:11",
-		"initialize" : "CamilloBruni 7/17/2013 22:57",
+		"container" : "BenjaminVanRyseghem 2/2/2012 00:39",
+		"initialize" : "BenjaminVanRyseghem 6/12/2012 19:30",
 		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 19:29",
-		"initializeWidgets" : "CamilloBruni 9/22/2013 21:36",
+		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 19:29",
 		"instantiateButtons" : "BenjaminVanRyseghem 6/12/2012 19:29",
 		"instantiateMorphs" : "BenjaminVanRyseghem 2/2/2012 01:00",
 		"setActions" : "BenjaminVanRyseghem 2/2/2012 00:50",

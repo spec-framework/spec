@@ -1,4 +1,4 @@
 accessing
 model: anObject
 
-	model value: anObject
+	model contents: anObject

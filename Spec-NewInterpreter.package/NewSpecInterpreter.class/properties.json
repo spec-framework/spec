@@ -1,0 +1,16 @@
+{
+	"category" : "Spec-NewInterpreter",
+	"classinstvars" : [
+		"bindings" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"spec",
+		"model",
+		"bindings" ],
+	"name" : "NewSpecInterpreter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

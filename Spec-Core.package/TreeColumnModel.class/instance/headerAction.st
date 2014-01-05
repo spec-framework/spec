@@ -1,4 +1,0 @@
-protocol
-headerAction
-
-	^ headerAction value

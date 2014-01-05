@@ -1,8 +1,8 @@
 private
 buildWidget
+	"This is done this way to prevent the recursive building of the model"
 
-	widget := super buildWidget.
-	widget model: self container.
-	widget nodeModel: self model.
-	
-	^ widget
+	^ super buildWidget
+		model: self container;
+		nodeModel: self model;
+		yourself

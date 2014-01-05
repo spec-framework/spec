@@ -1,4 +1,0 @@
-protocol
-container
-
-	^ container value

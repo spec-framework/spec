@@ -7,8 +7,8 @@ wrap: item at: index
 		ifPresent: [:cb | ^ cb ].
 
 	checkBox := self instantiate: CheckBoxModel.
-	blockToPerformOnWrappers value value: checkBox.
-	checkBox label: (wrapHolder value cull: item cull: self).
+	blockToPerformOnWrappers contents value: checkBox.
+	checkBox label: (wrapHolder contents cull: item cull: self).
 	
 	checkBox whenActivatedDo: [ 
 		self addPicked: item.

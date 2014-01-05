@@ -4,11 +4,11 @@ initialize
 
 	super initialize.
 
-	max := 100 asValueHolder.
+	max := 10 asValueHolder.
 	min := 0 asValueHolder.
 	quantum := 1 asValueHolder.
-	value := 0 asValueHolder.
-	absoluteValue := 0 asValueHolder.
+	value := 5 asValueHolder.
+	absoluteValue := 0.5 asValueHolder.
 	labelHolder := '' asValueHolder.
 	isChanging := false.
 	
@@ -21,8 +21,7 @@ initialize
 			isChanging := true.
 			self absoluteValue: ((v-self min)/(self max-self min)).
 			self widget ifNotNil: [:w | w == self ifFalse: [ w scaledValue: v ]].
-			isChanging := false ].
-		self changed: #value.].
+			isChanging := false ]].
 	
 	absoluteValue whenChangedDo: [:v | 
 		isChanging ifFalse: [
@@ -31,4 +30,4 @@ initialize
 			self widget ifNotNil: [:w | w == self ifFalse: [ w value: v ]].
 			isChanging := false ]].
 	
-	labelHolder whenChangedDo: [:v | self widget ifNotNil: [:w | w updateLabel ]].
+	labelHolder whenChangedDo: [	self widget ifNotNil: [:w | w updateLabel ]].

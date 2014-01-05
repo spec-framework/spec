@@ -1,4 +1,0 @@
-protocol
-headerLabel
-
-	^ headerLabel value

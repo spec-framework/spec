@@ -1,4 +1,4 @@
 protocol
 method: aMethod
 
-	methodHolder value: aMethod
+	methodHolder contents: aMethod

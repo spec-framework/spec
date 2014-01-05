@@ -1,7 +1,5 @@
 event-handling
-updateInspectorType
-	
-	
+updateInspectorType.
 	self inspectorType
 		ifNotNil: [ :inspectorClass | 
 			self inspectorChoice selectedItem = inspectorClass

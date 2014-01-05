@@ -1,4 +1,0 @@
-protocol
-resizerWidth
-
-	^ resizerWidth value

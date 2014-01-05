@@ -1,4 +1,4 @@
 accessing
 integer: aBlock
 
-	integer value: aBlock 
+	integer contents: aBlock 

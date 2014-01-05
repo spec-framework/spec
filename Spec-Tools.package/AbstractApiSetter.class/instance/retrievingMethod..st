@@ -1,4 +1,4 @@
 accessing
 retrievingMethod: anObject
 
-	retrievingMethod value: anObject
+	retrievingMethod contents: anObject

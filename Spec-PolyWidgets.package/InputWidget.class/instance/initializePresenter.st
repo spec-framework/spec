@@ -3,6 +3,6 @@ initializePresenter
 
 	input whenTextIsAccepted: [:text |
 		self ok == false
-			ifFalse: [ value value: text ] ].
+			ifFalse: [ value contents: text ] ].
 		
 	title whenChangedDo: [ self updateTitle ]

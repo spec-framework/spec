@@ -13,7 +13,9 @@ defaultSpec
 		send: #quantum: withArguments: #(#(model quantum));
 		send: #borderWidth: withArguments: #(#(model borderWidth));
 		send: #borderColor: withArguments: #(#(model borderColor));
-		send:#setBalloonText: withArguments:	#(#(model help));
+		send: #setBalloonText: withArguments:	#(#(model help));
+		send: #dragEnabled: withArguments: #(#(model dragEnabled));
+		send: #dropEnabled: withArguments: #(#(model dropEnabled));
 		send: #vSpaceFill;
 		send: #hSpaceFill;
 		yourself

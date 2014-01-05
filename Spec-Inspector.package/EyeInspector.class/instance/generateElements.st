@@ -7,7 +7,6 @@ generateElements
 	elements := OrderedCollection new.
 
 	self addSelf: elements.
-	self addClass: elements.
 	self addAllInstVars: elements.
 	self addSpecialFields: elements.
 	self addInstancesVariable: elements.

@@ -1,4 +1,4 @@
 protocol
 topologicSort
 	
-	^ topologicSortHolder value
+	^ topologicSortHolder contents

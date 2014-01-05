@@ -1,4 +1,4 @@
 protocol
 extent: aPoint
 
-	^  extentHolder value: aPoint
+	^  extentHolder contents: aPoint

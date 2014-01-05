@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"counter" : "BenjaminVanRyseghem 7/13/2012 03:17",
+		"counter:" : "BenjaminVanRyseghem 7/13/2012 03:18",
+		"new" : "BenjaminVanRyseghem 7/13/2012 03:17" },
+	"instance" : {
+		"addAsSubSpecTo:" : "BenjaminVanRyseghem 6/6/2012 18:40",
+		"defaultReceiver" : "BenjaminVanRyseghem 4/24/2012 01:40",
+		"defaultReceiver:" : "BenjaminVanRyseghem 4/24/2012 01:40",
+		"defaultReceiver:model:selector:" : "ClementBera 5/3/2013 12:51",
+		"initializeInstance" : "BenjaminVanRyseghem 4/24/2012 01:41",
+		"isBasic" : "BenjaminVanRyseghem 4/2/2013 19:36" } }

@@ -2,4 +2,4 @@ private
 addPicked: item
 
 	pickedItemsHolder add: item.
-	pickedItemsHolder valueChanged: true to: item.
+	pickedItemsHolder contentsChanged: true to: item.

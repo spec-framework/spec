@@ -2,6 +2,6 @@ protocol
 addAllFirstUnlessAlreadyPresent: anOrderedCollection
 	
 	| result |
-	result := value addAllFirstUnlessAlreadyPresent: anOrderedCollection.
-	self valueChanged: anOrderedCollection.
+	result := contents addAllFirstUnlessAlreadyPresent: anOrderedCollection.
+	self contentsChanged: anOrderedCollection.
 	^ result

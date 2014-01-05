@@ -1,5 +1,5 @@
 private
 sendersMethod
 
-	methodHolder value
+	methodHolder contents
 		ifNotNil: [:aMethod | self model browseSendersOfMessagesFrom: aMethod selector ]

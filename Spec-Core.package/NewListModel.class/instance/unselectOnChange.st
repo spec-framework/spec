@@ -1,4 +1,0 @@
-protocol
-unselectOnChange
-
-	^ unselectOnChange value

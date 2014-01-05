@@ -5,6 +5,7 @@ initialize
 	model := AbstractTool new.
 	maxClassSize = nil.
 	searchedStringHolder := '' asValueHolder.
+	titleHolder := super title asValueHolder.
 	topologicSortHolder := true asValueHolder.
 
 	super initialize.
@@ -12,7 +13,8 @@ initialize
 	self windowIcon: self taskbarIcon.
 	self registerToAnnouncements.
 
-	self announcer
+	self announcer weak
 		when: WidgetBuilt 
-		send: #buildUpdateTitle
-		to: self
+		do: [ 
+			self updateTitle.
+			textModel text: textModel getText. ]

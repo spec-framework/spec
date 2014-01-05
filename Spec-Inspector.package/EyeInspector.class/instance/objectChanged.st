@@ -4,6 +4,6 @@ objectChanged
 	
 	self updateList.
 	
-	self text doItReceiver: self object. 
-	self description doItReceiver: self object.
+	text doItReceiver: self object. 
+	description doItReceiver: self object.
 	

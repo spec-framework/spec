@@ -1,4 +1,4 @@
 accessing
 object: aBlock
 
-	object value: aBlock 
+	object contents: aBlock 

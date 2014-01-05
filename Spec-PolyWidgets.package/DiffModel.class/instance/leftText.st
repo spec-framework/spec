@@ -1,4 +1,4 @@
 accessing
 leftText
 
-	^ leftTextHolder value
+	^ leftTextHolder contents

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAsSubSpecTo:" : "BenjaminVanRyseghem 6/6/2012 18:39",
+		"bindings" : "BenjaminVanRyseghem 4/24/2012 00:51",
+		"bindings:" : "BenjaminVanRyseghem 4/24/2012 00:51",
+		"classSymbol" : "BenjaminVanRyseghem 4/24/2012 01:22",
+		"defaultColor" : "CamilloBruni 5/2/2013 00:02",
+		"defaultReceiver" : "BenjaminVanRyseghem 4/24/2012 10:47",
+		"initialize" : "BenjaminVanRyseghem 4/24/2012 10:47",
+		"initializeInstance" : "ClementBera 5/3/2013 12:35",
+		"instance" : "BenjaminVanRyseghem 4/24/2012 01:19",
+		"instance:" : "BenjaminVanRyseghem 4/24/2012 02:24",
+		"isBasic" : "BenjaminVanRyseghem 4/2/2013 19:35",
+		"isRedrawable" : "BenjaminVanRyseghem 4/2/2013 17:19",
+		"model:" : "BenjaminVanRyseghem 7/13/2012 03:14",
+		"removeSubWidgets" : "ClementBera 5/3/2013 12:37",
+		"selector" : "ClementBera 5/3/2013 12:30",
+		"selector:" : "ClementBera 5/3/2013 12:53",
+		"subSpecs" : "BenjaminVanRyseghem 6/6/2012 20:42" } }

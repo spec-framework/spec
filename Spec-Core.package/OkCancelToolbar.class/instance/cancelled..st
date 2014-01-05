@@ -1,4 +1,4 @@
 protocol
 cancelled: aBoolean
 
-	cancelled value: aBoolean
+	cancelled contents: aBoolean

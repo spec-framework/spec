@@ -2,7 +2,7 @@ specs
 defaultSpec
 
 	^ {
-		#ContainerModel.
+		#ComposableSpec.
 			#add: . {{#model . #workingCopies} . 
 					#layout: . #(FrameLayout
 									rightFraction: 0.5)} . 

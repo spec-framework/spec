@@ -1,4 +1,0 @@
-morphic
-autoDeselection
-
-	^ autoDeselection contents

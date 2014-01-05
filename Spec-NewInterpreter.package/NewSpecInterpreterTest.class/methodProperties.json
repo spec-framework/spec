@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"runCase" : "EstebanLorenzano 6/20/2013 18:14",
+		"setUp" : "EstebanLorenzano 5/17/2013 18:08",
+		"testBuildWidgetForWithSpec" : "EstebanLorenzano 5/22/2013 14:44",
+		"testBuildWidgetWithBindings" : "EstebanLorenzano 5/24/2013 11:24",
+		"testConsumerForArray" : "EstebanLorenzano 5/22/2013 17:10",
+		"testConsumerForDefinition" : "EstebanLorenzano 5/26/2013 10:34",
+		"testConsumerForLiteral" : "EstebanLorenzano 5/22/2013 17:10",
+		"testConsumerForMethod" : "EstebanLorenzano 5/22/2013 17:12",
+		"testConsumerForModel" : "EstebanLorenzano 5/26/2013 10:33",
+		"testDynamicBuild" : "EstebanLorenzano 5/22/2013 17:41",
+		"testInterpretASpecModelMorphAssociation" : "EstebanLorenzano 5/22/2013 15:50",
+		"testInterpretClass" : "EstebanLorenzano 5/22/2013 17:20",
+		"testInterpretManyMethodsWithLiteral" : "EstebanLorenzano 5/22/2013 15:00",
+		"testInterpretMessageBrowserSpec" : "EstebanLorenzano 6/20/2013 18:12",
+		"testInterpretMethodWithLiteral" : "EstebanLorenzano 5/22/2013 15:00" } }

@@ -1,4 +1,4 @@
 protocol
 cancelAction: aBlock
 
-	^ cancelAction value: aBlock
+	^ cancelAction contents: aBlock

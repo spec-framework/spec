@@ -1,4 +1,0 @@
-protocol
-handlesDoubleClick
-
-	^ handlesDoubleClick value

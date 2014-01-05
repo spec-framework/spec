@@ -14,8 +14,7 @@
 		"dropEnabled",
 		"dragTransformationBlock",
 		"wantDropBlock",
-		"acceptDropBlock",
-		"transferBlock" ],
+		"acceptDropBlock" ],
 	"name" : "AbstractBasicWidget",
 	"pools" : [
 		 ],

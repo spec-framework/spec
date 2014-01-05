@@ -6,8 +6,9 @@ retrieveSpecFrom: aPresenter selector: aSelector
 			spec := self model spec.
 			self model needRebuild: true.
 			spec isRedrawable
-				ifTrue: [ spec removeSubWidgets ]
-				ifFalse: [ ^ spec instance ] ]
+				ifTrue: [ spec removeSubWidgets ].
+			spec isBasic
+				ifTrue: [ ^ spec instance ] ]
 		ifFalse: [ spec := self computeSpecFrom: arrayToInterpret first selector: aSelector ].
 	
 	aSelector

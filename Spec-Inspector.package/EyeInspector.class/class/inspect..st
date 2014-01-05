@@ -1,4 +1,4 @@
 inspecting
 inspect: anObject 
-	InspectorNavigator openInspector: (self inspector: anObject).
+	InspectorWrapper openInspector: (self inspector: anObject).
 	^ anObject

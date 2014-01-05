@@ -1,4 +1,0 @@
-protocol
-autoMultiSelection
-
-	^ autoMultiSelection value

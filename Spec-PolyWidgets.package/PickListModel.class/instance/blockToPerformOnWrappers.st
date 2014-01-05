@@ -1,4 +1,4 @@
 accessing
 blockToPerformOnWrappers
 
-	^ blockToPerformOnWrappers value
+	^ blockToPerformOnWrappers contents

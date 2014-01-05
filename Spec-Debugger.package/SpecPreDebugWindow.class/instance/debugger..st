@@ -1,4 +1,4 @@
 accessing
 debugger: anOnject
 
-	debugger value: anOnject
+	debugger contents: anOnject

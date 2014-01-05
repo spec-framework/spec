@@ -1,7 +1,7 @@
 initialization
 updateColor
-
 	| newColor |
+	
 	newColor := Color r: r value g: g value b: b value range: 256.
 	newColor := newColor alpha: (a value) / 256.
 	r color: (Color r: r value g: 0 b: 0 range: 256).

@@ -1,4 +1,4 @@
 initialize
 showOptions
 
-	^ showOptions value
+	^ showOptions contents

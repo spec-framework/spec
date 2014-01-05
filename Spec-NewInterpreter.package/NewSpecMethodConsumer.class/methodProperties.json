@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"canInterpret:atIndex:" : "EstebanLorenzano 5/22/2013 17:06",
+		"priority" : "EstebanLorenzano 5/22/2013 15:30" },
+	"instance" : {
+		"interpretArgument:" : "EstebanLorenzano 6/20/2013 17:31",
+		"interpretSelector:withStream:" : "EstebanLorenzano 6/20/2013 18:03",
+		"interpretWith:" : "EstebanLorenzano 6/20/2013 15:58",
+		"resolveElement" : "EstebanLorenzano 5/24/2013 14:03" } }

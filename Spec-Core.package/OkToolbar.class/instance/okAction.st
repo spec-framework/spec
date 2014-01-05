@@ -1,4 +1,4 @@
 protocol
 okAction
 
-	^ okAction value
+	^ okAction contents

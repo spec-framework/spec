@@ -1,4 +1,4 @@
 accessing
 textConverter
 	
-	^ textConverterHolder value
+	^ textConverterHolder contents

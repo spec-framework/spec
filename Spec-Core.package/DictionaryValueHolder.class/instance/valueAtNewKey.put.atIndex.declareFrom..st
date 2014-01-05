@@ -1,5 +1,5 @@
 protocol
 valueAtNewKey: aKey put: anObject atIndex: index declareFrom: aDictionary 
 	
-	value valueAtNewKey: aKey put: anObject atIndex: index declareFrom: aDictionary.
-	self valueChanged.
+	contents valueAtNewKey: aKey put: anObject atIndex: index declareFrom: aDictionary.
+	self contentsChanged.

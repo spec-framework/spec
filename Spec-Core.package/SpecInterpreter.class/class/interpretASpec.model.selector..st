@@ -1,9 +1,8 @@
 protocol
-interpretASpec: aPresenter model: aModel selector: aSelector
-	| result |
+interpretASpec: aSpec model: aModel selector: aSelector
 	
-	 [ result :=  self 
-				private_interpretASpec: aPresenter
-				model: aModel
-				selector: aSelector ] ensure: [ self hardResetBindings ].
-	^ result
+	^ self
+		interpretASpec: aSpec
+		model: aModel
+		superSpec: NullObjectSpec new
+		selector: aSelector

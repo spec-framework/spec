@@ -1,4 +1,0 @@
-protocol
-text
-
-	^ self getText

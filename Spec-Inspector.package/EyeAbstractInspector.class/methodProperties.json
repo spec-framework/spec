@@ -6,15 +6,11 @@
 		"taskbarIcon" : "CamilloBruni 9/20/2013 20:10" },
 	"instance" : {
 		"close" : "CamilloBruni 9/20/2013 20:39",
-		"diveInto:" : "CamilloBruni 9/21/2013 16:31",
 		"initialize" : "CamilloBruni 9/20/2013 18:30",
 		"initializePresenter" : "CamilloBruni 9/20/2013 18:30",
-		"initializeWidgets" : "CamilloBruni 9/21/2013 14:35",
 		"inspect:" : "CamilloBruni 9/20/2013 19:24",
 		"object" : "CamilloBruni 9/20/2013 18:25",
 		"object:" : "CamilloBruni 9/20/2013 18:25",
 		"objectChanged" : "CamilloBruni 9/20/2013 18:25",
 		"ownerChanged" : "CamilloBruni 9/20/2013 20:41",
-		"title" : "CamilloBruni 9/20/2013 22:47",
-		"updateTime" : "ClementBera 9/26/2013 17:38",
-		"variants" : "CamilloBruni 9/21/2013 16:08" } }
+		"variants" : "CamilloBruni 9/20/2013 21:37" } }

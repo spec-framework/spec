@@ -1,4 +1,4 @@
 protocol
 title: aString
 
-	titleHolder value: aString.
+	titleHolder contents: aString.

@@ -1,5 +1,5 @@
 private
 versionMethod
 
-	methodHolder value
+	methodHolder contents
 		ifNotNil: [:aMethod | self model browseVersionsFrom: aMethod ]

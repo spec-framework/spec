@@ -3,4 +3,4 @@ internalResetSelection
 
 	selectionHolder reset.
 	self getList isEmpty not
-		ifTrue: [ self silentlySetSelectedIndex: 1 ]
+		ifTrue: [ self setSelectedIndex: 1 ]

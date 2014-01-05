@@ -1,4 +1,4 @@
 protocol
 aboutText: aString
 
-	aboutText value: aString
+	aboutText contents: aString

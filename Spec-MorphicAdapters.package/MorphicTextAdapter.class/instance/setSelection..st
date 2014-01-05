@@ -1,4 +1,4 @@
-spec protocol
-setSelection: aSelection
+widget API
+setSelection: interval
 
-	self model setSelection: aSelection
+	self model setSelection: interval

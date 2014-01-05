@@ -1,8 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:31" },
+		"defaultSpec" : "BenjaminVanRyseghem 11/27/2013 14:59" },
 	"instance" : {
+		"accept" : "BenjaminVanRyseghem 11/23/2013 23:20",
 		"accept:notifying:" : "BenjaminVanRyseghem 9/28/2013 21:16",
+		"askBeforeDiscardingEdits" : "BenjaminVanRyseghem 11/27/2013 14:58",
+		"askBeforeDiscardingEdits:" : "BenjaminVanRyseghem 11/27/2013 14:58",
+		"autoAccept" : "BenjaminVanRyseghem 11/27/2013 14:30",
 		"behavior" : "BenjaminVanRyseghem 9/28/2013 21:23",
 		"classOrMetaClass:" : "BenjaminVanRyseghem 9/28/2013 21:30",
 		"clearUserEditFlag" : "BenjaminVanRyseghem 9/28/2013 21:21",
@@ -19,9 +23,11 @@
 		"readSelection" : "BenjaminVanRyseghem 9/28/2013 21:18",
 		"receiverClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
 		"scrollValueChanged:" : "BenjaminVanRyseghem 10/1/2013 13:27",
+		"selectAll" : "BenjaminVanRyseghem 11/24/2013 15:56",
 		"selectedBehavior" : "BenjaminVanRyseghem 9/28/2013 21:18",
 		"selectedClassOrMetaClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
 		"setScrollValue:" : "BenjaminVanRyseghem 10/1/2013 13:29",
-		"setSelection:" : "BenjaminVanRyseghem 9/28/2013 22:24",
+		"setSelection:" : "BenjaminVanRyseghem 11/18/2013 12:31",
 		"setSelectionFromModel:" : "BenjaminVanRyseghem 9/28/2013 22:36",
-		"shoutAboutToStyle:" : "BenjaminVanRyseghem 9/28/2013 21:19" } }
+		"shoutAboutToStyle:" : "BenjaminVanRyseghem 9/28/2013 21:19",
+		"wantsVisualFeedback" : "BenjaminVanRyseghem 11/27/2013 14:54" } }

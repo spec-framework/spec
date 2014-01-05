@@ -1,6 +1,7 @@
 private
 buildLabel: text withIcon: icon
 	
-	^ IconicListItem 
-		text: text 
-		icon: icon
+	^ IconicListItem new
+		morph:	text asMorph;
+		icon: (AlphaImageMorph new image: icon);
+		yourself

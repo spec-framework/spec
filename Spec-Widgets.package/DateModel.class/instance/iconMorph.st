@@ -1,4 +1,4 @@
 private
 iconMorph
 
-	^ ImageMorph new form: Smalltalk ui icons calendarIcon.
+	^ ImageMorph new image: ThemeIcons calendarIcon.

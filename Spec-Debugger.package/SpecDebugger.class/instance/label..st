@@ -1,4 +1,4 @@
 accessing
 label: aString
 
-	labelHolder value: aString
+	labelHolder contents: aString

@@ -1,4 +1,4 @@
-accessing
-bindings: anAdapterBinding
+protocol
+bindings: aBinding
 
-	bindings := anAdapterBinding
+	self bindings bindings: aBinding

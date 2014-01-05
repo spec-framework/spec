@@ -1,4 +1,4 @@
 accessing
 retrievingMethod
 
-	^ retrievingMethod value
+	^ retrievingMethod contents

@@ -1,9 +1,0 @@
-initialize
-initialize
-	"Initialization code for TabManagerModel"
-
-	super initialize.
-
-	tabs := OrderedCollection new asValueHolder.
-	
-	tabs whenChangedDo: [ :new | self widget ifNotNil: [ :w | w tabs: new ] ].

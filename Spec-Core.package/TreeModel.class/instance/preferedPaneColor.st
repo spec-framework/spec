@@ -1,4 +1,0 @@
-protocol
-preferedPaneColor
-
-	^ preferedPaneColor value

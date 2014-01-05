@@ -12,7 +12,7 @@
 		"hasBindingOf:" : "BenjaminVanRyseghem 2/28/2012 14:20",
 		"hasBindingThatBeginsWith:" : "BenjaminVanRyseghem 2/28/2012 14:21",
 		"initialExtent" : "BenjaminVanRyseghem 2/28/2012 03:38",
-		"initialize" : "CamilloBruni 7/17/2013 22:55",
+		"initialize" : "StephaneDucasse 8/4/2013 16:58",
 		"initializeBindingsFrom:" : "BenjaminVanRyseghem 10/18/2012 14:42",
 		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 18:57",
 		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 19:07",
@@ -26,4 +26,5 @@
 		"registerTextEvents" : "BenjaminVanRyseghem 6/11/2012 11:46",
 		"removeButton" : "BenjaminVanRyseghem 2/28/2012 20:32",
 		"removeInstVar" : "BenjaminVanRyseghem 3/30/2012 17:10",
-		"text" : "BenjaminVanRyseghem 2/28/2012 02:02" } }
+		"text" : "BenjaminVanRyseghem 2/28/2012 02:02",
+		"widgetBuilt" : "StephaneDucasse 8/4/2013 16:57" } }

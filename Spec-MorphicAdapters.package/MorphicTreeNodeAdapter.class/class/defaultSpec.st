@@ -3,6 +3,6 @@ defaultSpec
 	<spec:#default>
 	
 	^ #(SpecTreeNodeModel
-		setItem:#(model item)
+		setItemFromBlock:#(model itemBlock)
 		icon: #(model icon)
 		setChildren: #(model childrenBlock))

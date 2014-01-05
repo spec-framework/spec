@@ -1,4 +1,4 @@
 override
 size 
 
-	^ value size
+	^ contents size

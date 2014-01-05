@@ -1,4 +1,4 @@
 accessing
 integer
 
-	^ integer value
+	^ integer contents

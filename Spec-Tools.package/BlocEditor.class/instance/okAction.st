@@ -2,4 +2,4 @@ initialization
 okAction
 
 	text accept.
-	block value: (Smalltalk evaluate: (String streamContents: [:s | s << '[' << text getText <<']'])).
+	block contents: (Smalltalk evaluate: (String streamContents: [:s | s << '[' << text getText <<']'])).

@@ -1,4 +1,0 @@
-procotol
-icon
-
-	^ icon value

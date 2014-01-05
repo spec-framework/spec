@@ -1,9 +1,9 @@
-initialization
+accessing
 initialize
 
 	super initialize.
 	index := 0 asValueHolder.
 	selection := nil asValueHolder.
 	
-	index whenChangedSend: #valueChanged to: self.
-	selection whenChangedSend: #valueChanged to: self.
+	index whenChangedSend: #contentsChanged to: self.
+	selection whenChangedSend: #contentsChanged to: self.

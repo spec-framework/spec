@@ -1,9 +1,10 @@
 initialization
 initializeWidgets 
 
-	button1 := self newCheckBox.
-	button2 := self newCheckBox.
-	button3 := self newCheckBox.
+	self instantiateModels: #(
+		button1 CheckBoxModel
+		button2 CheckBoxModel
+		button3 CheckBoxModel ).
 	
 	button1 label: 'Button 1'.
 	button2 label: 'Button 2'.

@@ -1,11 +1,8 @@
 morphic
 accept: aText notifying: aNotifyier
-	| accept |
-	
-	accept := actionToPerformHolder contents cull: aText cull: aNotifyier.
-	accept == false ifTrue: [ ^ self ].
-	
+
 	textHolder contents: aText.
+	actionToPerformHolder contents cull: aText cull: aNotifyier.
 	
 	"Dummy changed to raise an announcement"
 	actionPerformedHolder contents: aText.

@@ -1,4 +1,4 @@
 accessing
 debugAction: aDebugAction
 
-	debugActionHolder value: aDebugAction
+	debugActionHolder contents: aDebugAction

@@ -1,4 +1,0 @@
-protocol
-evenRowColor
-
-	^ evenRowColor value

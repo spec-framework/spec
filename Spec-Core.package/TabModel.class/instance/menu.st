@@ -1,4 +1,0 @@
-protocol
-menu
-
-	^ menu value

@@ -1,4 +1,0 @@
-protocol
-isCheckList
-
-	^ isCheckList value

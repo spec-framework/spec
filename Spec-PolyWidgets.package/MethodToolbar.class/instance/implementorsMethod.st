@@ -1,5 +1,5 @@
 private
 implementorsMethod
 
-	methodHolder value
+	methodHolder contents
 		ifNotNil: [:aMethod | self model browseMessagesFrom: aMethod selector ]

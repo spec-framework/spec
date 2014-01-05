@@ -1,4 +1,4 @@
 protocol
 displayBlock: aBlock
 
-	wrapHolder value: aBlock
+	wrapHolder contents: aBlock

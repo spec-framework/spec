@@ -2,6 +2,6 @@ protocol
 atAll: indexArray putAll: valueArray
 	
 	| result |
-	result := value atAll: indexArray putAll: valueArray.
-	self valueChanged: valueArray.
+	result := contents atAll: indexArray putAll: valueArray.
+	self contentsChanged: valueArray.
 	^ result

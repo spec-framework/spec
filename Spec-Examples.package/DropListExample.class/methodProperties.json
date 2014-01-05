@@ -1,13 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:47",
+		"defaultSpec" : "BenjaminVanRyseghem 1/15/2013 13:30",
 		"title" : "BenjaminVanRyseghem 2/5/2012 17:17",
-		"topSpec" : "BenjaminVanRyseghem 10/1/2013 15:05" },
+		"topSpec" : "bvr 6/4/2012 17:19" },
 	"instance" : {
-		"container" : "BenjaminVanRyseghem 10/1/2013 15:03",
-		"heterogeneousDropList" : "SeanDeNigris 4/17/2013 22:15",
-		"initialize" : "CamilloBruni 7/17/2013 22:55",
-		"initializeWidgets" : "BenjaminVanRyseghem 11/23/2013 13:11",
+		"container" : "BenjaminVanRyseghem 2/2/2012 15:20",
+		"dropList" : "BenjaminVanRyseghem 2/2/2012 15:36",
+		"initialize" : "BenjaminVanRyseghem 6/12/2012 19:25",
+		"initializeWidgets" : "SeanDeNigris 4/15/2013 21:31",
 		"instantiateMorphs" : "BenjaminVanRyseghem 2/2/2012 15:20",
-		"setFocus" : "BenjaminVanRyseghem 5/24/2013 19:24",
-		"uniformDropList" : "SeanDeNigris 4/17/2013 22:24" } }
+		"setFocus" : "BenjaminVanRyseghem 2/2/2012 15:26" } }

@@ -1,4 +1,0 @@
-protocol
-columnInset
-
-	^ columnInset value

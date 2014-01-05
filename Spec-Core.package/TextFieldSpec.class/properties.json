@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Core-Specs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TextFieldSpec",
+	"pools" : [
+		 ],
+	"super" : "AbstractSpec",
+	"type" : "normal" }

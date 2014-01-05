@@ -1,4 +1,4 @@
 accessing
 block: aBlock
 
-	block value: aBlock 
+	block contents: aBlock 

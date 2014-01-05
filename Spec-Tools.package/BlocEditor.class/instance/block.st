@@ -1,4 +1,4 @@
 accessing
 block
 
-	^ block value
+	^ block contents

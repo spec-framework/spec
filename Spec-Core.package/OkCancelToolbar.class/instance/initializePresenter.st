@@ -4,9 +4,9 @@ initializePresenter
 	super initializePresenter.
 	cancelButton 
 		action: [
-			cancelAction value value == false
+			cancelAction contents value == false
 					ifFalse: [
-						cancelled value: true.
+						cancelled contents: true.
 						owner 
 							ifNil: [ self delete ]
 							ifNotNil: [ owner delete ]]].

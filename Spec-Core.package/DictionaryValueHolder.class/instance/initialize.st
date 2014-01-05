@@ -1,6 +1,6 @@
 initialization
 initialize
+	"Initialization code for DictionaryValueHolder"
 
 	super initialize.
-	
-	self value: Dictionary new.
+	self contents: Dictionary new.

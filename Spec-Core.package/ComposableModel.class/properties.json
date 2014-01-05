@@ -18,8 +18,7 @@
 		"keyStrokesForPreviousFocusHolder",
 		"windowIcon",
 		"aboutText",
-		"askOkToClose",
-		"titleHolder" ],
+		"askOkToClose" ],
 	"name" : "ComposableModel",
 	"pools" : [
 		 ],

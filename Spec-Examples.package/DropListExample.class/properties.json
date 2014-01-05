@@ -1,17 +1,16 @@
 {
-	"category" : "Spec-Examples-Morphic",
+	"category" : "Spec-Examples-Widgets",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
+		"dropList",
 		"container",
 		"morph1",
 		"morph2",
-		"morph3",
-		"uniformDropList",
-		"heterogeneousDropList" ],
+		"morph3" ],
 	"name" : "DropListExample",
 	"pools" : [
 		 ],

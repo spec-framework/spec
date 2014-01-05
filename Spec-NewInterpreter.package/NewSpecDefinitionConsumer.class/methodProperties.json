@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"canInterpret:atIndex:" : "EstebanLorenzano 5/24/2013 15:32",
+		"priority" : "EstebanLorenzano 5/24/2013 13:50" },
+	"instance" : {
+		"basicResolveSpec" : "EstebanLorenzano 5/22/2013 18:28",
+		"interpretWith:" : "EstebanLorenzano 5/22/2013 18:27",
+		"needRebuild" : "EstebanLorenzano 5/22/2013 18:32",
+		"newRawSpec" : "EstebanLorenzano 5/24/2013 15:19",
+		"refreshedSpec" : "EstebanLorenzano 5/22/2013 18:31",
+		"resolveSpec" : "EstebanLorenzano 5/22/2013 18:29" } }
