@@ -1,4 +1,4 @@
 accessing
 session
 
-	^ sessionHolder contents
+	^ sessionHolder value

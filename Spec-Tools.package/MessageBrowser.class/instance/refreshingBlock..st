@@ -1,4 +1,4 @@
 protocol
 refreshingBlock: aBlock
 
-	refreshingBlockHolder contents: aBlock
+	refreshingBlockHolder value: aBlock

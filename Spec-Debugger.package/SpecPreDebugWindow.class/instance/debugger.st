@@ -1,4 +1,4 @@
 accessing
 debugger
 
-	^ debugger contents
+	^ debugger value

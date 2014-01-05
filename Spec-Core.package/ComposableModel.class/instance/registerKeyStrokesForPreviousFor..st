@@ -4,4 +4,4 @@ registerKeyStrokesForPreviousFor: aWidget
 	aWidget ifNil: [ ^ self ].
 	
 	self eventKeyStrokesForPreviousFocus do: [:each |
-		aWidget on: each do: [ self giveFocusToPreviousFrom: self widget ] ]
+		aWidget bindKeyCombination: each toAction: [ self giveFocusToPreviousFrom: self ] ]

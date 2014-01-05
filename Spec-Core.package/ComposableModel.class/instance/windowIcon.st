@@ -1,4 +1,4 @@
 protocol
 windowIcon
 
-	^ windowIcon contents
+	^ windowIcon value

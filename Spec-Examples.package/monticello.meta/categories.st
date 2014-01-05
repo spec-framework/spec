@@ -1,2 +1,2 @@
-SystemOrganization addCategory: #'Spec-Examples-PolyWidgets'!
-SystemOrganization addCategory: #'Spec-Examples-Widgets'!
+SystemOrganization addCategory: #'Spec-Examples'!
+SystemOrganization addCategory: 'Spec-Examples-Morphic'!

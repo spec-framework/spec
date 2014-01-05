@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 1/15/2013 13:48",
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 15:51",
 		"defaultSpec2" : "bvr 6/4/2012 17:27",
-		"example" : "BenjaminVanRyseghem 1/16/2012 23:18",
+		"example" : "MarcusDenker 5/6/2013 17:11",
 		"title" : "BenjaminVanRyseghem 1/31/2012 13:36" },
 	"instance" : {
 		"acceptBlock:" : "BenjaminVanRyseghem 6/12/2012 19:35",
 		"action" : "BenjaminVanRyseghem 2/4/2012 14:42",
 		"displayBlock:" : "BenjaminVanRyseghem 6/12/2012 19:32",
 		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 19:33",
-		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 19:33",
+		"initializeWidgets" : "CamilloBruni 9/22/2013 21:34",
 		"listModel" : "BenjaminVanRyseghem 12/14/2011 14:51",
 		"methods:" : "BenjaminVanRyseghem 1/31/2012 13:10",
 		"sortingBlock:" : "BenjaminVanRyseghem 6/13/2012 16:24",

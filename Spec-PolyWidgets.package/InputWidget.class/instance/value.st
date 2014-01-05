@@ -1,4 +1,4 @@
 protocol
 value
 
-	^ value contents
+	^ value value

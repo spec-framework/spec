@@ -1,4 +1,4 @@
 protocol
 labelClickable: aBoolean
 
-	labelClickableHolder contents: aBoolean
+	labelClickableHolder value: aBoolean

@@ -1,4 +1,4 @@
 accessing
 container
 
-	^ container
+	^ container asSpecAdapter

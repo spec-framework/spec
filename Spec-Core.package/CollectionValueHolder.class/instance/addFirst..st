@@ -2,6 +2,6 @@ protocol
 addFirst: newObject 
 
 	| result |
-	result := contents addFirst: newObject .
-	self contentsChanged: newObject.
+	result := value addFirst: newObject .
+	self valueChanged: newObject.
 	^ result

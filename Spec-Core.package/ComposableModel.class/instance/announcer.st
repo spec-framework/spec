@@ -1,4 +1,4 @@
 accessing
 announcer
 
-	^ announcer contents
+	^ announcer value

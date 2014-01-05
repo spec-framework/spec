@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/3/2013 23:03",
+		"title" : "SergiReyner 11/3/2013 20:07" },
+	"instance" : {
+		"image" : "SergiReyner 11/3/2013 19:30",
+		"image:" : "SergiReyner 11/3/2013 20:28",
+		"initialize" : "BenjaminVanRyseghem 11/3/2013 23:03",
+		"whenImageChanged:" : "SergiReyner 11/3/2013 20:33" } }

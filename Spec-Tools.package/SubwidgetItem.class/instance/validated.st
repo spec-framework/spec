@@ -1,4 +1,4 @@
 protocol
 validated
 
-	^ validated contents
+	^ validated value

@@ -2,16 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"at:" : "",
+		"at:" : "BenjaminVanRyseghem 10/17/2013 16:48",
 		"at:ifAbsentPut:" : "BenjaminVanRyseghem 6/6/2012 20:29",
-		"at:put:" : "BenjaminVanRyseghem 1/26/2013 01:47",
-		"atNewIndex:put:" : "",
-		"doesNotUnderstand:" : "",
-		"fillFrom:with:" : "",
-		"initialize" : "",
-		"initialize:" : "",
-		"removeAll" : "",
+		"at:put:" : "BenjaminVanRyseghem 10/17/2013 16:57",
+		"atNewIndex:put:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"doesNotUnderstand:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"fillFrom:with:" : "CamilloBruni 11/18/2013 18:11",
+		"initialize" : "BenjaminVanRyseghem 10/17/2013 16:26",
+		"initialize:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"removeAll" : "BenjaminVanRyseghem 10/17/2013 16:48",
 		"removeKey:" : "",
-		"removeKey:ifAbsent:" : "",
-		"size" : "",
-		"valueAtNewKey:put:atIndex:declareFrom:" : "" } }
+		"removeKey:ifAbsent:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"size" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"valueAtNewKey:put:atIndex:declareFrom:" : "BenjaminVanRyseghem 10/17/2013 16:48" } }

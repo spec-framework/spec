@@ -2,6 +2,6 @@ protocol
 removeFirst
 
 	| result |
-	result := contents removeFirst.
-	self contentsChanged: result.
+	result := value removeFirst.
+	self valueChanged: result.
 	^ result

@@ -1,4 +1,0 @@
-initialize
-showOptions
-
-	^ showOptions contents

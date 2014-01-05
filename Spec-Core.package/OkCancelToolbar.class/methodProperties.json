@@ -1,14 +1,17 @@
 {
 	"class" : {
-		"defaultSpec" : "bvr 6/4/2012 14:51",
+		"defaultSpec" : "BenjaminVanRyseghem 10/17/2013 11:58",
 		"title" : "" },
 	"instance" : {
-		"cancelAction" : "",
-		"cancelAction:" : "",
+		"cancel" : "BenjaminVanRyseghem 12/6/2013 18:35",
+		"cancelAction" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"cancelAction:" : "BenjaminVanRyseghem 10/17/2013 16:06",
 		"cancelButton" : "",
-		"cancelled" : "BenjaminVanRyseghem 5/11/2012 18:32",
-		"cancelled:" : "BenjaminVanRyseghem 5/7/2013 18:32",
-		"initialize" : "BenjaminVanRyseghem 6/12/2012 18:03",
-		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 18:03",
+		"cancelled" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"cancelled:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initialize" : "CamilloBruni 7/17/2013 22:57",
+		"initializePresenter" : "BenjaminVanRyseghem 11/27/2013 15:11",
 		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 18:07",
-		"registerCancelButtonEvents" : "BenjaminVanRyseghem 6/12/2012 18:03" } }
+		"performCancelAction" : "BenjaminVanRyseghem 11/27/2013 15:11",
+		"registerCancelButtonEvents" : "BenjaminVanRyseghem 6/12/2012 18:03",
+		"triggerCancelAction" : "BenjaminVanRyseghem 11/27/2013 15:11" } }

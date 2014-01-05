@@ -1,0 +1,22 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"action",
+		"name",
+		"shortcut",
+		"subMenu",
+		"icon",
+		"description",
+		"state",
+		"enabled",
+		"autoRefresh" ],
+	"name" : "MenuItemModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

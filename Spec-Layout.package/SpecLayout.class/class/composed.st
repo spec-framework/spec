@@ -2,5 +2,5 @@ instance creation
 composed
 
 	^self new
-		type: #ComposableSpec;
+		type: #ContainerModel;
 		yourself

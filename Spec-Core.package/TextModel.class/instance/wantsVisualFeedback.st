@@ -1,0 +1,4 @@
+protocol
+wantsVisualFeedback
+
+	^ wantsVisualFeedback value

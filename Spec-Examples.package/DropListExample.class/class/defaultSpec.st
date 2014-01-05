@@ -1,7 +1,7 @@
 specs
 defaultSpec
 
-	^ { #ComposableSpec.
+	^ { #ContainerModel.
 			#add:.	{ self topSpec . #layout: . #(FrameLayout
 													bottomFraction: 0
 													bottomOffset: 30) }.

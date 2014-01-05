@@ -8,10 +8,7 @@
 	"instvars" : [
 		"model",
 		"spec",
-		"superSpec",
-		"bindings",
 		"arrayToInterpret",
-		"specForChildren",
 		"index" ],
 	"name" : "SpecInterpreter",
 	"pools" : [

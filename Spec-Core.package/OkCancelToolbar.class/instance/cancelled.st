@@ -1,4 +1,4 @@
 protocol
 cancelled
 
-	^ cancelled contents
+	^ cancelled value

@@ -14,13 +14,13 @@
 		"currentChangeSet" : "StephaneDucasse 11/2/2012 14:17",
 		"fileOutClass:from:" : "StephaneDucasse 11/2/2012 16:03",
 		"fileOutSelector:from:" : "",
-		"findChangeSetIn:" : "",
+		"findChangeSetIn:" : "AlejandroInfante 11/11/2013 14:56",
 		"forgetSelector:inClass:fromChangeSet:" : "",
 		"removeChangeSet:prompting:" : "",
 		"removeClass:from:" : "",
 		"removePostscriptFrom:" : "",
-		"rename:" : "",
+		"rename:" : "AlejandroInfante 11/11/2013 14:59",
 		"setContentsOfChangeSet:forClass:andSelector:prettyPrint:showDiff:" : "ClementBera 7/26/2013 16:01",
 		"setCurrentChangeSet:" : "StephaneDucasse 11/2/2012 16:37",
 		"submerge:into:" : "",
-		"substractFrom:to:" : "" } }
+		"subtractFrom:to:" : "MartinDias 10/23/2013 14:42" } }

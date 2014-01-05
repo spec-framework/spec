@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:39" },
+	"instance" : {
+		"buildWithSpecLayout:" : "BenjaminVanRyseghem 9/28/2013 23:50",
+		"cancelAction:" : "BenjaminVanRyseghem 9/28/2013 23:49",
+		"cancelled" : "BenjaminVanRyseghem 11/26/2013 22:06",
+		"contents" : "BenjaminVanRyseghem 9/28/2013 23:50",
+		"initialize" : "BenjaminVanRyseghem 12/4/2013 13:13",
+		"okAction:" : "BenjaminVanRyseghem 9/28/2013 23:48",
+		"okButtonEnabled:" : "BenjaminVanRyseghem 9/28/2013 23:46",
+		"toolbar" : "BenjaminVanRyseghem 11/24/2013 15:03",
+		"toolbar:" : "BenjaminVanRyseghem 11/24/2013 15:03",
+		"triggerCancelAction" : "BenjaminVanRyseghem 11/27/2013 15:05",
+		"triggerOkAction" : "BenjaminVanRyseghem 9/28/2013 23:47" } }

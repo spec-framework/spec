@@ -1,4 +1,4 @@
 accessing
 session: aSession
 
-	sessionHolder contents: aSession 
+	sessionHolder value: aSession 

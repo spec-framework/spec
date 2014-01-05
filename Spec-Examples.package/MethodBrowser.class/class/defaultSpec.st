@@ -1,15 +1,10 @@
 specs
 defaultSpec
-
-	^{ #ComposableSpec.
-			#add:. {{#model. #listModel}. #layout:.  #(FrameLayout
-															bottomFraction: 0.5
-															bottomOffset: -15) }.
-			#add:. {{#model. #toolbarModel}. #layout:.  #(FrameLayout
-															topFraction: 0.5
-															bottomFraction: 0.5
-															topOffset: -15
-															bottomOffset: 15) }.															
-			#add:. {{#model. #textModel}. #layout:. #(FrameLayout
-															topFraction: 0.5
-															topOffset: 15). }}
+	<spec>
+	| delta |
+	delta := 15.
+	^ SpecLayout composed 
+			add: #listModel origin: 0@0 corner: 1@0.5 offsetOrigin: 0@0 offsetCorner: 0@(delta negated);
+			add: #toolbarModel origin: 0@0.5 corner: 1@0.5 offsetOrigin: 0@(delta negated) offsetCorner: 0@delta;
+			add: #textModel origin: 0@0.5 corner: 1@1 offsetOrigin: 0@delta offsetCorner: 0@0;
+			yourself

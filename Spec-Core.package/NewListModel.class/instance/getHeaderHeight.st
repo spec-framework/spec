@@ -1,0 +1,4 @@
+protocol
+getHeaderHeight
+
+	^ headerHeight value

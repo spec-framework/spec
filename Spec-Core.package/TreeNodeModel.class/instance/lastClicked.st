@@ -1,0 +1,4 @@
+procotol
+lastClicked
+	
+	^ lastClicked value

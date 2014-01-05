@@ -1,4 +1,4 @@
 announcements
 addDependent: aDependent
 
-	self halt: 'Former API, should be changed'.
+	self error: 'Former API, should be changed'.

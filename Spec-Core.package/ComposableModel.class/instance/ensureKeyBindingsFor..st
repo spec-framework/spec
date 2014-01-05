@@ -4,4 +4,4 @@ ensureKeyBindingsFor: aWidget
 	self registerKeyStrokesForNextFor: aWidget.
 	self registerKeyStrokesForPreviousFor: aWidget.
 	
-	additionalKeyBindings associationsDo: [:association | aWidget on: association key do: association value ]
+	additionalKeyBindings associationsDo: [:association | aWidget bindKeyCombination: association key toAction: association value ]

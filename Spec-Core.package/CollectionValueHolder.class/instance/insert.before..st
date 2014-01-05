@@ -2,6 +2,6 @@ protocol
 insert: anObject before: spot
 
 	| result |
-	result := contents insert: anObject before: spot.
-	self contentsChanged: anObject.
+	result := value insert: anObject before: spot.
+	self valueChanged: anObject.
 	^ result

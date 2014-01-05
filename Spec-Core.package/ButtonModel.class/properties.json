@@ -1,0 +1,20 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"actionHolder",
+		"labelHolder",
+		"stateHolder",
+		"actionPerformedHolder",
+		"askBeforeChangingHolder",
+		"iconHolder",
+		"shortcut" ],
+	"name" : "ButtonModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

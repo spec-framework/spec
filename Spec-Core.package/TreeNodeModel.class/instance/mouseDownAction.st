@@ -1,0 +1,4 @@
+procotol
+mouseDownAction
+
+	^ mouseDownAction value

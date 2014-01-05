@@ -1,0 +1,4 @@
+protocol
+headerLabel
+
+	^ headerLabel value

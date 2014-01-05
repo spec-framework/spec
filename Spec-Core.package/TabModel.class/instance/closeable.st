@@ -1,0 +1,4 @@
+protocol
+closeable
+
+	^ closeable value

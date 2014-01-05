@@ -1,5 +1,5 @@
 protocol
 removeAll
 	
-	contents removeAll.
-	self contentsChanged.
+	value removeAll.
+	self valueChanged.

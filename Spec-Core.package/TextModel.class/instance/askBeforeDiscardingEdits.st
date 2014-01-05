@@ -1,0 +1,4 @@
+protocol
+askBeforeDiscardingEdits
+
+	^ askBeforeDiscardingEdits value

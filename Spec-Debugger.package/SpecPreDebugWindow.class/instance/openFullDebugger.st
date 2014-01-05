@@ -9,4 +9,5 @@ openFullDebugger
 		openWithSpec;
 		updateToolbar;
 		resetAutoRefresh;
+		updateCodeFromContext;
 		label: title

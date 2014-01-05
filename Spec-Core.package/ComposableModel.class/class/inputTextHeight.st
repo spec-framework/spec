@@ -1,0 +1,4 @@
+defaults
+inputTextHeight
+
+	^ 26

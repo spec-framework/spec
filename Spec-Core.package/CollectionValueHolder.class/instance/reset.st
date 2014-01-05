@@ -1,5 +1,5 @@
 protocol
 reset
 
-	contents reset.
-	self contentsChanged
+	value reset.
+	self valueChanged

@@ -1,4 +1,4 @@
 private
 validated: aBoolean
 
-	validated contents: aBoolean
+	validated value: aBoolean

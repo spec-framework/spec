@@ -1,4 +1,4 @@
 protocol
 labelClickable
 	
-	^ labelClickableHolder contents
+	^ labelClickableHolder value

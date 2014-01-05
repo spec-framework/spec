@@ -2,6 +2,6 @@ protocol
 remove: oldObject ifAbsent: absentBlock
 
 	| result |
-	result := contents remove: oldObject ifAbsent: absentBlock.
-	self contentsChanged: oldObject.
+	result := value remove: oldObject ifAbsent: absentBlock.
+	self valueChanged: oldObject.
 	^ result

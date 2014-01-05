@@ -1,6 +1,5 @@
 initialization
 initialize
-	"Initialization code for RadioButtonGroupExample"
 
 	super initialize.
 

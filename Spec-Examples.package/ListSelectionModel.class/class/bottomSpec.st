@@ -1,10 +1,9 @@
 specs
 bottomSpec
 
-	^ {#Panel.
-			#changeTableLayout.
-			#listDirection:.			#rightToLeft.
-			#addMorph:.			{#model.	#textModel1.}.
-			#addMorph:.			{#model.	#textModel2.}.
-			#hResizing:.	#spaceFill.
-			#vResizing:.	#spaceFill.}
+	^ SpecLayout composed
+		newRow: [ :row |
+			row
+				add: #textModel1;
+				add: #textModel2 ];
+		yourself

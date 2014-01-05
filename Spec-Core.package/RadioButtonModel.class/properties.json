@@ -1,0 +1,18 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"actionWhenActivatedHolder",
+		"actionWhenDesactivatedHolder",
+		"stateHolder",
+		"labelClickableHolder",
+		"labelHolder" ],
+	"name" : "RadioButtonModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

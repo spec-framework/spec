@@ -1,0 +1,4 @@
+protocol
+headerFont
+
+	^ headerFont value

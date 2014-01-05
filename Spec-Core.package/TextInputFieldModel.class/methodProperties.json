@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:39",
+		"example" : "BenjaminVanRyseghem 5/14/2013 17:06" },
+	"instance" : {
+		"accept:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"acceptOnCR" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"acceptOnCR:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"actionToPerformHolder" : "",
+		"beDecrypted" : "BenjaminVanRyseghem 7/19/2012 22:01",
+		"beEncrypted" : "BenjaminVanRyseghem 7/19/2012 22:02",
+		"defaultEntryCompletion" : "EstebanLorenzano 8/17/2012 16:41",
+		"encrypted" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"encrypted:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"entryCompletion" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"entryCompletion:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"eventKeyStrokesForNextFocus" : "BenjaminVanRyseghem 5/4/2013 22:45",
+		"eventKeyStrokesForPreviousFocus" : "BenjaminVanRyseghem 5/4/2013 22:42",
+		"ghostText" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"ghostText:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initialize" : "BenjaminVanRyseghem 12/4/2013 14:36",
+		"isCodeCompletionAllowed" : "BenjaminVanRyseghem 6/25/2012 23:46",
+		"removeEntryCompletion" : "BenjaminVanRyseghem 7/19/2012 22:06",
+		"textHolder" : "",
+		"whenAcceptOnCRChanged:" : "BenjaminVanRyseghem 7/19/2012 21:58",
+		"whenEntryCompletionChanged:" : "BenjaminVanRyseghem 7/19/2012 22:04",
+		"whenGhostTextChanged:" : "BenjaminVanRyseghem 7/19/2012 22:05" } }

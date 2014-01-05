@@ -6,7 +6,13 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"currentOffset",
+		"currentProportional",
+		"numberOfProportionals",
+		"lastFractionIndex",
+		"autoFractionComputation",
+		"size",
+		"width" ],
 	"name" : "SpecRowLayout",
 	"pools" : [
 		 ],

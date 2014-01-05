@@ -1,4 +1,4 @@
 accessing
 method: anObject
 
-	method contents: anObject
+	method value: anObject

@@ -1,10 +1,9 @@
 initialization
 initializeWidgets
 
-	self instantiateModels: #(
-		listModel ListComposableModel
-		textModel1 TextModel
-		textModel2 TextModel ).
+	listModel := self newList.
+	textModel1 := self newText.
+	textModel2 := self newText.
 	
 	listModel beMultipleSelection.
 	

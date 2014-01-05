@@ -1,0 +1,4 @@
+protocol
+triggerCancelAction
+
+	self performCancelAction

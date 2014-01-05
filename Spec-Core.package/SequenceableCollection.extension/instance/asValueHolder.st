@@ -1,4 +1,4 @@
 *Spec-Core
 asValueHolder
 
-	^ CollectionValueHolder contents: self
+	^ CollectionValueHolder value: self

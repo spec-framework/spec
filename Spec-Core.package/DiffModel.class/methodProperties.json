@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/21/2013 18:17",
+		"exampleWithOptions" : "MartinDias 9/12/2013 17:38",
+		"exampleWithoutOptions" : "MartinDias 9/10/2013 22:59" },
+	"instance" : {
+		"contextClass" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"contextClass:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initialize" : "BenjaminVanRyseghem 11/21/2013 22:26",
+		"leftText" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"leftText:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"rightText" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"rightText:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"showBoth" : "BenjaminVanRyseghem 11/21/2013 22:29",
+		"showOnlyDestination" : "BenjaminVanRyseghem 11/21/2013 17:15",
+		"showOnlyDestination:" : "BenjaminVanRyseghem 11/21/2013 22:33",
+		"showOnlySource" : "BenjaminVanRyseghem 11/21/2013 22:11",
+		"showOnlySource:" : "BenjaminVanRyseghem 11/21/2013 22:32",
+		"showOptions" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"showOptions:" : "BenjaminVanRyseghem 10/17/2013 16:06" } }

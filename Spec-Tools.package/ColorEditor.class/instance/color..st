@@ -1,3 +1,3 @@
 accessing
 color: anObject
-	color contents: anObject
+	color value: anObject

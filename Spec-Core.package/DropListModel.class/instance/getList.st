@@ -1,0 +1,4 @@
+protocol
+getList
+
+	^ listHolder value

@@ -1,5 +1,5 @@
 private
 browseMethod
 
-	methodHolder contents
+	methodHolder value
 		ifNotNil: [:aMethod | aMethod browse ]

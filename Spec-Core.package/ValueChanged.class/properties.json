@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"newContents",
-		"oldContents" ],
+		"newValue",
+		"oldValue" ],
 	"name" : "ValueChanged",
 	"pools" : [
 		 ],

@@ -1,5 +1,5 @@
 protocol
 roots: aCollection
 
-	roots contents: aCollection.	
-	tree roots: aCollection
+	roots value: aCollection asOrderedCollection.	
+	tree roots: aCollection asOrderedCollection

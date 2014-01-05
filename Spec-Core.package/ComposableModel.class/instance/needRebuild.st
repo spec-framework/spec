@@ -1,4 +1,4 @@
 accessing
 needRebuild
 
-	^ needRebuild contents
+	^ needRebuild value

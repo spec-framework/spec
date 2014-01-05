@@ -2,7 +2,7 @@ interpreting-private
 performNextSelectorAndIncrementIndex
 	| args numArgs selector |
 
-	selector := spec bindings retrieveSelectorSymbolFor: (arrayToInterpret at: index).
+	selector := (arrayToInterpret at: index).
 	selector isArray not
 		ifTrue: [ 
 			selector := selector asSymbol.
@@ -16,7 +16,7 @@ performNextSelectorAndIncrementIndex
 			numArgs := 0.
 			args := array allButFirst ].
 	
-	args := args collect: [ :each | self class private_interpretASpec: each model: model superSpec: specForChildren selector: spec selector ].
+	args := args collect: [ :each | self class private_interpretASpec: each model: model selector: spec selector ].
 
 	index := index + numArgs + 1.
 	^ self actionToPerformWithSelector: selector arguments: args

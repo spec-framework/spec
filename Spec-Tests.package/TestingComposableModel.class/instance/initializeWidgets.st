@@ -1,4 +1,4 @@
 as yet unclassified
 initializeWidgets 
 
-	self instantiateModels: #(list ListComposableModel)
+	self instantiateModels: #(list #ListModel)

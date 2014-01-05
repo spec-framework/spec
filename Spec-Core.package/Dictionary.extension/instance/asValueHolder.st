@@ -1,4 +1,4 @@
 *Spec-Core
 asValueHolder
 
-	^ DictionaryValueHolder contents: self
+	^ DictionaryValueHolder value: self

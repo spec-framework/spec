@@ -1,0 +1,4 @@
+procotol
+hasContentToShow
+
+	^ hasContentToShow value

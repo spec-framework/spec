@@ -1,6 +1,6 @@
 protocol
 reset
 
-	self index contents: 0.
-	self selection contents: nil.
-	self contentsChanged
+	self index value: 0.
+	self selection value: nil.
+	self valueChanged

@@ -13,6 +13,6 @@ updateText
 		indexes :=  (indexes joinUsing: '; ').
 		items := listModel selectedItems collect: [:i | i printString ].
 		items := (items sort joinUsing: '; ').
-		WorldState addDeferredUIMessage: [
+		UIManager default defer: [
 			textModel1 text: indexes.
 			textModel2 text: items]] fork.

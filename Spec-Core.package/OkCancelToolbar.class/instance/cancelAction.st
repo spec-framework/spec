@@ -1,4 +1,4 @@
 protocol
 cancelAction
 
-	^ cancelAction contents
+	^ cancelAction value

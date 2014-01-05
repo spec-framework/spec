@@ -1,4 +1,4 @@
 protocol
 defaultValue
 
-	^ defaultValueHolder contents
+	^ defaultValueHolder value

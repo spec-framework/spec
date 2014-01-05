@@ -1,9 +1,8 @@
 initialization
 initializeWidgets
 
-	self instantiateModels: #(
-		methodBrowser MethodBrowser
-		textField TextInputFieldModel ).
+	methodBrowser := self instantiate: MessageBrowser.
+	textField := self newTextInput.
 	
 	textField 
 		ghostText: 'Enter a class name';
@@ -11,4 +10,4 @@ initializeWidgets
 		removeEntryCompletion.
 	methodBrowser 
 		sortingBlock: [:a :b | a selector < b selector ];
-		displayBlock: [:m | m selector ]
+		displayBlock: [:m | { m selector } ]

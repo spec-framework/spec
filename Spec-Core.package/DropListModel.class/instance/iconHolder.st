@@ -1,0 +1,4 @@
+protocol
+iconHolder
+
+	^ iconHolder value

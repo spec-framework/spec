@@ -1,4 +1,4 @@
 protocol-shortcuts
 additionalKeyBindings
 
-	^ additionalKeyBindings contents
+	^ additionalKeyBindings value

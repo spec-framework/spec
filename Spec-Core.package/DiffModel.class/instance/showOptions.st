@@ -1,0 +1,4 @@
+protocol
+showOptions
+
+	^ showOptions value

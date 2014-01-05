@@ -4,4 +4,11 @@
 	"instance" : {
 		"add:width:" : "BenjaminVanRyseghem 6/18/2012 06:33",
 		"addSplitter" : "BenjaminVanRyseghem 7/31/2012 16:09",
-		"privateAsArray" : "BenjaminVanRyseghem 3/28/2013 18:10" } }
+		"autoFractionComputation" : "BenjaminVanRyseghem 12/21/2013 21:45",
+		"countNumberOfProportionals" : "BenjaminVanRyseghem 12/21/2013 21:42",
+		"manualFractionComputation" : "BenjaminVanRyseghem 12/21/2013 21:46",
+		"privateAsArray" : "BenjaminVanRyseghem 12/21/2013 21:47",
+		"resetArrayComputation" : "BenjaminVanRyseghem 12/21/2013 21:52",
+		"setWidgetLayoutWithNoOffset:at:delta:" : "BenjaminVanRyseghem 12/21/2013 21:44",
+		"setWidgetLayoutWithOffset:at:" : "BenjaminVanRyseghem 12/21/2013 21:47",
+		"shiftLastWidgets" : "BenjaminVanRyseghem 12/21/2013 21:49" } }

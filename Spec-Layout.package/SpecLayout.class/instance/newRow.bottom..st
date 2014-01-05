@@ -1,18 +1,4 @@
-commands
+commands-advanced
 newRow: aBlock bottom: aNumber
 	
-	aNumber isInteger
-		ifTrue: [ "offset in pixels"
-			self 
-				newRow: aBlock 
-				origin: 0@0 
-				corner: 1@1
-				offsetOrigin: 0@0 
-				offsetCorner: 0@(aNumber negated) ]
-		ifFalse: [ "proportional specification"
-			self 
-				newRow: aBlock 
-				origin: 0@0 
-				corner: 1@(1-aNumber)
-				offsetOrigin: 0@0 
-				offsetCorner: 0@0 ]
+	self newRow: aBlock top: nil bottom: aNumber

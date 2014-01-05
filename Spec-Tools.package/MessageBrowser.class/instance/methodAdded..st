@@ -5,7 +5,7 @@ methodAdded: anAnnouncement
 	self isDisplayed ifFalse: [ ^ self ].
 	refreshingBlockHolder ifNil: [ ^ self ].
 	item := anAnnouncement method.
-	(refreshingBlockHolder contents cull: item cull: anAnnouncement cull: self) ifFalse: [ ^ self ].
+	(refreshingBlockHolder value cull: item cull: anAnnouncement cull: self) ifFalse: [ ^ self ].
 	
 	UIManager default defer: [ 	| sel text boolean |
 		boolean := textModel hasUnacceptedEdits.

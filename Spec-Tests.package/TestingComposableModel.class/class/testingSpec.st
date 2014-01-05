@@ -1,5 +1,5 @@
 specs
 testingSpec
 
-	^ {#Text.
+	^ {#PluggableTextMorph.
 		#model:.	#model}.

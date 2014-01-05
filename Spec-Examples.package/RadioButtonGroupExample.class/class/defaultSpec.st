@@ -1,13 +1,12 @@
 specs
 defaultSpec
-
-	^ { #Panel.
-			#changeProportionalLayout.
-			#addMorphWrapper:.	{	#MorphWrapper.
-											#morph:. 		self topSpec.
-											#fullFrame:. 	#(0 0 1 0 0 0  0 20) }.
-			#addMorphWrapper:.	{	#MorphWrapper.
-											#morph:. 		{#model. #container.}.
-											#fullFrame:.	#(0 0 1 1 0 22 0 0) }.
-			#hResizing:.	#shrinkWrap.
-			#vResizing:.	#shrinkWrap.	}
+	<spec: #default>
+	
+	^ SpecLayout composed
+		newRow: [ :row |
+			row 
+				add: #button1;
+				add: #button2;
+				add: #button3 ] height: self toolbarHeight;
+		add: #container;
+		yourself

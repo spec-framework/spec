@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"allManagers" : "StephaneDucasse 6/2/2012 20:29",
-		"defaultSpec" : "BenjaminVanRyseghem 1/15/2013 14:17",
+		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:48",
 		"example" : "StephaneDucasse 6/2/2012 20:29",
 		"order" : "StephaneDucasse 4/17/2012 18:41",
 		"order:" : "StephaneDucasse 4/17/2012 18:42",
@@ -14,7 +14,7 @@
 		"initialExtent" : "StephaneDucasse 4/17/2012 18:06",
 		"initialize" : "CamilloBruni 7/17/2013 22:57",
 		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 18:41",
-		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 18:41",
+		"initializeWidgets" : "BenjaminVanRyseghem 9/25/2013 18:24",
 		"newRepository" : "StephaneDucasse 4/19/2012 18:21",
 		"openRepository" : "StephaneDucasse 4/19/2012 18:19",
 		"order" : "StephaneDucasse 4/17/2012 18:49",

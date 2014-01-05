@@ -1,4 +1,4 @@
-accessing
 bindings
-	
-	^ bindings
+bindings
+
+	^ self class bindings

@@ -1,0 +1,4 @@
+procotol
+isExpanded
+	
+	^ isExpanded value

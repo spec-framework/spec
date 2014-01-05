@@ -1,0 +1,4 @@
+protocol
+selectOnlyLastHighlighted
+
+	^ removeOnlyLastSelected value

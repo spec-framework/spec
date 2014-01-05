@@ -3,5 +3,5 @@ dynamicStackMenu: aBuilder
 	<contextMenu>
 	<specDebuggerStackMenuNew>
 
-	aBuilder model stack contextMenuDebuggingActions do: [ :anAction | 
+	aBuilder model stack generateContextMenuDebuggingActions do: [ :anAction | 
 		anAction asMenuRegistrationIn: aBuilder ]

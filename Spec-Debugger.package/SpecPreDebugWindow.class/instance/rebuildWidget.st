@@ -9,4 +9,6 @@ rebuildWidget
 	self needFullRebuild: true.
 	self needRebuild: false.
 	
- 	self buildWithSpecLayout: (self dynamicLayoutForActions: debuggingActions)
+ 	self buildWithSpecLayout: (self dynamicLayoutForActions: debuggingActions).
+	
+	self takeKeyboardFocus. 

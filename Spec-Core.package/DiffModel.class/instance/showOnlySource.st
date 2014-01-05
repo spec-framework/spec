@@ -1,0 +1,4 @@
+protocol
+showOnlySource
+
+	^ showOnlySource value

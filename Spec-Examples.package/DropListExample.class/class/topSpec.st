@@ -1,9 +1,9 @@
 specs
 topSpec
 
-	^ { #Panel.
-			#changeTableLayout.
-			#listDirection:.		#rightToLeft.
-			#addMorph:. {#model.	#dropList.}.
-			#hResizing:.	#spaceFill.
-			#vResizing:.	#shrinkWrap.	}
+	^ SpecLayout composed
+		newRow: [ :r |
+			r 
+				add: #uniformDropList;
+				add: #heterogeneousDropList ];
+		yourself

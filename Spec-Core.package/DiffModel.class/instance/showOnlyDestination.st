@@ -1,0 +1,4 @@
+protocol
+showOnlyDestination
+
+	^ showOnlyDestination value

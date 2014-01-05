@@ -1,7 +1,7 @@
 specs
 topSpec
 
-	^ { #ComposableSpec.
+	^ { #ContainerModel.
 			#add:. {{#model .	#button1 } . #layout:.  #(FrameLayout
 															rightFraction: 0.33
 															bottomFraction: 0

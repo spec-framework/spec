@@ -1,4 +1,4 @@
 protocol
 windowIcon: aForm
 
-	windowIcon contents: aForm
+	windowIcon value: aForm

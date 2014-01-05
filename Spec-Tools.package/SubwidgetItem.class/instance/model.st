@@ -1,4 +1,4 @@
 accessing
 model
 
-	^ model contents
+	^ model value

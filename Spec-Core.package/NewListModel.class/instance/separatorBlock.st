@@ -1,0 +1,4 @@
+protocol
+separatorBlock
+
+	^ separatorBlock value

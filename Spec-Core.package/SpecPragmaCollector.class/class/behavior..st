@@ -1,6 +1,6 @@
 instance creation
-behavior: behavior
+behavior: aBehavior
 
 	^ self new
-		behavior: behavior;
+		behavior: aBehavior;
 		yourself

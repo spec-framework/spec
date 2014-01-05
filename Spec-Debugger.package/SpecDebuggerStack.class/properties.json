@@ -10,7 +10,8 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"sessionHolder",
-		"listWidget" ],
+		"listWidget",
+		"actionsCache" ],
 	"name" : "SpecDebuggerStack",
 	"pools" : [
 		 ],

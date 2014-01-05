@@ -2,4 +2,4 @@ initialization
 okAction
 
 	text accept.
-	object contents: (Smalltalk evaluate: text getText).
+	object value: (Smalltalk evaluate: text getText).

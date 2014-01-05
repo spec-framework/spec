@@ -1,0 +1,4 @@
+procotol
+childNodeClass
+
+	^ childNodeClass value

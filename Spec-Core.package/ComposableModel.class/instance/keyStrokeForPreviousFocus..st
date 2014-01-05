@@ -1,4 +1,4 @@
 protocol-focus
 keyStrokeForPreviousFocus: aKMShortcut
 
-	keyStrokesForPreviousFocusHolder contents: { aKMShortcut }
+	keyStrokesForPreviousFocusHolder value: { aKMShortcut }

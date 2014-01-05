@@ -1,0 +1,4 @@
+protocol
+hardResetBindings
+
+	bindings := nil

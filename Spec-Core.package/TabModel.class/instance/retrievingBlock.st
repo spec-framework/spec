@@ -1,0 +1,4 @@
+protocol
+retrievingBlock
+
+	^ retrievingBlock value

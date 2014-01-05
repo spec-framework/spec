@@ -1,0 +1,4 @@
+protocol
+getItems
+
+	^ items value

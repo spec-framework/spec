@@ -1,7 +1,7 @@
 initialization
 buildClassItems
 
-	^ AbstractBasicWidget allSubclasses collect: [:class |
+	^ AbstractWidgetModel allSubclasses collect: [:class |
 		DropListItem 
 			named: class name
 			do: [ ]] 

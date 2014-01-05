@@ -1,6 +1,5 @@
+initialization
 initialize
-initialize
-	"Initialization code for SpecSplitterHorizontal"
 
 	super initialize.
 
