@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:25" },
+	"instance" : {
+		"action" : "BenjaminVanRyseghem 9/25/2013 14:04",
+		"askBeforeChanging" : "BenjaminVanRyseghem 9/25/2013 14:12",
+		"buildLabel:withIcon:" : "BenjaminVanRyseghem 9/25/2013 14:09",
+		"keyStroke:fromMorph:" : "BenjaminVanRyseghem 9/25/2013 13:58",
+		"label" : "BenjaminVanRyseghem 9/25/2013 13:59",
+		"state" : "BenjaminVanRyseghem 9/25/2013 13:59" } }

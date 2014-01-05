@@ -1,0 +1,4 @@
+protocol
+headerIcon
+
+	^ headerIcon value

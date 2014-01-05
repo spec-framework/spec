@@ -1,0 +1,4 @@
+protocol
+value
+
+	^ value value

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 6/22/2012 19:19",
+		"defaultSpec2" : "BenjaminVanRyseghem 4/3/2013 17:32",
+		"example" : "BenjaminVanRyseghem 2/2/2012 13:39",
+		"title" : "BenjaminVanRyseghem 12/14/2011 18:12" },
+	"instance" : {
+		"classes:" : "BenjaminVanRyseghem 6/22/2012 19:16",
+		"initializePresenter" : "MarcusDenker 5/4/2013 10:15",
+		"initializeWidgets" : "CamilloBruni 9/22/2013 21:28",
+		"listModel" : "BenjaminVanRyseghem 12/14/2011 18:03",
+		"methodModel" : "BenjaminVanRyseghem 12/14/2011 18:03" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:47",
+		"title" : "BenjaminVanRyseghem 2/5/2012 17:17",
+		"topSpec" : "BenjaminVanRyseghem 10/1/2013 15:05" },
+	"instance" : {
+		"container" : "BenjaminVanRyseghem 10/1/2013 15:03",
+		"heterogeneousDropList" : "SeanDeNigris 4/17/2013 22:15",
+		"initialize" : "CamilloBruni 7/17/2013 22:55",
+		"initializeWidgets" : "BenjaminVanRyseghem 11/23/2013 13:11",
+		"instantiateMorphs" : "BenjaminVanRyseghem 2/2/2012 15:20",
+		"setFocus" : "BenjaminVanRyseghem 5/24/2013 19:24",
+		"uniformDropList" : "SeanDeNigris 4/17/2013 22:24" } }

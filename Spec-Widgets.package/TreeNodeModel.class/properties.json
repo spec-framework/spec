@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Widgets-TreeSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"item" ],
+	"name" : "TreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractBasicWidget",
+	"type" : "normal" }

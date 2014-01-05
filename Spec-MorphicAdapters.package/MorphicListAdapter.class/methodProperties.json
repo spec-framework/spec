@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:22" },
+	"instance" : {
+		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 9/25/2013 18:10",
+		"getIndex" : "BenjaminVanRyseghem 9/25/2013 18:07",
+		"getSelectionStateFor:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"listElementAt:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"listElementAt:ifAbsent:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"listSize" : "BenjaminVanRyseghem 9/25/2013 18:14",
+		"menu:shifted:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"multiSelection" : "BenjaminVanRyseghem 9/25/2013 18:14",
+		"resetListSelection" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"setIndex:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"setSelectionStateFor:at:" : "BenjaminVanRyseghem 9/25/2013 18:08",
+		"wrapItem:index:" : "BenjaminVanRyseghem 9/25/2013 18:08" } }

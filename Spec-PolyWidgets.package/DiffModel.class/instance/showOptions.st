@@ -1,0 +1,4 @@
+initialize
+showOptions
+
+	^ showOptions value

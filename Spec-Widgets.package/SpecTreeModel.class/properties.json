@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Widgets-TreeSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"rootNodes" ],
+	"name" : "SpecTreeModel",
+	"pools" : [
+		 ],
+	"super" : "MorphTreeModel",
+	"type" : "normal" }

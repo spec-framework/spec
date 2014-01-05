@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:50" },
+	"instance" : {
+		"accept:" : "BenjaminVanRyseghem 9/28/2013 22:05",
+		"acceptOnCR" : "BenjaminVanRyseghem 9/28/2013 22:07",
+		"autoAccept" : "BenjaminVanRyseghem 9/28/2013 22:06",
+		"encrypted" : "BenjaminVanRyseghem 9/28/2013 22:07",
+		"entryCompletion" : "BenjaminVanRyseghem 9/28/2013 22:06",
+		"ghostText" : "BenjaminVanRyseghem 9/28/2013 22:06",
+		"ghostText:" : "BenjaminVanRyseghem 9/28/2013 22:07",
+		"isCodeCompletionAllowed" : "BenjaminVanRyseghem 9/28/2013 22:07" } }

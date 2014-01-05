@@ -1,0 +1,6 @@
+protocol
+state: aBoolean
+	<api: #boolean getter: #state>
+	"Set if the checkbox is activated or not"
+
+	stateHolder value: aBoolean

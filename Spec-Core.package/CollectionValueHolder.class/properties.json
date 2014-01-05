@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CollectionValueHolder",
+	"pools" : [
+		 ],
+	"super" : "NewValueHolder",
+	"type" : "normal" }

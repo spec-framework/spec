@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"autoRefreshSpec" : "BenjaminVanRyseghem 11/1/2013 18:23",
+		"defaultSpec" : "BenjaminVanRyseghem 11/1/2013 18:27" },
+	"instance" : {
+		"action" : "BenjaminVanRyseghem 11/1/2013 13:44",
+		"actionArguments" : "BenjaminVanRyseghem 11/1/2013 15:02",
+		"autoRefresh" : "BenjaminVanRyseghem 11/1/2013 18:23",
+		"balloonText" : "BenjaminVanRyseghem 11/1/2013 18:16",
+		"buildWidget" : "BenjaminVanRyseghem 11/1/2013 18:29",
+		"enabled" : "BenjaminVanRyseghem 11/1/2013 17:21",
+		"icon" : "BenjaminVanRyseghem 11/1/2013 17:56",
+		"name" : "BenjaminVanRyseghem 11/1/2013 17:21",
+		"performMenuActionWith:" : "BenjaminVanRyseghem 11/1/2013 15:12",
+		"shortcut" : "BenjaminVanRyseghem 11/1/2013 18:02",
+		"shortcutText" : "BenjaminVanRyseghem 11/1/2013 18:47",
+		"state" : "BenjaminVanRyseghem 11/1/2013 17:20",
+		"stateSelector" : "BenjaminVanRyseghem 11/1/2013 18:25",
+		"subMenu" : "BenjaminVanRyseghem 11/1/2013 18:07" } }

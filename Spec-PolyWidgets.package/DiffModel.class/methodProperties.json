@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"exampleWithOptions" : "MartinDias 9/12/2013 17:38",
+		"exampleWithoutOptions" : "MartinDias 9/10/2013 22:59",
+		"spec" : "MartinDias 9/12/2013 17:33" },
+	"instance" : {
+		"contextClass" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"contextClass:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initialize" : "MartinDias 9/12/2013 17:36",
+		"leftText" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"leftText:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"rightText" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"rightText:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"showOptions" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"showOptions:" : "BenjaminVanRyseghem 10/17/2013 16:06" } }

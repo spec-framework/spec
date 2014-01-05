@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contents" ],
+	"name" : "DialogWindowModel",
+	"pools" : [
+		 ],
+	"super" : "WindowModel",
+	"type" : "normal" }

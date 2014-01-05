@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"spec" : "AndreiChis 9/18/2013 12:09" },
+	"instance" : {
+		"actionsForPragmas:" : "AndreiChis 9/21/2013 18:02",
+		"buildButtonWidgetsSpecForActions:" : "AndreiChis 9/25/2013 17:10",
+		"clearToolbar" : "AndreiChis 9/18/2013 12:09",
+		"createWidgetsForActions:" : "AndreiChis 9/25/2013 17:11",
+		"currentContext" : "AndreiChis 9/18/2013 12:09",
+		"debugger" : "AndreiChis 9/18/2013 12:09",
+		"debuggingActions" : "AndreiChis 9/18/2013 18:20",
+		"debuggingActionsPragmas" : "AndreiChis 9/18/2013 17:28",
+		"dynamicLayoutForActions:" : "AndreiChis 9/25/2013 17:11",
+		"emptyLayout" : "AndreiChis 9/18/2013 12:09",
+		"initialize" : "AndreiChis 9/30/2013 13:38",
+		"initializeButtonWidget:forAction:" : "AndreiChis 9/25/2013 17:10",
+		"initializePresenter" : "AndreiChis 9/30/2013 13:38",
+		"rebuildToolbar" : "AndreiChis 9/20/2013 17:20",
+		"session" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"session:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"setFocusOrderForActions:" : "AndreiChis 9/25/2013 17:11",
+		"update" : "AndreiChis 9/18/2013 12:09" } }

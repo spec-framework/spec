@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"newContents",
+		"oldContents" ],
+	"name" : "ValueChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

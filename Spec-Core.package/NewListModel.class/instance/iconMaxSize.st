@@ -1,0 +1,4 @@
+protocol
+iconMaxSize
+
+	^ iconMaxSize value

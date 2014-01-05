@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/7/2013 11:48" },
+	"instance" : {
+		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 18:06",
+		"initializeWidgets" : "BenjaminVanRyseghem 9/25/2013 18:24",
+		"listModel" : "BenjaminVanRyseghem 6/12/2012 18:46",
+		"searchModel" : "BenjaminVanRyseghem 6/12/2012 18:46" } }

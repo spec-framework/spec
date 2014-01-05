@@ -1,0 +1,4 @@
+protocol
+displayBlock
+
+	^ displayBlock value

@@ -1,0 +1,19 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"ghostText",
+		"alwaysAccept",
+		"acceptOnCR",
+		"autoAccept",
+		"entryCompletion",
+		"isEncrypted" ],
+	"name" : "TextInputFieldModel",
+	"pools" : [
+		 ],
+	"super" : "TextModel",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+morphic
+icon
+
+	^ icon contents

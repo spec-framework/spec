@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/2/2013 20:09" },
+	"instance" : {
+		"container" : "BenjaminVanRyseghem 11/2/2013 17:57",
+		"container:" : "BenjaminVanRyseghem 11/2/2013 17:58",
+		"displayBlock" : "BenjaminVanRyseghem 11/2/2013 16:36",
+		"displayBlock:" : "BenjaminVanRyseghem 11/2/2013 16:36",
+		"headerAction" : "BenjaminVanRyseghem 11/2/2013 17:00",
+		"headerAction:" : "BenjaminVanRyseghem 11/2/2013 17:00",
+		"headerFont" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"headerFont:" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"headerIcon" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"headerIcon:" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"headerLabel" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"headerLabel:" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"initialWidth" : "BenjaminVanRyseghem 11/2/2013 16:58",
+		"initialWidth:" : "BenjaminVanRyseghem 11/2/2013 16:59",
+		"initialize" : "BenjaminVanRyseghem 11/2/2013 19:32",
+		"registerEvents" : "BenjaminVanRyseghem 11/2/2013 17:44",
+		"resizable" : "BenjaminVanRyseghem 11/2/2013 17:00",
+		"resizable:" : "BenjaminVanRyseghem 11/2/2013 17:00" } }

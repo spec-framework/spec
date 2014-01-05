@@ -1,0 +1,4 @@
+morphic
+oddRowColor
+
+	^ oddRowColor contents

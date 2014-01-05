@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"listHolder",
+		"selectionHolder" ],
+	"name" : "DropListModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractBasicWidget",
+	"type" : "normal" }

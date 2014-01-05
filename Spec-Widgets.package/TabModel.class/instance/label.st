@@ -1,0 +1,4 @@
+morphic
+label
+
+	^ label contents

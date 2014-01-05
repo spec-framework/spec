@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beginsWith:fromList:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"ensureMorphicAdapter" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"ensureMorphicAdapterDo:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"heightToDisplayInList:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"heightToDisplayInTree:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"listRenderOn:atRow:bounds:color:backgroundColor:from:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"openWorldWithSpec" : "BenjaminVanRyseghem 5/14/2013 16:29",
+		"openWorldWithSpec:" : "BenjaminVanRyseghem 6/5/2013 22:38",
+		"openWorldWithSpecLayout:" : "BenjaminVanRyseghem 10/17/2013 16:07",
+		"treeRenderOn:bounds:color:font:from:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"widthToDisplayInList:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"widthToDisplayInTree:" : "BenjaminVanRyseghem 10/10/2013 12:22" } }

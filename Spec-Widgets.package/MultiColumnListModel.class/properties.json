@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MultiColumnListModel",
+	"pools" : [
+		 ],
+	"super" : "ListComposableModel",
+	"type" : "normal" }

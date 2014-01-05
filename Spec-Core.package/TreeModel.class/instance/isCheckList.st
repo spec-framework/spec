@@ -1,0 +1,4 @@
+protocol
+isCheckList
+
+	^ isCheckList value

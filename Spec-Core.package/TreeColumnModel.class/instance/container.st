@@ -1,0 +1,4 @@
+protocol
+container
+
+	^ container value

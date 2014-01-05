@@ -1,0 +1,4 @@
+protocol
+autoDeselection
+
+	^ autoDeselection value

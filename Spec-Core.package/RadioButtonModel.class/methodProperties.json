@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:39",
+		"title" : "BenjaminVanRyseghem 6/12/2012 12:36" },
+	"instance" : {
+		"actionWhenActivatedHolder" : "BenjaminVanRyseghem 6/12/2012 12:36",
+		"actionWhenDesactivatedHolder" : "BenjaminVanRyseghem 6/12/2012 12:36",
+		"activationAction:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"click" : "BenjaminVanRyseghem 7/16/2012 16:50",
+		"desactivationAction:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"enabledHolder" : "BenjaminVanRyseghem 6/12/2012 12:36",
+		"initialize" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"label" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"label:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"labelClickable" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"labelClickable:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"privateSetState:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"state" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"state:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"stateHolder" : "BenjaminVanRyseghem 6/12/2012 12:36",
+		"toggleState" : "BenjaminVanRyseghem 6/12/2012 13:40",
+		"whenActivatedDo:" : "BenjaminVanRyseghem 7/11/2012 17:13",
+		"whenActivationActionChanged:" : "BenjaminVanRyseghem 7/16/2012 16:56",
+		"whenChangedDo:" : "BenjaminVanRyseghem 7/16/2012 16:57",
+		"whenDesactivatedDo:" : "BenjaminVanRyseghem 7/11/2012 17:13",
+		"whenDesactivationActionChanged:" : "BenjaminVanRyseghem 7/16/2012 16:59",
+		"whenLabelChanged:" : "BenjaminVanRyseghem 7/16/2012 17:01",
+		"whenLabelClickableChanged:" : "BenjaminVanRyseghem 7/16/2012 17:02" } }

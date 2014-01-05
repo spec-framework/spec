@@ -1,0 +1,4 @@
+protocol
+getHeaderTitle
+
+	 ^ headerTitle value

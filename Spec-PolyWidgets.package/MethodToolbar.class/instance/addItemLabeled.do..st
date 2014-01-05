@@ -1,0 +1,4 @@
+protocol
+addItemLabeled: aString do: aBlock
+
+	dropListModel addItemLabeled: aString do: aBlock

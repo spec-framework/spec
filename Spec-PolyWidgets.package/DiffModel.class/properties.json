@@ -1,0 +1,17 @@
+{
+	"category" : "Spec-PolyWidgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"leftTextHolder",
+		"rightTextHolder",
+		"showOptions",
+		"contextClassHolder" ],
+	"name" : "DiffModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

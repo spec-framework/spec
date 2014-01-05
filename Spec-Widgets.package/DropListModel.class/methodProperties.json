@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 3/25/2013 12:54",
+		"title" : "" },
+	"instance" : {
+		"addItemLabeled:do:" : "BenjaminVanRyseghem 5/19/2013 12:29",
+		"displayBlock:" : "SeanDeNigris 4/15/2013 20:54",
+		"getIndex" : "StephaneDucasse 5/17/2012 18:12",
+		"getList" : "StephaneDucasse 5/17/2012 18:02",
+		"initialize" : "SeanDeNigris 4/17/2013 22:21",
+		"internalResetSelection" : "BenjaminVanRyseghem 5/19/2013 12:46",
+		"items:" : "SeanDeNigris 4/15/2013 20:34",
+		"listItems" : "SeanDeNigris 4/17/2013 22:35",
+		"listSize" : "BenjaminVanRyseghem 7/12/2012 20:02",
+		"resetSelection" : "BenjaminVanRyseghem 7/12/2012 18:08",
+		"selectedIndex" : "BenjaminVanRyseghem 7/12/2012 18:08",
+		"selectedIndexHolder" : "StephaneDucasse 5/17/2012 18:04",
+		"selectedItem" : "SeanDeNigris 4/17/2013 22:36",
+		"selectedItemHolder" : "StephaneDucasse 5/17/2012 18:04",
+		"setIndex:" : "BenjaminVanRyseghem 5/19/2013 12:31",
+		"setSelectedIndex:" : "BenjaminVanRyseghem 5/19/2013 12:30",
+		"setSelectedItem:" : "BenjaminVanRyseghem 7/12/2012 18:10",
+		"silentlySetSelectedIndex:" : "BenjaminVanRyseghem 5/19/2013 12:46",
+		"whenSelectedItemChanged:" : "SeanDeNigris 4/15/2013 21:07",
+		"whenSelectionChanged:" : "SeanDeNigris 2/8/2013 17:22",
+		"whenSelectionIndexChanged:" : "BenjaminVanRyseghem 7/12/2012 18:10" } }

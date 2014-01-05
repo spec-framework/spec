@@ -1,0 +1,4 @@
+private
+onWidgetBuilt
+
+	needRefresh := true

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 11/8/2013 11:57" },
+	"instance" : {
+		"cancelAction:" : "BenjaminVanRyseghem 9/28/2013 23:49",
+		"contentMorph" : "BenjaminVanRyseghem 9/28/2013 23:50",
+		"okAction:" : "BenjaminVanRyseghem 9/28/2013 23:48",
+		"okButtonEnabled:" : "BenjaminVanRyseghem 9/28/2013 23:45",
+		"open" : "BenjaminVanRyseghem 10/17/2013 11:53",
+		"triggerOkAction" : "BenjaminVanRyseghem 9/28/2013 23:47" } }

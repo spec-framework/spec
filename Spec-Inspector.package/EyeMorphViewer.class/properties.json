@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Inspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"container",
+		"updateProcess" ],
+	"name" : "EyeMorphViewer",
+	"pools" : [
+		 ],
+	"super" : "EyeAbstractInspector",
+	"type" : "normal" }

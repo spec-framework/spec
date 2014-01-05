@@ -1,0 +1,36 @@
+{
+	"category" : "Spec-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"treeModel",
+		"childrenBlockHolder",
+		"menuBlockHolder",
+		"rootsHolder",
+		"selectionHolder",
+		"autoMultiSelection",
+		"columnInset",
+		"doubleClick",
+		"evenRowColor",
+		"isCheckList",
+		"keyStroke",
+		"multiSelection",
+		"oddRowColor",
+		"preferedPaneColor",
+		"resizerWidth",
+		"rowInset",
+		"displayBlock",
+		"rootNodeHolder",
+		"columns",
+		"treeUpdated",
+		"iconBlock",
+		"autoDeselection",
+		"allowMenuOnNoItem" ],
+	"name" : "AlainTreeModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractBasicWidget",
+	"type" : "normal" }

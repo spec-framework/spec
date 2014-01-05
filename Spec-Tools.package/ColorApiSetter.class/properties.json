@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Tools-Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ColorApiSetter",
+	"pools" : [
+		 ],
+	"super" : "AbstractApiSetter",
+	"type" : "normal" }

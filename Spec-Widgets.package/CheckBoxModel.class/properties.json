@@ -1,0 +1,18 @@
+{
+	"category" : "Spec-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"actionWhenActivatedHolder",
+		"actionWhenDesactivatedHolder",
+		"stateHolder",
+		"labelClickableHolder",
+		"labelHolder" ],
+	"name" : "CheckBoxModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractBasicWidget",
+	"type" : "normal" }

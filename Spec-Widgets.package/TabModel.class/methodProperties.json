@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 6/8/2013 16:04" },
+	"instance" : {
+		"actions" : "BenjaminVanRyseghem 6/8/2013 16:02",
+		"actions:" : "BenjaminVanRyseghem 6/8/2013 15:58",
+		"actionsBlock" : "BenjaminVanRyseghem 6/8/2013 16:04",
+		"closeable:" : "BenjaminVanRyseghem 6/9/2013 00:53",
+		"defaultIcon" : "BenjaminVanRyseghem 6/8/2013 16:00",
+		"icon" : "BenjaminVanRyseghem 6/8/2013 16:02",
+		"icon:" : "BenjaminVanRyseghem 6/8/2013 15:57",
+		"initialExtent" : "BenjaminVanRyseghem 6/8/2013 15:52",
+		"initialize" : "BenjaminVanRyseghem 6/9/2013 00:53",
+		"label" : "BenjaminVanRyseghem 6/8/2013 15:48",
+		"label:" : "BenjaminVanRyseghem 6/8/2013 15:52",
+		"menu" : "BenjaminVanRyseghem 6/8/2013 16:02",
+		"menu:" : "BenjaminVanRyseghem 6/8/2013 15:58",
+		"model:" : "BenjaminVanRyseghem 6/8/2013 15:59",
+		"morph" : "BenjaminVanRyseghem 6/18/2013 19:01",
+		"morph:" : "BenjaminVanRyseghem 6/8/2013 15:58",
+		"retrievingBlock" : "BenjaminVanRyseghem 6/8/2013 16:02",
+		"retrievingBlock:" : "BenjaminVanRyseghem 6/8/2013 15:58" } }

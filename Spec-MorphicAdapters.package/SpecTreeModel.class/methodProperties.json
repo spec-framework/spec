@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"model:" : "BenjaminVanRyseghem 4/17/2013 18:49" },
+	"instance" : {
+		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 7/16/2013 11:07",
+		"doubleClick" : "BenjaminVanRyseghem 4/20/2013 16:04",
+		"dragPassengerFor:inMorph:" : "BenjaminVanRyseghem 7/16/2013 11:07",
+		"dragPassengersFor:inMorph:" : "BenjaminVanRyseghem 7/16/2013 11:07",
+		"menu:shifted:" : "BenjaminVanRyseghem 5/7/2013 14:20",
+		"model" : "BenjaminVanRyseghem 4/17/2013 18:48",
+		"model:" : "BenjaminVanRyseghem 4/17/2013 18:48",
+		"resetRootNodes" : "BenjaminVanRyseghem 4/18/2013 18:01",
+		"rootItems" : "BenjaminVanRyseghem 4/17/2013 20:48",
+		"rootNodeFromItem:" : "BenjaminVanRyseghem 4/17/2013 19:32",
+		"rootNodes" : "BenjaminVanRyseghem 4/18/2013 18:01",
+		"transferFor:from:" : "BenjaminVanRyseghem 7/16/2013 11:07",
+		"wantsDroppedMorph:event:inMorph:" : "BenjaminVanRyseghem 7/16/2013 11:07" } }

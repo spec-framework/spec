@@ -1,0 +1,22 @@
+{
+	"category" : "Spec-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bindings",
+		"focusOrder",
+		"owner",
+		"window",
+		"spec",
+		"extentHolder",
+		"needRebuild",
+		"isEventForNextFocusBlock",
+		"isEventForPreviousFocusBlock" ],
+	"name" : "ComposableModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

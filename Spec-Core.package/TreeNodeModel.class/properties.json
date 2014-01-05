@@ -1,0 +1,19 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"children",
+		"content",
+		"icon",
+		"container",
+		"matchTokenFilter",
+		"contents" ],
+	"name" : "TreeNodeModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

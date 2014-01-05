@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"at:ifAbsentPut:" : "BenjaminVanRyseghem 6/6/2012 20:29",
+		"at:put:" : "BenjaminVanRyseghem 10/17/2013 16:57",
+		"atNewIndex:put:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"doesNotUnderstand:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"fillFrom:with:" : "",
+		"initialize" : "BenjaminVanRyseghem 10/17/2013 16:26",
+		"initialize:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"removeAll" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"removeKey:" : "",
+		"removeKey:ifAbsent:" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"size" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"valueAtNewKey:put:atIndex:declareFrom:" : "BenjaminVanRyseghem 10/17/2013 16:48" } }

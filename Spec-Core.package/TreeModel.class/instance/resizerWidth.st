@@ -1,0 +1,4 @@
+protocol
+resizerWidth
+
+	^ resizerWidth value

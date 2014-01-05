@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 7/10/2012 16:22" },
+	"instance" : {
+		"buildWithSpecLayout:" : "BenjaminVanRyseghem 5/19/2013 16:22",
+		"cancelAction:" : "BenjaminVanRyseghem 7/10/2012 16:25",
+		"cancelled" : "BenjaminVanRyseghem 7/10/2012 16:25",
+		"contentMorph" : "BenjaminVanRyseghem 7/10/2012 16:14",
+		"okAction:" : "BenjaminVanRyseghem 7/10/2012 16:25",
+		"toolbar" : "BenjaminVanRyseghem 7/10/2012 16:25",
+		"triggerOkAction" : "BenjaminVanRyseghem 4/26/2013 14:09" } }

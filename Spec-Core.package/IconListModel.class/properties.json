@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"iconHolder" ],
+	"name" : "IconListModel",
+	"pools" : [
+		 ],
+	"super" : "ListModel",
+	"type" : "normal" }

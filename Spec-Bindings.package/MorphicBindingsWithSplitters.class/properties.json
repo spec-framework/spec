@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Bindings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MorphicBindingsWithSplitters",
+	"pools" : [
+		 ],
+	"super" : "AbstractBindings",
+	"type" : "normal" }

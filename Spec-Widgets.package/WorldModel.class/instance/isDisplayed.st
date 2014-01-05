@@ -1,0 +1,4 @@
+protocol
+isDisplayed
+
+	^ true

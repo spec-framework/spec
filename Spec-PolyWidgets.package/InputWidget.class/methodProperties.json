@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 4/26/2013 13:56",
+		"example" : "BenjaminVanRyseghem 4/26/2013 14:17" },
+	"instance" : {
+		"ghostText:" : "BenjaminVanRyseghem 4/26/2013 13:51",
+		"initialExtent" : "BenjaminVanRyseghem 4/26/2013 13:57",
+		"initialize" : "CamilloBruni 7/17/2013 22:55",
+		"initializeDialogWindow:" : "BenjaminVanRyseghem 4/26/2013 13:49",
+		"initializePresenter" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initializeWidgets" : "BenjaminVanRyseghem 4/26/2013 14:15",
+		"input" : "BenjaminVanRyseghem 4/26/2013 13:56",
+		"label" : "BenjaminVanRyseghem 4/26/2013 13:56",
+		"label:" : "BenjaminVanRyseghem 4/26/2013 13:51",
+		"ok" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"title" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"title:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"triggerOkAction" : "BenjaminVanRyseghem 4/26/2013 14:16",
+		"value" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"whenValueChanged:" : "BenjaminVanRyseghem 4/26/2013 13:54" } }

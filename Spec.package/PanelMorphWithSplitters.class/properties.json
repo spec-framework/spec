@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Widgets-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"paneMorphs" ],
+	"name" : "PanelMorphWithSplitters",
+	"pools" : [
+		 ],
+	"super" : "PanelMorph",
+	"type" : "normal" }

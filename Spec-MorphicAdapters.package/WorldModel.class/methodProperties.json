@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/7/2013 13:46",
+		"setUpWorld" : "BenjaminVanRyseghem 6/5/2013 22:51" },
+	"instance" : {
+		"addModelIn:withSpec:" : "BenjaminVanRyseghem 5/14/2013 22:41",
+		"addModelIn:withSpecLayout:" : "BenjaminVanRyseghem 5/14/2013 22:41",
+		"defaultInitialExtent" : "BenjaminVanRyseghem 5/14/2013 16:23",
+		"ensureExtentFor:" : "BenjaminVanRyseghem 5/14/2013 16:43",
+		"isDisplayed" : "BenjaminVanRyseghem 5/14/2013 16:23",
+		"openWithSpec:" : "BenjaminVanRyseghem 5/14/2013 22:40",
+		"openWithSpecLayout:" : "BenjaminVanRyseghem 5/14/2013 22:40",
+		"title:" : "BenjaminVanRyseghem 5/14/2013 16:24",
+		"updateTitle" : "BenjaminVanRyseghem 5/14/2013 16:41",
+		"widget" : "BenjaminVanRyseghem 5/14/2013 22:59" } }

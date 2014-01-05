@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:38",
+		"title" : "" },
+	"instance" : {
+		"initialize" : "CamilloBruni 7/17/2013 22:54",
+		"label" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"label:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"text" : "BenjaminVanRyseghem 9/25/2013 17:24",
+		"text:" : "BenjaminVanRyseghem 9/25/2013 17:24",
+		"whenLabelChanged:" : "BenjaminVanRyseghem 9/25/2013 17:23",
+		"whenTextChanged:" : "BenjaminVanRyseghem 9/25/2013 17:24" } }

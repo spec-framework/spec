@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 7/13/2012 05:29",
+		"example" : "BenjaminVanRyseghem 4/24/2012 03:09",
+		"title" : "" },
+	"instance" : {
+		"action" : "BenjaminVanRyseghem 7/11/2012 17:12",
+		"action:" : "BenjaminVanRyseghem 7/12/2012 20:21",
+		"eventStringForNextFocus" : "StephaneDucasse 5/17/2012 18:17",
+		"eventStringForPreviousFocus" : "StephaneDucasse 5/17/2012 18:18",
+		"getAction" : "BenjaminVanRyseghem 7/11/2012 17:16",
+		"initialize" : "BenjaminVanRyseghem 7/12/2012 17:54",
+		"keyStroke:fromMorph:" : "",
+		"label" : "BenjaminVanRyseghem 7/11/2012 17:17",
+		"label:" : "BenjaminVanRyseghem 7/12/2012 20:22",
+		"state" : "BenjaminVanRyseghem 7/11/2012 17:17",
+		"state:" : "BenjaminVanRyseghem 7/12/2012 20:32",
+		"whenActionChangedDo:" : "BenjaminVanRyseghem 7/12/2012 20:21",
+		"whenActionPerformedDo:" : "BenjaminVanRyseghem 7/11/2012 17:12",
+		"whenLabelChangedDo:" : "BenjaminVanRyseghem 7/12/2012 20:23",
+		"whenStateChangedDo:" : "BenjaminVanRyseghem 7/12/2012 20:23" } }

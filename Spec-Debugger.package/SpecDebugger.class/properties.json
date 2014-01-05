@@ -1,0 +1,25 @@
+{
+	"category" : "Spec-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AlwaysOpenFullDebugger",
+		"ErrorRecursion",
+		"FilterCommonMessageSends",
+		"LogDebuggerStackToFile",
+		"LogFileName" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sessionHolder",
+		"labelHolder",
+		"stack",
+		"code",
+		"toolbar",
+		"contextInspector",
+		"receiverInspector",
+		"needRefresh" ],
+	"name" : "SpecDebugger",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

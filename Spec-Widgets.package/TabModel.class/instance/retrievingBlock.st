@@ -1,0 +1,4 @@
+morphic
+retrievingBlock
+
+	^ retrievingBlock contents

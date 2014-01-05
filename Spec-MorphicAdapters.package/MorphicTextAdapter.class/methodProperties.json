@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:31" },
+	"instance" : {
+		"accept:notifying:" : "BenjaminVanRyseghem 9/28/2013 21:16",
+		"behavior" : "BenjaminVanRyseghem 9/28/2013 21:23",
+		"classOrMetaClass:" : "BenjaminVanRyseghem 9/28/2013 21:30",
+		"clearUserEditFlag" : "BenjaminVanRyseghem 9/28/2013 21:21",
+		"codePaneMenu:shifted:" : "BenjaminVanRyseghem 9/28/2013 21:17",
+		"doItContext" : "BenjaminVanRyseghem 9/28/2013 21:17",
+		"doItReceiver" : "BenjaminVanRyseghem 9/28/2013 21:17",
+		"font:" : "EstebanLorenzano 10/11/2013 15:57",
+		"getText" : "BenjaminVanRyseghem 9/28/2013 21:17",
+		"guessTypeForName:" : "BenjaminVanRyseghem 9/28/2013 22:00",
+		"hasUnacceptedEdits:" : "BenjaminVanRyseghem 9/28/2013 22:01",
+		"isAboutToStyle" : "BenjaminVanRyseghem 9/28/2013 22:03",
+		"isCodeCompletionAllowed" : "BenjaminVanRyseghem 9/28/2013 22:02",
+		"okToStyle" : "BenjaminVanRyseghem 9/28/2013 22:00",
+		"readSelection" : "BenjaminVanRyseghem 9/28/2013 21:18",
+		"receiverClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
+		"scrollValueChanged:" : "BenjaminVanRyseghem 10/1/2013 13:27",
+		"selectedBehavior" : "BenjaminVanRyseghem 9/28/2013 21:18",
+		"selectedClassOrMetaClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
+		"setScrollValue:" : "BenjaminVanRyseghem 10/1/2013 13:29",
+		"setSelection:" : "BenjaminVanRyseghem 9/28/2013 22:24",
+		"setSelectionFromModel:" : "BenjaminVanRyseghem 9/28/2013 22:36",
+		"shoutAboutToStyle:" : "BenjaminVanRyseghem 9/28/2013 21:19" } }

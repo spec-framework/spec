@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 3/25/2013 12:55",
+		"example" : "EstebanLorenzano 5/14/2013 09:44" },
+	"instance" : {
+		"getIconFor:" : "",
+		"icons" : "BenjaminVanRyseghem 7/13/2012 02:51",
+		"icons:" : "BenjaminVanRyseghem 7/13/2012 02:50",
+		"initialize" : "",
+		"whenIconsChanged:" : "BenjaminVanRyseghem 7/13/2012 02:51" } }

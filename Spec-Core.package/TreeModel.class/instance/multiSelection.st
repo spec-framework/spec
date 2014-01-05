@@ -1,0 +1,4 @@
+protocol
+multiSelection
+
+	^ multiSelection value

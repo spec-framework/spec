@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Examples-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"methodBrowser",
+		"textField" ],
+	"name" : "TextFieldExample",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

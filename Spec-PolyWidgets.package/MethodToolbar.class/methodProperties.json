@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 9/29/2013 13:46",
+		"title" : "" },
+	"instance" : {
+		"addAll:withSpec:" : "StephaneDucasse 12/19/2012 16:55",
+		"addItemLabeled:do:" : "BenjaminVanRyseghem 9/9/2013 10:02",
+		"browseMethod" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"browseModel" : "",
+		"dropListModel" : "",
+		"emptyDropList" : "BenjaminVanRyseghem 9/9/2013 10:09",
+		"implementorsMethod" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"implementorsModel" : "BenjaminVanRyseghem 9/28/2013 23:38",
+		"initialize" : "CamilloBruni 7/17/2013 22:57",
+		"initializeWidgets" : "BenjaminVanRyseghem 10/1/2013 15:42",
+		"method:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"model" : "",
+		"registerForChanges" : "",
+		"sendersMethod" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"sendersModel" : "",
+		"setBrowseModel" : "",
+		"setFocusOrder" : "",
+		"setImplementorsModel" : "",
+		"setSendersModel" : "",
+		"setVersionModel" : "",
+		"versionMethod" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"versionModel" : "" } }

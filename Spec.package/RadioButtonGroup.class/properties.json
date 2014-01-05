@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Widgets-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"buttons" ],
+	"name" : "RadioButtonGroup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

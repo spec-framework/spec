@@ -1,0 +1,4 @@
+protocol
+askOkToClose
+
+	^ askOkToClose value

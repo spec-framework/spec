@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 10/17/2013 11:58",
+		"title" : "" },
+	"instance" : {
+		"cancelAction" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"cancelAction:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"cancelButton" : "",
+		"cancelled" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"cancelled:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initialize" : "CamilloBruni 7/17/2013 22:57",
+		"initializePresenter" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"initializeWidgets" : "BenjaminVanRyseghem 6/12/2012 18:07",
+		"registerCancelButtonEvents" : "BenjaminVanRyseghem 6/12/2012 18:03" } }

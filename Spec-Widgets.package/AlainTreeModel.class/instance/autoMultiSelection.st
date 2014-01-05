@@ -1,0 +1,4 @@
+morphic
+autoMultiSelection
+
+	^ autoMultiSelection contents

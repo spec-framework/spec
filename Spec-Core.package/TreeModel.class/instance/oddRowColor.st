@@ -1,0 +1,4 @@
+protocol
+oddRowColor
+
+	^ oddRowColor value

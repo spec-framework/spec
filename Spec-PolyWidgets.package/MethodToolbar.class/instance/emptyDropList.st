@@ -1,0 +1,4 @@
+protocol
+emptyDropList
+	
+	dropListModel emptyList

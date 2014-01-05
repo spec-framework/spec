@@ -1,0 +1,25 @@
+{
+	"category" : "Spec-Core-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectionHolder",
+		"listHolder",
+		"menuHolder",
+		"shortcutsHolder",
+		"multiSelectionHolder",
+		"multiSelection",
+		"allowToSelect",
+		"listItemsCache",
+		"filteringBlockHolder",
+		"sortingBlockHolder",
+		"wrapBlockHolder",
+		"listAnnouncer" ],
+	"name" : "ListModel",
+	"pools" : [
+		 ],
+	"super" : "AbstractWidgetModel",
+	"type" : "normal" }

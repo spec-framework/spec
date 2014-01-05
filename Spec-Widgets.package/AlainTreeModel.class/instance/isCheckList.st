@@ -1,0 +1,4 @@
+morphic
+isCheckList
+
+	^ isCheckList contents

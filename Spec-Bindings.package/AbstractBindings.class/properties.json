@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Bindings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"classSymbols",
+		"selectorSymbols" ],
+	"name" : "AbstractBindings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

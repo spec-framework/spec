@@ -1,0 +1,4 @@
+protocol
+aboutText
+
+	^ aboutText value

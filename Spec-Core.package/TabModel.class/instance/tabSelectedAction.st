@@ -1,0 +1,4 @@
+protocol
+tabSelectedAction
+
+	^ tabSelectedAction value

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "BenjaminVanRyseghem 10/18/2012 15:27",
+		"tearDown" : "BenjaminVanRyseghem 1/15/2013 11:03",
+		"testBindings" : "BenjaminVanRyseghem 5/19/2013 16:25",
+		"testBuildWidgetForWithSpec" : "BenjaminVanRyseghem 5/19/2013 16:25",
+		"testConvertRandomSymbolOfClassToInstance" : "",
+		"testDynamicBuild" : "BenjaminVanRyseghem 4/2/2013 16:37",
+		"testInterpretASpecModelMorphAssociation" : "BenjaminVanRyseghem 10/18/2012 15:26" } }

@@ -1,0 +1,4 @@
+defaults
+toolbarHeight
+
+	^ 26

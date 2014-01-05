@@ -1,0 +1,15 @@
+{
+	"category" : "Spec-Tools-Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"apiSetters",
+		"model" ],
+	"name" : "WidgetSetter",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

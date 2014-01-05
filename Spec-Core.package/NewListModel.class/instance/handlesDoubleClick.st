@@ -1,0 +1,4 @@
+protocol
+handlesDoubleClick
+
+	^ handlesDoubleClick value

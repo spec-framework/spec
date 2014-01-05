@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 9/29/2013 13:41" },
+	"instance" : {
+		"checkSplitters" : "BenjaminVanRyseghem 9/29/2013 13:50",
+		"isRedrawable" : "BenjaminVanRyseghem 10/1/2013 13:32",
+		"newHSplitterAt:" : "BenjaminVanRyseghem 9/29/2013 13:50",
+		"newVSplitterAt:" : "BenjaminVanRyseghem 9/29/2013 13:50" } }

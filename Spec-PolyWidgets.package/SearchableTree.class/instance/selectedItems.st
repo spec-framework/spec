@@ -1,0 +1,4 @@
+protocol
+selectedItems
+	
+	^ tree selectedItems

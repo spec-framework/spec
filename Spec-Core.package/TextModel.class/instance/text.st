@@ -1,0 +1,4 @@
+protocol
+text
+
+	^ self getText

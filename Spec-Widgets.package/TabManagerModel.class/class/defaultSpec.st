@@ -1,0 +1,10 @@
+specs
+defaultSpec
+	<spec>
+	
+	^ SpecLayout new
+		type: #TabManager;
+		send: #setTabs: withArguments: #(#(model getTabs));
+		send: #vSpaceFill;
+		send: #hSpaceFill;
+		yourself

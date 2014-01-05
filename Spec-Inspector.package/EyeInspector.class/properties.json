@@ -1,0 +1,18 @@
+{
+	"category" : "Spec-Inspector",
+	"classinstvars" : [
+		"useAutoRefresh" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"list",
+		"text",
+		"description",
+		"refreshLoop",
+		"customMenuActions" ],
+	"name" : "EyeInspector",
+	"pools" : [
+		 ],
+	"super" : "EyeAbstractInspector",
+	"type" : "normal" }

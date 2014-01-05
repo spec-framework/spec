@@ -1,0 +1,16 @@
+{
+	"category" : "Spec-Layout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fractions",
+		"offsets",
+		"subwidget" ],
+	"name" : "SpecLayoutAddWithSpec",
+	"pools" : [
+		 ],
+	"super" : "SpecLayoutSend",
+	"type" : "normal" }

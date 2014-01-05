@@ -1,0 +1,4 @@
+morphic
+actionsBlock
+
+	^ [ self actions ]

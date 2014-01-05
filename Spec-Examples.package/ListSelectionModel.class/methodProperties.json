@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"bottomSpec" : "BenjaminVanRyseghem 10/1/2013 15:07",
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 15:10" },
+	"instance" : {
+		"initializePresenter" : "BenjaminVanRyseghem 6/12/2012 19:27",
+		"initializeWidgets" : "CamilloBruni 9/22/2013 21:36",
+		"listModel" : "BenjaminVanRyseghem 2/9/2012 17:06",
+		"textModel1" : "BenjaminVanRyseghem 2/9/2012 17:07",
+		"textModel2" : "BenjaminVanRyseghem 2/9/2012 17:07",
+		"updateText" : "AlainPlantec 7/9/2013 11:19" } }

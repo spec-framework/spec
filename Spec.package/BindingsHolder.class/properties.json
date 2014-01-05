@@ -1,0 +1,14 @@
+{
+	"category" : "Spec-Bindings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Bindings" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"bindings" ],
+	"name" : "BindingsHolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

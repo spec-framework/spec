@@ -1,0 +1,4 @@
+protocol
+contents
+
+	^ morph value

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"example" : "ChristopheDemarey 7/15/2013 17:07",
+		"new:" : "ChristopheDemarey 9/10/2013 10:25",
+		"spec" : "ChristopheDemarey 7/26/2013 13:47" },
+	"instance" : {
+		"addButton" : "ChristopheDemarey 6/27/2013 16:54",
+		"addItemBlock:" : "ChristopheDemarey 7/3/2013 18:16",
+		"bottomButton" : "ChristopheDemarey 7/26/2013 13:41",
+		"downButton" : "ChristopheDemarey 7/3/2013 18:06",
+		"initialize" : "ChristopheDemarey 10/18/2013 13:15",
+		"initializeDialogWindow:" : "ChristopheDemarey 10/18/2013 13:16",
+		"initializePresenter" : "ChristopheDemarey 9/10/2013 17:18",
+		"initializeWidgets" : "ChristopheDemarey 9/11/2013 09:59",
+		"list" : "ChristopheDemarey 6/27/2013 16:54",
+		"list:" : "ChristopheDemarey 9/10/2013 10:16",
+		"moveElementAt:to:" : "ChristopheDemarey 9/10/2013 13:37",
+		"okAction:" : "ChristopheDemarey 10/18/2013 13:19",
+		"performOkAction" : "ChristopheDemarey 10/18/2013 13:17",
+		"removeButton" : "ChristopheDemarey 6/27/2013 16:54",
+		"title" : "BenjaminVanRyseghem 10/17/2013 16:05",
+		"title:" : "ChristopheDemarey 6/27/2013 16:48",
+		"topButton" : "ChristopheDemarey 7/26/2013 13:41",
+		"upButton" : "ChristopheDemarey 7/3/2013 18:06" } }

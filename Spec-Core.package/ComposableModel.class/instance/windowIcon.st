@@ -1,0 +1,4 @@
+protocol
+windowIcon
+
+	^ windowIcon value
