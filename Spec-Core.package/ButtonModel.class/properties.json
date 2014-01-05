@@ -12,7 +12,8 @@
 		"actionPerformedHolder",
 		"askBeforeChangingHolder",
 		"iconHolder",
-		"shortcut" ],
+		"shortcut",
+		"menuHolder" ],
 	"name" : "ButtonModel",
 	"pools" : [
 		 ],

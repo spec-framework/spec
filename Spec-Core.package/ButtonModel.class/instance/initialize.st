@@ -21,5 +21,7 @@ initialize
 		self unregisterShortcut: oldShortcut.
 		self registerShortcut: newShortcut.
 		self changed: #label ].
+	
+	menuHolder := MenuModel new asValueHolder.	
 		
 	self bindKeyCombination: Character space toAction: [ self action ].
