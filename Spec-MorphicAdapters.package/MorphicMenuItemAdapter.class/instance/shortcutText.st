@@ -14,6 +14,4 @@ shortcutText
 		(StandardFonts menuFont hasGlyphsForAll: string) and: [
 		string allSatisfy: [ :c | (StandardFonts menuFont characterFormAt: c) width~= 0 ]]])
 		ifFalse: [ shortcut shortcut printString ]
-		ifTrue: [ String streamContents: [:stream | 
-				stream << shortcut shortcut modifier symbol.
-				shortcut shortcut character printOn: stream ] ]
+		ifTrue: [ String streamContents: [:stream | shortcut shortcut prettyPrintOn: stream ] ]
