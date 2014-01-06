@@ -11,6 +11,7 @@ initialize
 	multiSelectionHolder := IdentityDictionary new asValueHolder.
 	multiSelection := false asValueHolder.
 	allowToSelect := true asValueHolder.
+	backgroundColorBlock := [ :item :index | Color white ] asValueHolder.
 	listAnnouncer := Announcer new.
 	self registerEvents.
 

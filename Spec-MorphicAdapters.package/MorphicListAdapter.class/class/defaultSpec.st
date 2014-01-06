@@ -9,6 +9,7 @@ defaultSpec
 			#setIndexSelector:. 			#setIndex:.
 			#getSelectionListSelector:.		#getSelectionStateFor:.
 			#setSelectionListSelector:.		#setSelectionStateFor:at:.
+			#backgroundColoringBlockOrSelector:. #backgroundColorFor:at:.
 			#getListElementSelector:. 		#listElementAt:.
 			#resetListSelector:.			#resetListSelection.
 			#getMenuSelector:.			#menu:shifted:.
