@@ -9,6 +9,6 @@ variants
 	"We only need the basic inspector if we modify something"
 	defaultInspectorClass = Object inspectorClass
 		ifFalse: [  variants add: EyeBasicInspector ].
-	variants add: EyeObjectExplorerInspector.
+	variants add: EyeTreeInspector.
 	variants addAll: self object class additionalInspectorClasses. 
 	^ variants

@@ -1,3 +1,0 @@
-accessing
-resetBindings
-	bindings := nil.

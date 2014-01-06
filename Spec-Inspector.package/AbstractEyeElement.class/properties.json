@@ -2,6 +2,7 @@
 	"category" : "Spec-Inspector-Element",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "TInspectorActions classTrait",
 	"classvars" : [
 		 ],
 	"commentStamp" : "<historical>",
@@ -11,4 +12,5 @@
 	"pools" : [
 		 ],
 	"super" : "Object",
+	"traitcomposition" : "TInspectorActions",
 	"type" : "normal" }

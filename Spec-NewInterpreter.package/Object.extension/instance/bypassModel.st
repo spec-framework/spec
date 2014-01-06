@@ -1,3 +1,0 @@
-*Spec-NewInterpreter
-bypassModel
-	^ self

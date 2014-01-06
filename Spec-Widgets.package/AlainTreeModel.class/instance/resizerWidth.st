@@ -1,4 +1,0 @@
-morphic
-resizerWidth
-
-	^ resizerWidth contents

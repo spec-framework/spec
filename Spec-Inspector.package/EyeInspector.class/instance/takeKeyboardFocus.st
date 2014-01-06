@@ -1,3 +1,3 @@
 private
 takeKeyboardFocus
-	^ list takeKeyboardFocus
+	^ self list takeKeyboardFocus

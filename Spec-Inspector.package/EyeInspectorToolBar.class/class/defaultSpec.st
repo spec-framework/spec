@@ -5,7 +5,7 @@ defaultSpec
 		newRow: [ :r | 
 			r
 				add: #previousButton width: 24;
-				add: #inspectorChoice;
-				add: #nextButton width: 24
+				add: #nextButton width: 28;
+				add: #inspectorChoice
 		];
 	yourself.

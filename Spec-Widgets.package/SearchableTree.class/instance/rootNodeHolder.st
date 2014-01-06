@@ -1,4 +1,0 @@
-protocol
-rootNodeHolder
-
-	^ tree rootNodeHolder

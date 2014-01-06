@@ -1,1 +1,0 @@
-I am an explorer wrapper for ViewHierarchyExplorer which shows a tree for supmorphs.

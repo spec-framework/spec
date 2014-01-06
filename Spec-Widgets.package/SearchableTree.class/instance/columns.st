@@ -1,4 +1,0 @@
-protocol
-columns
-	
-	^ tree columns

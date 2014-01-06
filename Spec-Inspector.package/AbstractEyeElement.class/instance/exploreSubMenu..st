@@ -1,7 +1,7 @@
 menu
 exploreSubMenu: aMenu
-	aMenu 
-		add: 'Explore pointers'
-		target: self 
-		selector: #explorePointers;
-		addLine
+
+	aMenu addGroup: [ :aGroup |
+		aGroup addItem: [ :anItem |
+			anItem name: 'Explore Pointers';
+			action: [ self explorePointers ] ] ]

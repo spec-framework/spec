@@ -1,10 +1,8 @@
 menu
 endSubMenu: aMenu 
 	
-	aMenu 	
-		add: 'Copy name (c)' translated
-			target: self 
-			selector: #copyAccessorCode;
-		add: 'Basic inspect' translated 
-			target: self
-			selector: #basicInspectValue
+	aMenu addGroup: [ :aGroup |
+		aGroup addItem: [ :anItem |
+			anItem name: 'Copy Name';
+			action: [ self copyAccessorCode ];
+			shortcut: $c command mac | $c alt win | $c alt unix ] ]

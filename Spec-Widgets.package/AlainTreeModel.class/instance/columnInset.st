@@ -1,4 +1,0 @@
-morphic
-columnInset
-
-	^ columnInset contents

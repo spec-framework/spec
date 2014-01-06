@@ -1,4 +1,4 @@
 accessing
 object: anObject
 
-	object contents: anObject
+	object value: anObject

@@ -1,4 +1,0 @@
-morphic
-evenRowColor
-
-	^ evenRowColor contents

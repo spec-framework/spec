@@ -9,8 +9,7 @@
 		"list",
 		"text",
 		"description",
-		"refreshLoop",
-		"customMenuActions" ],
+		"refreshLoop" ],
 	"name" : "EyeInspector",
 	"pools" : [
 		 ],

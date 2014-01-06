@@ -1,4 +1,0 @@
-morphic
-isCheckList
-
-	^ isCheckList contents

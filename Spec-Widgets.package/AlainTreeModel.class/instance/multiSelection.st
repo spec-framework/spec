@@ -1,4 +1,0 @@
-morphic
-multiSelection
-
-	^ multiSelection contents

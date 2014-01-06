@@ -1,6 +1,4 @@
 event-handling
 ownerChanged
-	self
-		customMenuActions: self owner customMenuActions;
-		takeKeyboardFocus;
-		initializeAutoRefresh
+	super ownerChanged.
+	self initializeAutoRefresh

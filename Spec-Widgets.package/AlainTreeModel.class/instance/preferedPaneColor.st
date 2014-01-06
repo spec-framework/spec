@@ -1,4 +1,0 @@
-morphic
-preferedPaneColor
-
-	^ preferedPaneColor contents

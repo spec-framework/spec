@@ -1,4 +1,0 @@
-protocol
-value
-
-	^ value contents

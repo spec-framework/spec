@@ -1,3 +1,3 @@
 accessing
 selectedIndex
-	^ list selectedIndex
+	^ self list selectedIndex

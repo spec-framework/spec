@@ -1,4 +1,0 @@
-morphic
-rowInset
-
-	^ rowInset contents

@@ -1,2 +1,0 @@
-I'm a dynamic variable to help spec to easily switch the interpreter without needing to change many methods. 
-In the future (when new interpreter is completely adopted), I could be removed from system.
