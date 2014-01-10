@@ -12,6 +12,7 @@ initialize
 	multiSelection := false asValueHolder.
 	allowToSelect := true asValueHolder.
 	backgroundColorBlock := [ :item :index | Color white ] asValueHolder.
+	autoDeselect := true asValueHolder.
 	listAnnouncer := Announcer new.
 	self registerEvents.
 

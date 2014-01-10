@@ -1,8 +1,10 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 1/6/2014 16:04" },
+		"defaultSpec" : "BenjaminVanRyseghem 1/10/2014 09:59" },
 	"instance" : {
 		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 9/25/2013 18:10",
+		"autoDeselect" : "BenjaminVanRyseghem 1/10/2014 09:57",
+		"autoDeselect:" : "BenjaminVanRyseghem 1/10/2014 09:53",
 		"backgroundColorFor:" : "BenjaminVanRyseghem 1/6/2014 15:50",
 		"backgroundColorFor:at:" : "BenjaminVanRyseghem 1/6/2014 16:04",
 		"getIndex" : "BenjaminVanRyseghem 9/25/2013 18:07",

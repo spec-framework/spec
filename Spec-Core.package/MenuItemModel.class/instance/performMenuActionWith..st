@@ -1,5 +1,9 @@
 protocol
 performMenuActionWith: aMenuItem
+	| en |
 
-	self enabled ifFalse: [ ^ self ].
+	en := self enabled.
+	en isBlock ifTrue: [ en := en value ].
+	en ifFalse: [ ^ self ].
+
 	action value cull: aMenuItem

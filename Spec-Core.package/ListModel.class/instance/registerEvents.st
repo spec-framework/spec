@@ -7,6 +7,7 @@ registerEvents
 	multiSelection whenChangedDo: [ :b | self changed: { #setMultipleSelection: . b } ].
 	wrapBlockHolder whenChangedDo:[ self changed: #listElementAt: ].
 	backgroundColorBlock whenChangedDo: [ self refreshListItems ].
+	autoDeselect whenChangedDo: [ :boolean | self changed: #autoDeselect: with: { boolean }].
 	sortingBlockHolder
 		whenChangedDo: [ 
 			listHolder value: (listHolder value sorted: sortingBlockHolder value).

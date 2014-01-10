@@ -18,7 +18,8 @@
 		"sortingBlockHolder",
 		"wrapBlockHolder",
 		"listAnnouncer",
-		"backgroundColorBlock" ],
+		"backgroundColorBlock",
+		"autoDeselect" ],
 	"name" : "ListModel",
 	"pools" : [
 		 ],

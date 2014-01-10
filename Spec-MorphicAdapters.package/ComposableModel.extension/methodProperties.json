@@ -3,6 +3,8 @@
 		 },
 	"instance" : {
 		"beginsWith:fromList:" : "BenjaminVanRyseghem 10/10/2013 12:22",
+		"detectMorphicAdapterDo:" : "BenjaminVanRyseghem 1/10/2014 12:29",
+		"detectMorphicAdapterDo:ifNone:" : "BenjaminVanRyseghem 1/10/2014 12:29",
 		"ensureMorphicAdapter" : "BenjaminVanRyseghem 10/10/2013 12:22",
 		"ensureMorphicAdapterDo:" : "BenjaminVanRyseghem 10/10/2013 12:22",
 		"heightToDisplayInList:" : "BenjaminVanRyseghem 10/10/2013 12:22",
