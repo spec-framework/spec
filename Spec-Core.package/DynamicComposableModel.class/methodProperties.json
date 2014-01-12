@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"doesNotUnderstand:" : "BenjaminVanRyseghem 7/9/2012 16:01",
+		"ensureExtentFor:" : "BenjaminVanRyseghem 1/12/2014 17:03",
 		"initialize" : "CamilloBruni 7/17/2013 22:55",
 		"initializeWidgets" : "BenjaminVanRyseghem 7/10/2012 23:21",
 		"instantiateModels:" : "BenjaminVanRyseghem 7/9/2012 16:24",
