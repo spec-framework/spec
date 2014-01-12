@@ -1,5 +1,5 @@
 protocol
-image
+action
 	<api: #inspect>
 
-	^ imageHolder value
+	^ action value

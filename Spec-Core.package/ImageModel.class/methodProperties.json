@@ -1,9 +1,11 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/3/2013 23:03",
-		"title" : "SergiReyner 11/3/2013 20:07" },
+		"defaultSpec" : "BenjaminVanRyseghem 11/3/2013 23:03" },
 	"instance" : {
-		"image" : "SergiReyner 11/3/2013 19:30",
-		"image:" : "SergiReyner 11/3/2013 20:28",
-		"initialize" : "BenjaminVanRyseghem 11/3/2013 23:03",
-		"whenImageChanged:" : "SergiReyner 11/3/2013 20:33" } }
+		"action" : "BenjaminVanRyseghem 1/11/2014 22:18",
+		"action:" : "BenjaminVanRyseghem 1/11/2014 22:19",
+		"image" : "BenjaminVanRyseghem 1/11/2014 22:02",
+		"image:" : "BenjaminVanRyseghem 1/11/2014 22:20",
+		"initialize" : "BenjaminVanRyseghem 1/11/2014 22:23",
+		"whenActionChanged:" : "BenjaminVanRyseghem 1/11/2014 22:19",
+		"whenImageChanged:" : "BenjaminVanRyseghem 1/11/2014 22:19" } }

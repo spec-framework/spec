@@ -1,5 +1,7 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/3/2013 22:59" },
+		"defaultSpec" : "BenjaminVanRyseghem 1/11/2014 22:11" },
 	"instance" : {
-		"getImage" : "SergiReyner 11/3/2013 20:27" } }
+		"adapt:" : "BenjaminVanRyseghem 1/11/2014 22:22",
+		"click" : "BenjaminVanRyseghem 1/11/2014 22:23",
+		"getImage" : "BenjaminVanRyseghem 1/11/2014 22:08" } }
