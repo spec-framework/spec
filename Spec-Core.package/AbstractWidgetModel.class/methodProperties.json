@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 6/13/2012 16:36" },
+		"adapterName" : "BenjaminVanRyseghem 1/13/2014 15:31",
+		"defaultSpec" : "BenjaminVanRyseghem 1/13/2014 15:31" },
 	"instance" : {
 		"acceptDropBlock" : "BenjaminVanRyseghem 10/17/2013 16:05",
 		"acceptDropBlock:" : "BenjaminVanRyseghem 10/17/2013 16:06",
