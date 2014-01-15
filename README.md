@@ -10,6 +10,5 @@ You can download the latest version of Spec  [here](http://ezial.dyndns.org:9095
 ### Reporting a bug
 
 Bugs should be reported in [fogbugz](https://pharo.fogbugz.com/default.asp).
-Bug reports should contain a snippet whose execution will produce the reported problem.
 
-If the bug is not behavioural but cosmetic, a screenshot is highly appreciated.
+Bug reports should contain a snippet whose execution will produce the reported problem. If the bug is not behavioural but cosmetic, a screenshot is highly appreciated.
