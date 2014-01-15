@@ -2,7 +2,8 @@ specs
 defaultSpec
 	<spec>
 	
-	^ SpecLayout slider
+	^ SpecLayout new
+		type: #PluggableSliderMorph;
 		send: #model: withArguments: #( model );
 		send: #getValueSelector: withArguments: #(value);
 		send: #setValueSelector: withArguments: #( value: );
@@ -14,6 +15,6 @@ defaultSpec
 		send: #borderWidth: withArguments: #(#(model borderWidth));
 		send: #borderColor: withArguments: #(#(model borderColor));
 		send:#setBalloonText: withArguments:	#(#(model help));
-		send: #vSpaceFill;
-		send: #hSpaceFill;
+		send: #vResizing: withArguments: #(spaceFill);
+		send: #hResizing: withArguments: #(spaceFill);
 		yourself

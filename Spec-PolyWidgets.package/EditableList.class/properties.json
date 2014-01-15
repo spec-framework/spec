@@ -19,5 +19,5 @@
 	"name" : "EditableList",
 	"pools" : [
 		 ],
-	"super" : "AbstractWidgetModel",
+	"super" : "ComposableModel",
 	"type" : "normal" }
