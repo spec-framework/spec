@@ -4,9 +4,9 @@ defaultSpec
 	^ {
 		#ContainerModel.
 			#add: . {{#model . #workingCopies} . 
-					#layout: . #(FrameLayout
+					#layout: . #(#SpecLayoutFrame
 									rightFraction: 0.5)} . 
 			#add: . {{#model . #repositories } . 
-					#layout: . #(FrameLayout
+					#layout: . #(#SpecLayoutFrame
 									leftFraction: 0.5)}
 		}

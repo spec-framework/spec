@@ -15,7 +15,7 @@
 		"rightOffset",
 		"topFraction",
 		"topOffset" ],
-	"name" : "FrameLayout",
+	"name" : "SpecLayoutFrame",
 	"pools" : [
 		 ],
 	"super" : "Object",
