@@ -1,7 +1,9 @@
 private
 buildLabel: text withIcon: icon
-	
-	icon ifNil: [ ^ text ].
+
+	icon ifNil: [ ^ text
+			ifNil: [ '' ]
+			ifNotNil: [ text ] ].
 	
 	^ IconicListItem 
 		text: text 
