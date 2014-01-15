@@ -10,7 +10,6 @@ updateCodeFromContext: aContext
 				setSelection: (1 to: 0) ]
 		ifNotNil: [ |selectionInterval|
 			selectionInterval := self session selectedCodeRangeForContext: aContext.
-			self logCr: aContext receiver class.
 			self code
 				aboutToStyle: true;
 				text: aContext sourceCode;

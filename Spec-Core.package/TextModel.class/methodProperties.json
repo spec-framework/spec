@@ -1,6 +1,7 @@
 {
 	"class" : {
 		"adapterName" : "BenjaminVanRyseghem 1/13/2014 15:26",
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:39",
 		"example" : "SeanDeNigris 4/19/2013 22:50",
 		"title" : "" },
 	"instance" : {
@@ -8,7 +9,7 @@
 		"aboutToStyleBlock" : "BenjaminVanRyseghem 10/17/2013 16:05",
 		"aboutToStyleBlock:" : "BenjaminVanRyseghem 10/17/2013 16:06",
 		"accept" : "BenjaminVanRyseghem 11/23/2013 23:19",
-		"accept:notifying:" : "BenjaminVanRyseghem 10/17/2013 16:06",
+		"accept:notifying:" : "BenjaminVanRyseghem 1/5/2014 02:24",
 		"acceptBlock" : "BenjaminVanRyseghem 10/17/2013 16:05",
 		"acceptBlock:" : "BenjaminVanRyseghem 10/17/2013 16:06",
 		"askBeforeDiscardingEdits" : "BenjaminVanRyseghem 11/27/2013 15:00",

@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"adapterName" : "BenjaminVanRyseghem 1/13/2014 15:30" },
+		"adapterName" : "BenjaminVanRyseghem 1/13/2014 15:30",
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 13:39" },
 	"instance" : {
 		"buildWithSpecLayout:" : "BenjaminVanRyseghem 9/28/2013 23:50",
 		"cancelAction:" : "BenjaminVanRyseghem 9/28/2013 23:49",
