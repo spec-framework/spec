@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 9/27/2013 10:23" },
+		"defaultSpec" : "BenjaminVanRyseghem 12/10/2013 23:08" },
 	"instance" : {
 		"aboutText" : "BenjaminVanRyseghem 9/25/2013 16:41",
 		"aboutTitle" : "BenComan 12/18/2013 01:34",
@@ -15,6 +15,8 @@
 		"initialExtent" : "BenjaminVanRyseghem 9/25/2013 16:25",
 		"initialize" : "BenjaminVanRyseghem 9/25/2013 15:41",
 		"isDisplayed" : "BenjaminVanRyseghem 9/25/2013 16:04",
+		"isResizeable" : "BenjaminVanRyseghem 12/10/2013 23:08",
+		"isResizeable:" : "BenjaminVanRyseghem 12/10/2013 23:08",
 		"modalRelativeTo:" : "BenjaminVanRyseghem 12/1/2013 01:07",
 		"okToChange" : "NicolaiHess 12/22/2013 23:33",
 		"open" : "BenjaminVanRyseghem 9/25/2013 16:00",
