@@ -9,7 +9,8 @@
 		"model",
 		"initialExtent",
 		"title",
-		"isClosedHolder" ],
+		"isClosedHolder",
+		"isResizeable" ],
 	"name" : "WindowModel",
 	"pools" : [
 		 ],
