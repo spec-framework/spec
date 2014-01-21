@@ -1,11 +1,21 @@
 {
 	"class" : {
-		"browseVersionsForClass:selector:" : "MarcusDenker 9/28/2013 20:57",
-		"browseVersionsOf:class:meta:category:selector:" : "BenjaminVanRyseghem 6/14/2012 09:56" },
+		"browseVersionsForClass:selector:" : "BenjaminVanRyseghem 10/18/2013 13:33",
+		"browseVersionsOf:" : "BenjaminVanRyseghem 10/18/2013 13:29",
+		"browseVersionsOf:class:meta:category:selector:" : "BenjaminVanRyseghem 6/14/2012 09:56",
+		"versionsBrowserListMenu:" : "NicolaiHess 1/20/2014 01:31" },
 	"instance" : {
+		"browseImplementors" : "NicolaiHess 1/20/2014 01:35",
+		"browseSenders" : "NicolaiHess 1/20/2014 01:35",
 		"browseVersionsOf:class:meta:category:selector:" : "BenjaminVanRyseghem 6/14/2012 11:50",
-		"browserForList:" : "BenjaminVanRyseghem 9/9/2013 10:08",
-		"buildBrowser" : "BenjaminVanRyseghem 6/14/2012 11:40",
+		"browser" : "NicolaiHess 1/20/2014 00:03",
+		"browserForList:" : "NicolaiHess 1/20/2014 01:57",
+		"buildBrowser" : "NicolaiHess 1/20/2014 01:40",
 		"buildChangeList" : "BenjaminVanRyseghem 6/14/2012 11:50",
-		"revert:" : "BenjaminVanRyseghem 6/14/2012 11:44",
-		"scanVersionsOf:class:meta:category:selector:" : "ClementBera 6/28/2013 10:35" } }
+		"compareTo:" : "NicolaiHess 1/20/2014 01:29",
+		"compareToCurrentVersion" : "NicolaiHess 1/20/2014 01:20",
+		"compareToOtherVersion" : "NicolaiHess 1/20/2014 01:35",
+		"revert:" : "NicolaiHess 1/19/2014 19:48",
+		"scanVersionsOf:class:meta:category:selector:" : "NicolaiHess 1/20/2014 01:55",
+		"showDiffMorphWithConverter:" : "NicolaiHess 1/19/2014 17:15",
+		"showSourceWithConverter:" : "BenjaminVanRyseghem 10/18/2013 14:51" } }

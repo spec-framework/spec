@@ -17,6 +17,6 @@ methodRemoved: anAnnouncement
 			self
 				messages:
 					(listModel listItems
-						remove: item asRingDefinition ifAbsent: [ nil ];
+						remove: item asFullRingDefinition ifAbsent: [ nil ];
 						yourself).
 			listModel setSelectedIndex: sel ]
