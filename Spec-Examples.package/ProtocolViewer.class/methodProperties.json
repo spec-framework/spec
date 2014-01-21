@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 1/21/2014 15:45" },
+	"instance" : {
+		"events" : "BenjaminVanRyseghem 1/21/2014 15:33",
+		"initializePresenter" : "BenjaminVanRyseghem 1/21/2014 16:28",
+		"initializeWidgets" : "BenjaminVanRyseghem 1/21/2014 16:30",
+		"methodsIn:for:" : "BenjaminVanRyseghem 1/21/2014 16:21",
+		"models" : "BenjaminVanRyseghem 1/21/2014 15:33",
+		"protocols" : "BenjaminVanRyseghem 1/21/2014 15:33",
+		"resetEventSelection" : "BenjaminVanRyseghem 1/21/2014 16:15",
+		"resetProtocolSelection" : "BenjaminVanRyseghem 1/21/2014 16:15",
+		"title" : "BenjaminVanRyseghem 1/21/2014 16:38",
+		"whenClassChanged:" : "BenjaminVanRyseghem 1/21/2014 16:22",
+		"whenEventChangedDo:" : "BenjaminVanRyseghem 1/21/2014 16:16",
+		"whenProtocolChangedDo:" : "BenjaminVanRyseghem 1/21/2014 16:16" } }

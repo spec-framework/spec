@@ -1,0 +1,4 @@
+protocol
+resetEventSelection
+
+	events resetSelection

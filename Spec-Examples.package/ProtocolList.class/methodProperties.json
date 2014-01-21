@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultSpec" : "BenjaminVanRyseghem 1/21/2014 15:32" },
+	"instance" : {
+		"displayBlock:" : "BenjaminVanRyseghem 1/21/2014 16:19",
+		"initializeWidgets" : "BenjaminVanRyseghem 1/21/2014 16:30",
+		"items:" : "BenjaminVanRyseghem 1/21/2014 15:26",
+		"label" : "BenjaminVanRyseghem 1/21/2014 15:25",
+		"label:" : "BenjaminVanRyseghem 1/21/2014 15:26",
+		"protocols" : "BenjaminVanRyseghem 1/21/2014 15:25",
+		"resetSelection" : "BenjaminVanRyseghem 1/21/2014 16:17",
+		"title" : "BenjaminVanRyseghem 1/21/2014 16:37",
+		"whenSelectedItemChanged:" : "BenjaminVanRyseghem 1/21/2014 16:16" } }
