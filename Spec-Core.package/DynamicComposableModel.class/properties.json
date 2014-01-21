@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"widgets" ],
+		"widgets",
+		"layout" ],
 	"name" : "DynamicComposableModel",
 	"pools" : [
 		 ],

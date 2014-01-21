@@ -2,11 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"assign:to:" : "BenjaminVanRyseghem 1/21/2014 09:48",
 		"doesNotUnderstand:" : "BenjaminVanRyseghem 7/9/2012 16:01",
-		"ensureExtentFor:" : "BenjaminVanRyseghem 1/12/2014 17:03",
-		"initialize" : "CamilloBruni 7/17/2013 22:55",
+		"initialize" : "BenjaminVanRyseghem 1/21/2014 09:51",
 		"initializeWidgets" : "BenjaminVanRyseghem 7/10/2012 23:21",
 		"instantiateModels:" : "BenjaminVanRyseghem 7/9/2012 16:24",
+		"layout" : "BenjaminVanRyseghem 1/21/2014 09:53",
+		"layout:" : "BenjaminVanRyseghem 1/21/2014 09:53",
 		"needFullRebuild:" : "BenjaminVanRyseghem 7/10/2012 21:51",
+		"openWithSpec" : "BenjaminVanRyseghem 1/21/2014 09:54",
+		"retrieveSpec:" : "BenjaminVanRyseghem 1/21/2014 09:55",
 		"widgets" : "BenjaminVanRyseghem 7/11/2012 03:30",
 		"widgetsDo:" : "BenjaminVanRyseghem 7/10/2012 21:51" } }
