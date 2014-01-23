@@ -15,4 +15,5 @@ curl get.pharo.org/vm | bash
 IMAGE=$PWD/$1
 SCRIPT=`cat script.st`
 
+echo "Loading Spec code into $IMAGE"
 ./pharo "$IMAGE" eval --save "$SCRIPT"
