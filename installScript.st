@@ -19,8 +19,12 @@ WorldModel
 
 repo := MCFileTreeRepository new directory: 'spec-master' asFileReference.
 
-currentVersions := MCWorkingCopy allManagers collect: [ :e | e ancestry ancestors first name ].
+currentVersions := MCWorkingCopy allManagers 
+	select: [ :e | (e ancestry ancestors) notEmpty ] 
+	thenCollect: [ :e | e ancestry ancestors first name ].
+	
 names := repo packageDescriptionsFromReadableFileNames.
+
 toLoad := names select: [ :e || currentVersion | 
 	currentVersion := e first , '-', e second , '.', e third asString.
 	(currentVersions includes: currentVersion) not ].
