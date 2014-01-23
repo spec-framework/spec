@@ -1,7 +1,7 @@
 initialization
 initialize
 
-	debugger := nil asValueHolder.
+	debugger := nil asReactiveVariable.
 	super initialize.
 	
 	self whenWindowChanged: [:w | w whenClosedDo: [ self clear ] ].

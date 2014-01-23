@@ -1,7 +1,7 @@
 initialization
 initialize
 
-	methodHolder := nil asValueHolder.
+	methodHolder := nil asReactiveVariable.
 	model := AbstractTool new.
 	
 	super initialize.

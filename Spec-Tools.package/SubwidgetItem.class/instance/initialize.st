@@ -3,6 +3,6 @@ initialize
 
 	super initialize.
 	
-	model := nil asValueHolder.
+	model := nil asReactiveVariable.
 	initialExtent := 400@25.
-	validated := false asValueHolder.
+	validated := false asReactiveVariable.

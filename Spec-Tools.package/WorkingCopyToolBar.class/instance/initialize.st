@@ -3,4 +3,4 @@ initialize
 
 	super initialize.
 	
-	workingCopyHolder := nil asValueHolder
+	workingCopyHolder := nil asReactiveVariable

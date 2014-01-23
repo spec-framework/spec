@@ -3,6 +3,6 @@ initialize
 
 	super initialize.
 
-	textHolder := '' asValueHolder.
-	enabledHolder := true asValueHolder.
+	textHolder := '' asReactiveVariable.
+	enabledHolder := true asReactiveVariable.
 	textHolder whenChangedDo: [ self changed: #getText ].
