@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"defaultSpec" : "BenjaminVanRyseghem 10/7/2013 13:46",
-		"setUpWorld" : "BenjaminVanRyseghem 6/5/2013 22:51" },
+		"setUpWorld" : "BenjaminVanRyseghem 1/23/2014 16:26" },
 	"instance" : {
 		"addModelIn:withSpec:" : "BenjaminVanRyseghem 5/14/2013 22:41",
 		"addModelIn:withSpecLayout:" : "BenjaminVanRyseghem 5/14/2013 22:41",

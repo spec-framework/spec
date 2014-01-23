@@ -1,5 +1,4 @@
 protocol
 color: color
 
-	self widget 
-		ifNotNil: [ :w | w color: color ]
+	self widgetDo: [ :w | w color: color ]

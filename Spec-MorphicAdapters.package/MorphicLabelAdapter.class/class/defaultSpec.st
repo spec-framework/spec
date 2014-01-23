@@ -2,7 +2,7 @@ specs
 defaultSpec
 	<spec>
 	^ {#LabelMorph.
-			#color:. Color black.
+			#color:. #(model color).
 			#model:. 				#model.
 			#getEnabledSelector:.	#enabled.
 			#getTextSelector:.		#getText.
