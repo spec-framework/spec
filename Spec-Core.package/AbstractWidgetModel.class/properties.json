@@ -15,7 +15,8 @@
 		"dragTransformationBlock",
 		"wantDropBlock",
 		"acceptDropBlock",
-		"transferBlock" ],
+		"transferBlock",
+		"color" ],
 	"name" : "AbstractWidgetModel",
 	"pools" : [
 		 ],
