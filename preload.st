@@ -8,4 +8,4 @@
 	on: MCNoChangesException 
 	do: [].
 	
-ReactiveVariable
+Smalltalk at: #ReactiveVariable
