@@ -1,3 +1,5 @@
+| repo names currentVersions toLoad |
+
 [ [ Gofer it
 	smalltalkhubUser: 'Pharo' project: 'Pharo30Inbox';
 	package: 'SLICE-Issue-12684-NewValueHolder-Enhancements';
