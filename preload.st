@@ -17,9 +17,7 @@ currentVersions := MCWorkingCopy allManagers
 	
 names := repo packageDescriptionsFromReadableFileNames.
 
-toLoad := names select: [ :e || currentVersion | 
-	currentVersion := e first , '-', e second , '.', e third asString.
-	(e first = 'ReactiveVariable') and: [ (currentVersions includes: currentVersion) not ] ].
+toLoad := names select: [ :e |e first = 'ReactiveVariable' ].
 
 toLoad do: [ :name || version |
 	version := repo versionFromFileNamed: name first, '.package'.
