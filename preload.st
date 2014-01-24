@@ -14,3 +14,5 @@ WorldModel
 	do: [ :ex | ex merge ] ] 
 	on: MCNoChangesException 
 	do: [].
+	
+ReactiveVariable
