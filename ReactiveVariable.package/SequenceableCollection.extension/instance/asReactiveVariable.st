@@ -1,4 +1,4 @@
-*Spec-Core
+*ReactiveVariable
 asReactiveVariable
 
 	^ CollectionReactiveVariable value: self

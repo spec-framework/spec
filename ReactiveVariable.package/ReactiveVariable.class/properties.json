@@ -1,0 +1,16 @@
+{
+	"category" : "ReactiveVariable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BenjaminVanRyseghem 1/23/2014 12:07",
+	"instvars" : [
+		"announcer",
+		"lock",
+		"value" ],
+	"name" : "ReactiveVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

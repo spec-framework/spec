@@ -1,0 +1,14 @@
+{
+	"category" : "ReactiveVariable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BenjaminVanRyseghem 1/23/2014 15:19",
+	"instvars" : [
+		 ],
+	"name" : "ReactiveOnRealChangeVariable",
+	"pools" : [
+		 ],
+	"super" : "ReactiveVariable",
+	"type" : "normal" }

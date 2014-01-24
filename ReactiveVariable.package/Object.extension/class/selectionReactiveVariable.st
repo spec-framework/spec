@@ -1,0 +1,4 @@
+*ReactiveVariable
+selectionReactiveVariable
+
+	^ SelectionReactiveVariable new

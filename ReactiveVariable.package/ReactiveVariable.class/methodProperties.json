@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"value:" : "BenjaminVanRyseghem 10/17/2013 16:23" },
+	"instance" : {
+		"addDependent:" : "MarcusDenker 9/14/2013 10:28",
+		"handleCircularReferencesWhile:" : "BenjaminVanRyseghem 1/23/2014 12:35",
+		"initialize" : "BenjaminVanRyseghem 8/20/2012 11:38",
+		"printOn:" : "BenjaminVanRyseghem 10/17/2013 17:10",
+		"value" : "BenjaminVanRyseghem 10/17/2013 16:48",
+		"value:" : "BenjaminVanRyseghem 1/23/2014 12:34",
+		"valueChanged" : "BenjaminVanRyseghem 10/17/2013 17:00",
+		"valueChanged:" : "BenjaminVanRyseghem 10/17/2013 17:02",
+		"valueChanged:to:" : "BenjaminVanRyseghem 10/17/2013 17:02",
+		"whenChangedDo:" : "BenjaminVanRyseghem 10/17/2013 17:01",
+		"whenChangedSend:to:" : "EstebanLorenzano 9/8/2013 16:05" } }

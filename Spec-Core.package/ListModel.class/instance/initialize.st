@@ -2,7 +2,7 @@ initialization
 initialize
 	super initialize.
 	
-	selectionHolder := SelectionReactiveVariable new.
+	selectionHolder := Object selectionReactiveVariable.
 	listHolder := Array new asReactiveVariable.
 	sortingBlockHolder := self defaultSortingBlock asReactiveVariable.
 	filteringBlockHolder := self defaultFilteringBlock asReactiveVariable.

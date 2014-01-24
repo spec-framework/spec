@@ -1,0 +1,14 @@
+{
+	"category" : "ReactiveVariable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BenjaminVanRyseghem 1/23/2014 15:18",
+	"instvars" : [
+		 ],
+	"name" : "DictionaryReactiveVariable",
+	"pools" : [
+		 ],
+	"super" : "ReactiveVariable",
+	"type" : "normal" }

@@ -1,4 +1,6 @@
 protocol
 color
 
-	^ color value
+	^ self widget
+		ifNil: [ Color white ]
+		ifNotNil: [:w | w color ]

@@ -4,7 +4,7 @@ initialize
 	super initialize.
 
 	listHolder := OrderedCollection new asReactiveVariable.
-	selectionHolder := SelectionReactiveVariable new.
+	selectionHolder := Object selectionReactiveVariable.
 	
 	listHolder whenChangedDo: [ 
 					self changed: #getList.
