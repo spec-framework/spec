@@ -16,14 +16,13 @@ curl get.pharo.org/vm | bash
 
 IMAGE=$PWD/$1
 
-SCRIPT=`cat preload.st`
-echo "Preloading"
-./pharo "$IMAGE" eval --save "$SCRIPT"
-
+PRE_SCRIPT=`cat preload.st`
 SCRIPT=`cat script.st`
-echo "Loading Spec code"
-./pharo "$IMAGE" eval --save "$SCRIPT"
+POST_SCRIPT=`cat postload.st`
 
-SCRIPT=`cat postload.st`
-echo "Loading Spec code"
-./pharo "$IMAGE" eval --save "$SCRIPT"
+echo "Preloading" ; 
+./pharo "$IMAGE" eval --save "$PRE_SCRIPT" ; 
+echo "Loading Spec code";
+./pharo "$IMAGE" eval --save "$SCRIPT";
+echo "Loading Spec code";
+./pharo "$IMAGE" eval --save "$POST_SCRIPT"
