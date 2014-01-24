@@ -18,4 +18,3 @@ toLoad do: [ :name || version |
 	[ version load ]
 		on: MCMergeOrLoadWarning
 		do: [ :ex | ex load ] ].
-
