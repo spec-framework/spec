@@ -8,7 +8,7 @@
 	"instvars" : [
 		"viewer",
 		"text" ],
-	"name" : "ProtocolEditor",
+	"name" : "ProtocolBrowser",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",
