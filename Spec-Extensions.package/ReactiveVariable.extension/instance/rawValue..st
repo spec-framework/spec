@@ -1,4 +1,4 @@
-*Spec-Core
+*Spec-Extensions
 rawValue: aValue
 
 	value := aValue
