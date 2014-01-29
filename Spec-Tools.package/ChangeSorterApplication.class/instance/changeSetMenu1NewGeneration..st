@@ -53,6 +53,3 @@ changeSetMenu1NewGeneration: aMenuModel
 	aMenuModel
 		addMenuGroup: group;
 		addMenuGroup: group2.
-	self classesListModel menu: aMenuModel.
-		
-	

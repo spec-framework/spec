@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"changesListMenu:" : "EstebanLorenzano 1/31/2013 18:33",
-		"classListMenu:" : "EstebanLorenzano 1/31/2013 18:33",
+		"classListMenu:" : "BenjaminVanRyseghem 1/29/2014 16:44",
 		"defaultSpec" : "BenjaminVanRyseghem 7/31/2012 16:16",
 		"menuCommandOn:" : "MarcusDenker 9/29/2013 15:34",
 		"messageListMenu:" : "EstebanLorenzano 1/31/2013 18:34",
@@ -11,9 +11,9 @@
 	"instance" : {
 		"changeSorterLeft" : "",
 		"changeSorterRight" : "",
-		"changesMenu:shifted:from:to:" : "RobertoMinelli 12/20/2013 11:10",
+		"changesMenu:shifted:from:to:" : "BenjaminVanRyseghem 1/29/2014 16:32",
 		"checkThatSidesDiffer:" : "",
-		"classMenu:shifted:from:to:" : "RobertoMinelli 12/20/2013 11:08",
+		"classMenu:shifted:from:to:" : "BenjaminVanRyseghem 1/29/2014 16:46",
 		"copyAllFrom:to:" : "BenjaminVanRyseghem 6/13/2012 11:58",
 		"copyClassFrom:to:" : "AlejandroInfante 11/11/2013 14:53",
 		"copyMethodFrom:to:" : "BenjaminVanRyseghem 6/13/2012 12:18",
@@ -23,7 +23,7 @@
 		"initializeWidgets" : "CamilloBruni 7/17/2013 22:55",
 		"menusRegistration" : "BenjaminVanRyseghem 6/13/2012 12:30",
 		"menusRegistrationFrom:to:" : "BenjaminVanRyseghem 6/13/2012 12:29",
-		"messageMenu:shifted:from:to:" : "RobertoMinelli 12/20/2013 11:10",
+		"messageMenu:shifted:from:to:" : "BenjaminVanRyseghem 1/29/2014 16:41",
 		"model" : "",
 		"moveClassFrom:to:" : "BenjaminVanRyseghem 6/13/2012 12:14",
 		"moveMethodFrom:to:" : "BenjaminVanRyseghem 6/13/2012 12:19",
