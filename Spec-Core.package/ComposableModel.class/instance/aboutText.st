@@ -1,4 +1,4 @@
 protocol
 aboutText
 
-	^ aboutText value
+	^ aboutText value ifNil: [ aboutText value: self class comment ]
