@@ -1,4 +1,4 @@
 defaults
 buttonWidth
 
-	^ 76
+	^ (StandardFonts defaultFont widthOfString: 'eilwp') + 44
