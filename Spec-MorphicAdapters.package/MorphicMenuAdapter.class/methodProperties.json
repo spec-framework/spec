@@ -1,8 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/1/2013 18:44" },
+		"adaptAsPopup:" : "BenjaminVanRyseghem 2/18/2014 23:02",
+		"defaultSpec" : "BenjaminVanRyseghem 2/18/2014 23:06",
+		"popupSpec" : "BenjaminVanRyseghem 2/18/2014 23:03" },
 	"instance" : {
-		"buildWidget" : "BenjaminVanRyseghem 11/1/2013 14:32",
+		"adaptAsPopup:" : "BenjaminVanRyseghem 2/18/2014 23:11",
+		"buildWidget" : "BenjaminVanRyseghem 2/18/2014 23:07",
+		"buildWidgetPopup" : "BenjaminVanRyseghem 2/18/2014 23:03",
 		"icon" : "BenjaminVanRyseghem 11/1/2013 14:37",
 		"menuGroups" : "BenjaminVanRyseghem 1/11/2014 20:11",
 		"openAt:" : "BenjaminVanRyseghem 1/5/2014 17:29",

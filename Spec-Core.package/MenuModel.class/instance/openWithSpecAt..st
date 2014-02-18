@@ -1,5 +1,5 @@
 protocol
 openWithSpecAt: aPosition
 
-	self buildWithSpec.
+	self buildWithSpecAsPopup.
 	self changed: #openAt: with: { aPosition }

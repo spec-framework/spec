@@ -5,7 +5,7 @@ initialize
 
 	action := [] asReactiveVariable.
 	enabled := true asReactiveVariable.
-	state := nil asReactiveVariable.
+	state := true asReactiveVariable.
 	description := nil asReactiveVariable.
 	name := '' asReactiveVariable.
 	shortcut := nil asReactiveVariable.
