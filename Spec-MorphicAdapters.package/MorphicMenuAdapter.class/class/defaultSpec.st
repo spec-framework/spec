@@ -2,4 +2,7 @@ specs
 defaultSpec
 	<spec>
 	
-	^ #(ToolDockingBarMorph)
+	^ {#ToolDockingBarMorph.
+		#hResizing:. #spaceFill.
+		#vResizing:. #spaceFill.
+		#borderColor:. Color transparent}

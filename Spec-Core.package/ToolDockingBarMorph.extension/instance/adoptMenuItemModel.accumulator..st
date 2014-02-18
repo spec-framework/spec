@@ -7,10 +7,11 @@ adoptMenuItemModel: item accumulator: controls
 			controls add: button ]
 		ifNotNil: [ 
 			self emptyAccumulator: controls.
+			self addMorphBack: (Smalltalk ui theme newToolSpacerIn: self).
 			self 
 				add: item name
 				font: Smalltalk ui theme menuBarFont
 				icon: item icon
 				help: item description
-				subMenu: item subMenu buildWithSpecAsPopup
-			 ]
+				subMenu: item subMenu buildWithSpecAsPopup.
+			self addMorphBack: (Smalltalk ui theme newToolSpacerIn: self) ]

@@ -1,6 +1,7 @@
 *Spec-Core
 adoptMenuModel: aMenuModel
-"	| firstGroup |
-	
-	firstGroup := aMenuModel groups first."
-	aMenuModel menuGroups do: [ :aGroup | self adoptMenuGroupModel: aGroup ]
+
+	aMenuModel menuGroups doWithIndex: [ :aGroup :index | 
+		self 
+			adoptMenuGroupModel: aGroup
+			first: (index = 1) ]

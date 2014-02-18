@@ -3,7 +3,7 @@ buildButtonFor: item
 
 	^ Smalltalk ui theme
 		newButtonIn: self for: item
-		getState: #state
+		getState: #enabled
 		action: #performMenuActionWith:
 		arguments: { self }
 		getEnabled: #enabled 
