@@ -1,4 +1,4 @@
 widget API
 menu: aMenu shifted: aBoolean
 
-	^ (self model menu: aMenu shifted: aBoolean) buildWithSpec
+	^ (self model menu: aMenu shifted: aBoolean) buildWithSpecAsPopup
