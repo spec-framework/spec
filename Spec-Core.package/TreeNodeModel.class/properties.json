@@ -18,7 +18,8 @@
 		"lastClicked",
 		"mouseDownAction",
 		"hasContentToShow",
-		"isExpanded" ],
+		"isExpanded",
+		"hasChildren" ],
 	"name" : "TreeNodeModel",
 	"pools" : [
 		 ],

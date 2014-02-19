@@ -1,4 +1,4 @@
 protocol
 childrenFor: anItem
 
-	^ childrenBlockHolder value cull: anItem cull: self
+	^ self childrenBlock cull: anItem cull: self

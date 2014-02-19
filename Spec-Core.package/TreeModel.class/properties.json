@@ -30,7 +30,8 @@
 		"allowMenuOnNoItem",
 		"rootNodeHolder",
 		"removeOnlyLastSelected",
-		"highlightedItem" ],
+		"highlightedItem",
+		"hasChildrenBlockHolder" ],
 	"name" : "TreeModel",
 	"pools" : [
 		 ],

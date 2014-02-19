@@ -9,7 +9,8 @@
 		"nodeModel",
 		"icon",
 		"childrenItems",
-		"contents" ],
+		"contents",
+		"hasContents" ],
 	"name" : "SpecTreeNodeModel",
 	"pools" : [
 		 ],
