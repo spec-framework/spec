@@ -1,3 +1,3 @@
 *Spec-Inspector
 inspectorClass
-	^ EyeContextInspector
+	^ EyeMethodContextInspector

@@ -1,11 +1,12 @@
 menu
-changesMenu: menu shifted: shifted from: src to: dest
- 	| menuSrc1 |
-	
-	menuSrc1 := menu copy. 
-	src changeSetMenu1: menuSrc1 shifted: shifted.
-	 
-	menu fromSpec: (PragmaMenuBuilder 
+changesMenu: menu shifted: shifted from: sourcePanel to: destinationPanel
+
+	| menuDest |
+	sourcePanel changeSetMenu1: menu shifted: shifted.
+	menuDest := MenuModel new fromSpec: (PragmaMenuBuilder
 		pragmaKeyword: 'dualChangeSorteChangesListMenu'
-		model: {self. src. dest}) 
-		menuSpec
+		model: {self. sourcePanel. destinationPanel}) 
+		menuSpec.
+	menuDest menuGroups do: [ :each | menu addMenuGroup: each ].
+	sourcePanel changeSetMenu2: menu shifted: shifted.		
+	^ menu

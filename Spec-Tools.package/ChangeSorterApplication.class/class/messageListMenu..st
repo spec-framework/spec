@@ -4,7 +4,6 @@ messageListMenu: aBuilder
 	<changeSorterMessageListMenu>
 	
 	| target |
-	
 	target := aBuilder model.
 	
 	(aBuilder item: #'Delete method from changeSet')

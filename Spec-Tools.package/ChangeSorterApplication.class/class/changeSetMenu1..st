@@ -4,7 +4,6 @@ changeSetMenu1: aBuilder
 	<changeSorterChangeSetList1Menu>
 	
 	| target |
-	
 	target := aBuilder model.
 	
 	target selectedChangeSet ifNotNil: [

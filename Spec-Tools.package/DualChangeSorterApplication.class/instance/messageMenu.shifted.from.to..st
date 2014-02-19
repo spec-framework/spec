@@ -1,14 +1,14 @@
 menu
-messageMenu: menu shifted: shifted from: src to: dest
+messageMenu: menu shifted: shifted from: sourcePanel to: destinationPanel
 	"Fill aMenu with items appropriate for the message list; could be for a single or double changeSorter"
-	| menuSrc |
 	
-	src selectedSelector ifNil: [ ^ nil ].
-
-	menuSrc := menu copy.
-	src messageMenu: menuSrc shifted: shifted.
+	| menuDual |
 	
-	menu fromSpec: (PragmaMenuBuilder 
+	sourcePanel selectedSelector ifNil: [ ^ nil ].
+	sourcePanel messageMenu: menu shifted: shifted.
+	menuDual := MenuModel new fromSpec: (PragmaMenuBuilder 
 		pragmaKeyword: 'dualChangeSorterMessageListMenu'
-		model: {self. src. dest}) 
+		model: { self. sourcePanel. destinationPanel }) 
 		menuSpec.
+	menuDual menuGroups do: [ :each | menu addMenuGroup: each ].
+	^menu	

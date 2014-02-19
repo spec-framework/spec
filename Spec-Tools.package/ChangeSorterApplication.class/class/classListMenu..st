@@ -4,7 +4,6 @@ classListMenu: aBuilder
 	<changeSorterClassListMenu>
 	
 	| target |
-	
 	target := aBuilder model.
 	
 	(aBuilder item: #'Delete class from change set')

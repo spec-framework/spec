@@ -1,0 +1,1 @@
+Widget setter API for boolean

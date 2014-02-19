@@ -10,5 +10,5 @@
 	"name" : "EyeDebuggerContextInspector",
 	"pools" : [
 		 ],
-	"super" : "EyeContextInspector",
+	"super" : "EyeMethodContextInspector",
 	"type" : "normal" }

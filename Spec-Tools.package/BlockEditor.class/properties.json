@@ -4,14 +4,14 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "TorstenBergmann 2/5/2014 09:19",
 	"instvars" : [
 		"block",
 		"ok",
 		"post",
 		"pre",
 		"text" ],
-	"name" : "BlocEditor",
+	"name" : "BlockEditor",
 	"pools" : [
 		 ],
 	"super" : "ComposableModel",

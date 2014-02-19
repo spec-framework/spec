@@ -2,7 +2,7 @@ text
 buildSelectorDescriptionFor: changeSet class: class selector: selector prettyPrint: prettyPrint showDiff: showDiff
 
 	| changeType code |
-	changeType := changeSet atSelector: selector class: class name.
+	changeType := changeSet atSelector: selector class: class.
 	
 	changeType == #remove
 		ifTrue: [^ 'Method has been removed (see versions)'].

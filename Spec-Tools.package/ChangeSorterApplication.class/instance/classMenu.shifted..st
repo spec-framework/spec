@@ -4,7 +4,5 @@ classMenu: aMenu shifted: shifted
 
 	self selectedClass ifNil: [ ^ nil ].
 	aMenu title: 'Class list'.
-
 	aMenu addAllFromPragma: 'changeSorterClassListMenu' target: self.
-	
 	^aMenu
