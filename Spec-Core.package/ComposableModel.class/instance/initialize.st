@@ -9,7 +9,7 @@ initialize
 	keyStrokesForPreviousFocusHolder := { KMNoShortcut new } asReactiveVariable.
 	additionalKeyBindings := Dictionary new.
 	announcer := Announcer new asReactiveVariable.
-	aboutText := '' asReactiveVariable.
+	aboutText := nil asReactiveVariable.
 	windowIcon := nil asReactiveVariable.
 	window := nil asReactiveVariable.
 	askOkToClose := false asReactiveVariable.
