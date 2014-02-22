@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 9/25/2013 18:49" },
+		"defaultSpec" : "BenjaminVanRyseghem 2/22/2014 16:41" },
 	"instance" : {
 		"acceptDroppingMorph:atIndex:event:inMorph:" : "BenjaminVanRyseghem 9/25/2013 18:45",
 		"allowToSelect" : "BenjaminVanRyseghem 9/25/2013 18:45",

@@ -13,6 +13,8 @@ defaultSpec
 		#whenSelectedItemChangedDo:.	#(model itemHasBeenSelected).
 		#whenSelectedItemsChangedDo:.	#(model itemsHasBeenSelected).
 		#whenHeaderIsClickedDo:.	#(model headerClickedBlock).
+		#dragEnabled:. #(model dragEnabled).
+		#dropEnabled:. #(model dropEnabled).
 		#endOfInitialization.
 		#setIndex:.				#(model selectedIndex).
 		#hasHeader:.	#(model hasHeader).}
