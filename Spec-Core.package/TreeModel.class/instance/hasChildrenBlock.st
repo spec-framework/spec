@@ -1,7 +1,7 @@
 protocol-compatibility
 hasChildrenBlock
-	< api: #block getter: #childrenBlock registration: #whenChildrenBlockChanged:>
-	"Set the block used to retrieve the children of a node.
+	< api: #inspect>
+	"Set the block used to check if a node has children.
 	The optional block arguments are:
 		- the node
 		- the tree"

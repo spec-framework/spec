@@ -2,7 +2,7 @@
 	"class" : {
 		"adapterName" : "BenjaminVanRyseghem 1/13/2014 15:22",
 		"defaultSpec" : "BenjaminVanRyseghem 11/1/2013 16:24",
-		"popup" : "BenjaminVanRyseghem 2/19/2014 20:55:16" },
+		"popup" : "BenjaminVanRyseghem 2/18/2014 23:04" },
 	"instance" : {
 		"addAllFromPragma:target:" : "BenjaminVanRyseghem 11/29/2013 16:14",
 		"addGroup:" : "BenjaminVanRyseghem 11/1/2013 15:35",
@@ -10,14 +10,14 @@
 		"applyTo:" : "BenjaminVanRyseghem 11/1/2013 15:38",
 		"autoRefresh" : "BenjaminVanRyseghem 11/1/2013 18:33",
 		"autoRefresh:" : "BenjaminVanRyseghem 11/1/2013 18:33",
-		"buildWithSpecAsPopup" : "BenjaminVanRyseghem 2/19/2014 20:55:16",
+		"buildWithSpecAsPopup" : "BenjaminVanRyseghem 2/18/2014 23:08",
 		"fromSpec:" : "BenjaminVanRyseghem 11/29/2013 15:00",
 		"icon" : "BenjaminVanRyseghem 11/1/2013 14:36",
 		"icon:" : "BenjaminVanRyseghem 11/1/2013 14:36",
-		"initialize" : "BenjaminVanRyseghem 2/19/2014 20:55:16",
+		"initialize" : "CamilloBruni 2/19/2014 14:32",
 		"menuGroups" : "BenjaminVanRyseghem 11/1/2013 14:14",
 		"neglect:" : "BenjaminVanRyseghem 11/12/2013 09:47",
-		"openWithSpecAt:" : "BenjaminVanRyseghem 2/19/2014 20:55:16",
+		"openWithSpecAt:" : "BenjaminVanRyseghem 2/18/2014 23:08",
 		"printOn:" : "StephaneDucasse 11/11/2013 19:19",
 		"title" : "BenjaminVanRyseghem 11/1/2013 14:36",
 		"title:" : "BenjaminVanRyseghem 11/1/2013 14:36" } }
