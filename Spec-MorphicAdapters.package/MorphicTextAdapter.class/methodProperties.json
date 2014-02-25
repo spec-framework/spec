@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/27/2013 14:59" },
+		"defaultSpec" : "CamilloBruni 2/19/2014 21:48:11" },
 	"instance" : {
 		"accept" : "BenjaminVanRyseghem 11/23/2013 23:20",
 		"accept:notifying:" : "BenjaminVanRyseghem 9/28/2013 21:16",
@@ -32,7 +32,7 @@
 		"selectedClassOrMetaClass" : "BenjaminVanRyseghem 9/28/2013 22:00",
 		"setHasUnacceptedEdits:" : "BenjaminVanRyseghem 1/10/2014 12:16",
 		"setScrollValue:" : "BenjaminVanRyseghem 10/1/2013 13:29",
-		"setSelection:" : "BenjaminVanRyseghem 11/18/2013 12:31",
+		"setSelection:" : "CamilloBruni 2/19/2014 21:48:11",
 		"setSelectionFromModel:" : "BenjaminVanRyseghem 9/28/2013 22:36",
 		"shoutAboutToStyle:" : "BenjaminVanRyseghem 9/28/2013 21:19",
 		"wantsVisualFeedback" : "BenjaminVanRyseghem 11/27/2013 14:54" } }
