@@ -1,0 +1,4 @@
+procotol
+hasChildren
+
+	^ hasChildren value

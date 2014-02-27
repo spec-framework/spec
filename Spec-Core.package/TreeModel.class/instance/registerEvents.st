@@ -3,6 +3,7 @@ registerEvents
 	
 	rootsHolder whenChangedDo: [ self updateTree ].
 	childrenBlockHolder whenChangedDo: [ self updateTree ].
+	hasChildrenBlockHolder whenChangedDo: [ self updateTree ].
 	displayBlock whenChangedDo: [ self updateTree ].
 	
 	iconBlock whenChangedDo: [ self updateTree ].
@@ -30,7 +31,7 @@ registerEvents
 					aMenuModel cull: newMenu ]
 				ifFalse: [ newMenu := aMenuModel ].
 		newMenu applyTo: self ] ].
-	
+
 	self announcer weak
 		on: WidgetBuilt
 		send: #onWidgetBuilt

@@ -3,6 +3,7 @@ initialize
 	super initialize.
 
 	childrenBlockHolder := [ {} ] asReactiveVariable.
+	hasChildrenBlockHolder := [ self childrenBlock value notEmpty ] asReactiveVariable.
 	rootsHolder := {} asReactiveVariable.
 	selectionHolder := {} asReactiveVariable.
 	menuBlockHolder := [] asReactiveVariable.

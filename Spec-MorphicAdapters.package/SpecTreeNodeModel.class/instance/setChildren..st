@@ -1,4 +1,4 @@
 accessing
 setChildren: aBlock
-
-	self childrenItems: aBlock value
+	"Store a aBlock which will return the children when evaluated."
+	self childrenItems: aBlock
