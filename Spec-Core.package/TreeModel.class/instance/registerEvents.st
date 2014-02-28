@@ -28,7 +28,7 @@ registerEvents
 			aMenuModel isBlock
 				ifTrue: [ 
 					newMenu := MenuModel new.
-					aMenuModel cull: newMenu ]
+					aMenuModel cull: newMenu cull: false ]
 				ifFalse: [ newMenu := aMenuModel ].
 		newMenu applyTo: self ] ].
 
