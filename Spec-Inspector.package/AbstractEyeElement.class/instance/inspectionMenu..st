@@ -6,4 +6,5 @@ inspectionMenu: aMenu
 		exploreSubMenu: aMenu;
 		browseSubMenu: aMenu;
 		customSubMenu: aMenu;
-		endSubMenu: aMenu.
+		endSubMenu: aMenu;
+		errorSubMenu: aMenu.

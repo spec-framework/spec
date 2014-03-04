@@ -15,11 +15,11 @@ customMenuActions
 							item
 								name: 'Back' translated;
 								action: [ self inspectPrevious ];
-								shortcut: $[ command mac | $[ ctrl ] ].
+								shortcut: $[ command mac | $[ alt win | $[ alt unix ] ].
 							
 					history hasNext ifTrue: [ 
 						aGroup addItem: [ :item |
 							item
 								name: 'Forward' translated;
 								action: [ self inspectNext ];
-								shortcut: $] command mac | $] ctrl  ] ] ] ] ]
+								shortcut: $] command mac | $] alt win |  $] alt unix  ] ] ] ] ]
