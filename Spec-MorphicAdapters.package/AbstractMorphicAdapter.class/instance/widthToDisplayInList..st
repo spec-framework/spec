@@ -6,4 +6,8 @@ widthToDisplayInList: aList
 	self model initialExtent ifNotNil: [:ex | ^ ex x ].
 
 	self widget ifNil: [ self buildWithSpec ].
+	self widget 
+		vResizing: #rigid;
+		hResizing: #rigid.
+		
 	^ self widget widthToDisplayInList: aList
