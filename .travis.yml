@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+	- 2.1.0
+
+env:
+	- PHARO=30
+
+install:
+	- curl get.pharo.org/travis | bash
+	- curl get.pharo.org/$PHARO+vm | bash
+
+script: .pharo image.image runTests
