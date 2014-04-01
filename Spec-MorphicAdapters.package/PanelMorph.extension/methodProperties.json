@@ -2,7 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"checkSplitters" : "BenjaminVanRyseghem 7/31/2012 18:08",
+		"checkMorphsLeftOrTopFrom:" : "BenjaminVanRyseghem 4/1/2014 13:19",
+		"checkMorphsLeftOrTopFrom:size:" : "BenjaminVanRyseghem 4/1/2014 13:17",
+		"checkMorphsRightOrBottomFrom:" : "BenjaminVanRyseghem 4/1/2014 13:16",
+		"checkSplitters" : "BenjaminVanRyseghem 4/1/2014 13:18",
+		"isResizeableMorph:forSplitter:" : "BenjaminVanRyseghem 4/1/2014 13:05",
 		"newHSplitter" : "BenjaminVanRyseghem 7/31/2012 15:47",
 		"newHSplitterAt:" : "IgorStasenko 12/19/2012 18:00",
 		"newVSplitter" : "BenjaminVanRyseghem 7/31/2012 15:47",
