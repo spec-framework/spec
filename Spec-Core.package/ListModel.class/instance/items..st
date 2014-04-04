@@ -7,5 +7,7 @@ items: aList
 	<api: #st getter: #listItems registration: #whenListChanged:>
 	| oldContents |
 	oldContents := listHolder value.
-	listHolder value: (aList sorted: sortingBlockHolder value).
+	listHolder value: (sortingBlockHolder value
+		ifNil: [ aList ]
+		ifNotNil: [ :aBlock | aList sorted: aBlock ]).
 	listAnnouncer announce: (ValueChanged oldValue: oldContents newValue: listHolder value)
