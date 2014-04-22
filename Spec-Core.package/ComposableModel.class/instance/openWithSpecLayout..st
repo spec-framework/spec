@@ -6,7 +6,7 @@ openWithSpecLayout: aSpec
 		ifTrue: [
 			window value rebuildWithSpecLayout: aSpec ]
 		ifFalse: [ 
-			window value: (WindowModel new model: self).
+			window value: (self defaultWindowModelClass new model: self).
 			window value openWithSpecLayout: aSpec.
 			self takeKeyboardFocus ].
 		
