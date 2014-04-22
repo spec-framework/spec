@@ -1,4 +1,4 @@
-protocol
+accessing
 hardResetBindings
 
 	bindings := nil
