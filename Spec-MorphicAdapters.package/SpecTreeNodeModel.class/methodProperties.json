@@ -4,9 +4,11 @@
 	"instance" : {
 		"bindKeyCombination:toAction:" : "BenjaminVanRyseghem 11/2/2013 18:58",
 		"childNodeFromItem:" : "BenjaminVanRyseghem 11/22/2013 12:40",
-		"childrenItems" : "BenjaminVanRyseghem 3/4/2014 17:25:06",
-		"childrenItems:" : "BenjaminVanRyseghem 11/2/2013 18:46",
-		"contents" : "BenjaminVanRyseghem 3/4/2014 17:25:06",
+		"childrenItems" : "DamienCassou 4/25/2014 11:31",
+		"childrenItems:" : "DamienCassou 4/25/2014 11:31",
+		"childrenItemsBlock" : "DamienCassou 4/25/2014 11:30",
+		"childrenItemsBlock:" : "DamienCassou 4/25/2014 11:30",
+		"contents" : "DamienCassou 4/25/2014 11:31",
 		"hasContentToShow" : "BenjaminVanRyseghem 11/22/2013 15:44",
 		"hasContents" : "BenjaminVanRyseghem 3/4/2014 17:25:06",
 		"hasContents:" : "BenjaminVanRyseghem 3/4/2014 17:25:06",
@@ -21,4 +23,4 @@
 		"nodeModel:" : "BenjaminVanRyseghem 11/2/2013 19:05",
 		"selected" : "BenjaminVanRyseghem 11/22/2013 12:55",
 		"selected:" : "BenjaminVanRyseghem 11/22/2013 12:58",
-		"setChildren:" : "BenjaminVanRyseghem 3/4/2014 17:25:06" } }
+		"setChildren:" : "DamienCassou 4/25/2014 11:32" } }

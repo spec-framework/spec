@@ -1,5 +1,5 @@
 accessing
 childrenItems
-	childrenItems isBlock 
-		ifTrue: [ childrenItems := childrenItems value ].
-	^ childrenItems
+	^ self model autoRefreshOnExpand
+		ifTrue: [ childrenItemsBlock value ]
+		ifFalse: [ childrenItems ifNil: [ childrenItems := childrenItemsBlock value ] ]
