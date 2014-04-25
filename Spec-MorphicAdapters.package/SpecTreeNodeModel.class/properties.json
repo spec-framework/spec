@@ -9,8 +9,8 @@
 		"nodeModel",
 		"icon",
 		"childrenItems",
-		"contents",
-		"hasContents" ],
+		"hasContents",
+		"childrenItemsBlock" ],
 	"name" : "SpecTreeNodeModel",
 	"pools" : [
 		 ],
