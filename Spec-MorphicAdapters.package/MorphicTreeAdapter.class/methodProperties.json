@@ -2,7 +2,7 @@
 	"class" : {
 		"defaultSpec" : "BenjaminVanRyseghem 11/26/2013 18:16" },
 	"instance" : {
-		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 9/28/2013 23:22",
+		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 4/25/2014 17:04",
 		"autoDeselection" : "BenjaminVanRyseghem 9/28/2013 22:40",
 		"autoMultiSelection" : "BenjaminVanRyseghem 9/28/2013 22:40",
 		"changed:" : "BenjaminVanRyseghem 9/28/2013 22:54",
