@@ -31,7 +31,8 @@
 		"rootNodeHolder",
 		"removeOnlyLastSelected",
 		"highlightedItem",
-		"hasChildrenBlockHolder" ],
+		"hasChildrenBlockHolder",
+		"autoRefreshOnExpand" ],
 	"name" : "TreeModel",
 	"pools" : [
 		 ],

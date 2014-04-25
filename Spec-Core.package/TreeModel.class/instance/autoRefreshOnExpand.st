@@ -1,0 +1,3 @@
+protocol
+autoRefreshOnExpand
+	^ autoRefreshOnExpand value
