@@ -9,7 +9,6 @@
 		"nodeModel",
 		"icon",
 		"childrenItems",
-		"contents",
 		"hasContents",
 		"childrenItemsBlock" ],
 	"name" : "SpecTreeNodeModel",
