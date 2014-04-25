@@ -12,7 +12,7 @@ initialize
 	dragTransformationBlock := [ :item :source | item ] asReactiveVariable.
 	wantDropBlock := [ :draggedItem :event :source | self dropEnabled ] asReactiveVariable.
 	acceptDropBlock := [ :draggedItem :event :source | ] asReactiveVariable.
-	transferBlock := [:passenger :source | super transferFor: passenger from: source ] asReactiveVariable.
+	transferBlock := [:passenger :source | self transferFor: passenger from: source ] asReactiveVariable.
 	color := self defaultColor asReactiveVariable.
 	
 	helpHolder whenChangedDo: [:string | 
