@@ -11,7 +11,7 @@ initialize
 	multiSelectionHolder := IdentityDictionary new asReactiveVariable.
 	multiSelection := false asReactiveVariable.
 	allowToSelect := true asReactiveVariable.
-	backgroundColorBlock := [ :item :index | Color white ] asReactiveVariable.
+	backgroundColorBlock := [ :item :index | UITheme current backgroundColor ] asReactiveVariable.
 	autoDeselect := true asReactiveVariable.
 	listAnnouncer := Announcer new.
 	self registerEvents.
