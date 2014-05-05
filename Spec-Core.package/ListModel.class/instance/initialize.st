@@ -11,7 +11,7 @@ initialize
 	multiSelectionHolder := IdentityDictionary new asReactiveVariable.
 	multiSelection := false asReactiveVariable.
 	allowToSelect := true asReactiveVariable.
-	backgroundColorBlock := [ :item :index | UITheme current windowColor ] asReactiveVariable.
+	backgroundColorBlock := [ :item :index | Smalltalk ui theme windowColor ] asReactiveVariable.
 	autoDeselect := true asReactiveVariable.
 	listAnnouncer := Announcer new.
 	self registerEvents.
