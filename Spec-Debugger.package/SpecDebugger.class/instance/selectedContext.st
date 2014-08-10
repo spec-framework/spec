@@ -1,4 +1,4 @@
-accessing contex
+accessing context
 selectedContext	
 
 	^ self stack selectedItem

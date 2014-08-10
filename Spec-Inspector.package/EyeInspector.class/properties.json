@@ -7,9 +7,7 @@
 	"commentStamp" : "MarcusDenker 1/17/2014 13:44",
 	"instvars" : [
 		"list",
-		"text",
-		"description",
-		"refreshLoop" ],
+		"description" ],
 	"name" : "EyeInspector",
 	"pools" : [
 		 ],

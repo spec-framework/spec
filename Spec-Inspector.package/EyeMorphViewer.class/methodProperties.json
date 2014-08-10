@@ -1,12 +1,13 @@
 {
 	"class" : {
-		"inspectorSpec" : "BenjaminVanRyseghem 10/17/2013 17:32",
+		"inspectorSpec" : "NicolaiHess 6/15/2014 21:59",
 		"label" : "CamilloBruni 9/22/2013 19:40" },
 	"instance" : {
 		"close" : "CamilloBruni 9/22/2013 20:23",
 		"container" : "BenjaminVanRyseghem 10/17/2013 17:46",
 		"initialize" : "BenjaminVanRyseghem 10/17/2013 17:29",
 		"initializePresenter" : "BenjaminVanRyseghem 10/17/2013 17:28",
-		"objectChanged" : "BenjaminVanRyseghem 10/17/2013 18:09",
+		"objectChanged" : "NicolaiHess 6/15/2014 21:58",
+		"step" : "StephaneDucasse 3/7/2014 10:52",
 		"thumbnailMorph" : "CamilloBruni 9/22/2013 19:51",
 		"thumbnailSize" : "CamilloBruni 9/22/2013 19:53" } }

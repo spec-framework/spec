@@ -14,5 +14,3 @@ initializePresenter
 		self updateCodeFromContext: aContext.
 		self updateInspectorsFromContext: aContext.
 		self stack updateForSelectionChanged ].
-	
-	self contextInspector initializeAutoRefresh.

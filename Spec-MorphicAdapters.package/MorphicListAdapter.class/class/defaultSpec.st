@@ -2,8 +2,7 @@ specs
 defaultSpec
 	<spec: #default>
 	^ {#PluggableListMorph.
-			#color:. Color white.
-	    		#model:. 					#model.
+	    	#model:. 					#model.
 			#getListSizeSelector:. 			#listSize.
 			#autoDeselect:.				#(model autoDeselect).
 			#getIndexSelector:. 			#getIndex.
@@ -16,8 +15,6 @@ defaultSpec
 			#getMenuSelector:.			#menu:shifted:.
 			#setMultipleSelection:.			{#model. #multiSelection}.
 			#wrapSelector:. 				#wrapItem:index:.
-			#borderWidth:.						#(model borderWidth).
-			#borderColor:.						#(model borderColor).
 			#setBalloonText:.					{ #model . #help}.
 			#dragEnabled:.						#(model dragEnabled).
 			#dropEnabled:.						#(model dropEnabled).	

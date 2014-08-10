@@ -17,7 +17,8 @@
 		"toolbar",
 		"contextInspector",
 		"receiverInspector",
-		"needRefresh" ],
+		"needRefresh",
+		"browsedEnvironment" ],
 	"name" : "SpecDebugger",
 	"pools" : [
 		 ],

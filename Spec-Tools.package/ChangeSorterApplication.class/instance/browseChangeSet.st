@@ -4,7 +4,6 @@ browseChangeSet
 
 	| messages |
 	messages := self selectedChangeSet changedMessageList select: [ :each | each isValid].	
-	Smalltalk tools  messageList
-		openMessageList: messages 
-		name: 'Methods in Change Set ', self selectedChangeSet name 
-		autoSelect: ''
+	Smalltalk tools messageList
+		browse: messages 
+		title: 'Methods in Change Set ', self selectedChangeSet name .

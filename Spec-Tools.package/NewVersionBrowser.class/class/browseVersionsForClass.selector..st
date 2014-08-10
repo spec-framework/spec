@@ -1,9 +1,13 @@
-protocol
-browseVersionsForClass: aClass  selector: aSelector 
+api
+browseVersionsForClass: aClass selector: aSelector 
+	| method |
+	aSelector ifNil: [ ^self ].
+	aClass ifNil: [ ^self ].
+	method := (aClass compiledMethodAt: aSelector) ifNil: [ ^self ].
 	
-	^ self
-		browseVersionsOf: (aClass compiledMethodAt: aSelector)
+	^ self new
+		browseVersionsOf: method
 		class: aClass
 		meta: aClass isMeta
-		category: (aClass organization categoryOfElement: aSelector)
+		category: method category
 		selector: aSelector

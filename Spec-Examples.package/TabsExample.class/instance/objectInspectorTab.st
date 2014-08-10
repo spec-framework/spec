@@ -1,13 +1,11 @@
 private
 objectInspectorTab
-	| tab |
-	
-	tab := self newTab.
-	tab
+
+	^ self newTab
 		label: 'Object inspector';
 		icon: Smalltalk ui icons nautilusIcon;
 		retrievingBlock: [ (EyeInspector new
 				inspect: Object;
-				buildWithSpec: #inspectorSpec) asWidget ].
-			
-	^ tab
+				buildWithSpec: #inspectorSpec) asWidget ];
+		yourself.
+	

@@ -1,10 +1,14 @@
-tool registration
-openMessageList: messageList name: aString autoSelect: aSelector refreshingBlockSelector:aRefreshingBlockSelector
-	" Tool registry compitibility "
-
-	| title |
-	aString last = $]
-			ifTrue: [ title := aString substrings allButLast joinUsing: ' ' ]
-			ifFalse: [ title := aString ].
+instance creation - old
+openMessageList: messageList name: aString autoSelect: aSelector refreshingBlockSelector: aRefreshingBlockSelector
+	
+	| browser |
+	browser := self new
+		messages: messageList;
+		title: aString;
+		autoSelect: aSelector;
+		yourself.
+		
+	aRefreshingBlockSelector ifNotNil:[(browser perform: aRefreshingBlockSelector with: aSelector)].
+	^browser open
+	
 				
-	^ (self on: messageList named: title autoSelect: aSelector refreshingBlockSelector:aRefreshingBlockSelector) openWithSpec

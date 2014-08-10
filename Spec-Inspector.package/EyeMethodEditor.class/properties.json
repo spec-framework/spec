@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"text",
 		"toolbar" ],
 	"name" : "EyeMethodEditor",
 	"pools" : [

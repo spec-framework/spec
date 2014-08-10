@@ -1,11 +1,12 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:12" },
+		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:12",
+		"open" : "MarcusDenker 7/26/2014 13:55" },
 	"instance" : {
-		"browserTab" : "BenjaminVanRyseghem 10/1/2013 14:32",
+		"browserTab" : "MarcusDenker 7/26/2014 13:56",
 		"initializeWidgets" : "BenjaminVanRyseghem 10/1/2013 14:46",
 		"manager" : "BenjaminVanRyseghem 10/1/2013 14:13",
-		"objectClassTab" : "BenjaminVanRyseghem 10/1/2013 14:08",
-		"objectInspectorTab" : "BenjaminVanRyseghem 10/1/2013 14:17",
+		"objectClassTab" : "MarcusDenker 7/29/2014 07:08",
+		"objectInspectorTab" : "MarcusDenker 7/26/2014 13:55",
 		"populateManager" : "BenjaminVanRyseghem 10/1/2013 14:33",
 		"title" : "BenjaminVanRyseghem 10/1/2013 14:48" } }

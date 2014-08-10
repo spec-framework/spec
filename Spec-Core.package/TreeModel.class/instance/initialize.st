@@ -15,12 +15,12 @@ initialize
 	columnInset := 5 asReactiveVariable.
 	doubleClick := [] asReactiveVariable.
 	allowMenuOnNoItem := false asReactiveVariable.
-	evenRowColor := Color veryLightGray muchLighter asReactiveVariable.
 	isCheckList := false asReactiveVariable.
 	keyStroke := [ :key | ] asReactiveVariable.
 	multiSelection := false asReactiveVariable.
-	oddRowColor := Color white asReactiveVariable.
-	preferedPaneColor := Color white asReactiveVariable.
+	evenRowColor := Smalltalk ui theme backgroundColor asReactiveVariable.
+	oddRowColor := Smalltalk ui theme backgroundColor asReactiveVariable.
+	preferedPaneColor := Smalltalk ui theme backgroundColor asReactiveVariable.
 	resizerWidth := 2 asReactiveVariable.
 	rowInset := 2 asReactiveVariable.
 	iconBlock := [ :each : node | node icon ] asReactiveVariable.
@@ -32,8 +32,6 @@ initialize
 	
 	columns := { TreeColumnModel new
 		displayBlock: [:node | (self wrapItem: node content) ] } asReactiveVariable.
-	
-	autoRefreshOnExpand := false asReactiveVariable.
 	
 	"Since my nodes are already morphs, dragging them will actually extract them from their owner"
 	dragTransformationBlock := [ :item :source | item complexContents ] asReactiveVariable.

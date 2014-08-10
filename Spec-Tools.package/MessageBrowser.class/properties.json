@@ -16,7 +16,9 @@
 		"searchedStringHolder",
 		"model",
 		"topologicSortHolder",
-		"textConverterHolder" ],
+		"textConverterHolder",
+		"methodWidget",
+		"browsedEnvironment" ],
 	"name" : "MessageBrowser",
 	"pools" : [
 		 ],

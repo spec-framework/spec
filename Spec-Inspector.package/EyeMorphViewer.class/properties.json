@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"container",
-		"updateProcess" ],
+		"container" ],
 	"name" : "EyeMorphViewer",
 	"pools" : [
 		 ],

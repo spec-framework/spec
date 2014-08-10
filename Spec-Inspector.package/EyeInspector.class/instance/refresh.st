@@ -5,4 +5,4 @@ refresh
 	description hasUnacceptedEdits 
 		ifTrue: [  ^ self ].
 	description getSelection size = 0 
-		ifTrue: [ self refreshDescription ]
+		ifTrue: [ self refreshDescription; updateList ]

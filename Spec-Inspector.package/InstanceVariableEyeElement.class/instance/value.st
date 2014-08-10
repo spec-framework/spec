@@ -1,3 +1,3 @@
 accessing
 value
-	^ self host instVarNamed: self instVarName
+	^ self host readSlotNamed: self instVarName

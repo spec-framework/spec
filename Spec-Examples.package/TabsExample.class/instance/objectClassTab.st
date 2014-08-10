@@ -1,12 +1,9 @@
 private
 objectClassTab
-	| tab |
 	
-	tab := self newTab.
-	tab
+	^self newTab
 		label: 'Object class';
 		icon: Smalltalk ui icons nautilusIcon;
-		model: (MessageBrowser
-			browseMessages: (Object methods) refreshingBlock: [] named: '').
-			
-	^ tab
+		model: (MessageBrowser new messages: Object methods);
+		yourself
+	
