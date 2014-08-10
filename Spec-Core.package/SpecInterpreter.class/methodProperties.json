@@ -11,7 +11,7 @@
 	"instance" : {
 		"actionToPerformWithSelector:arguments:" : "BenjaminVanRyseghem 9/29/2013 14:25",
 		"bindings" : "BenjaminVanRyseghem 10/1/2013 12:37",
-		"computeSpecFrom:selector:" : "BenjaminVanRyseghem 11/21/2013 11:22",
+		"computeSpecFrom:selector:" : "webwarrior 7/18/2014 14:00",
 		"convertSymbolOfClassToInstance:" : "BenjaminVanRyseghem 10/1/2013 12:38",
 		"extractArrayToInterpretFrom:" : "BenjaminVanRyseghem 3/19/2013 13:09",
 		"interpretASpec:model:selector:" : "BenjaminVanRyseghem 9/29/2013 14:41",
