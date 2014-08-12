@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"label" : "MarcusDenker 8/2/2014 13:17",
+		"openOn:" : "MarcusDenker 8/5/2014 10:34",
+		"openStrongOn:" : "MarcusDenker 8/5/2014 15:52",
+		"registerToolsOn:" : "MarcusDenker 8/7/2014 11:36" },
+	"instance" : {
+		"childrenForObject:" : "MarcusDenker 8/5/2014 16:11",
+		"initialize" : "MarcusDenker 8/5/2014 15:48",
+		"object:" : "MarcusDenker 8/5/2014 10:41",
+		"objectChanged" : "MarcusDenker 8/5/2014 09:28",
+		"onlyStrong" : "MarcusDenker 8/5/2014 15:51",
+		"roots" : "MarcusDenker 8/5/2014 09:06",
+		"title" : "MarcusDenker 8/5/2014 16:10",
+		"tree" : "MarcusDenker 8/5/2014 10:35" } }
