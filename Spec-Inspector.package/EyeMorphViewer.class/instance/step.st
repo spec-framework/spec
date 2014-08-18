@@ -1,3 +1,0 @@
-initialize
-step
-	self objectChanged
