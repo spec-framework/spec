@@ -16,5 +16,5 @@ Bug reports should contain a snippet whose execution will produce the reported p
 ### License
 
 *spec-framework* and all its content is distributed under a dual-license:
-- MIT license when used as an external library. For more information about the license, see `LICENSE-MIT`
-- GPL v3 license when shipped as part of a programming language or its Integrated development environment. For more information about the lincense, see `LICENSE-GPL`
+- GPL v3 license when shipped as part of a programming language, its core libraries and frameworks, or its Integrated Development Environment. For more information about the lincense, see `LICENSE-GPL`
+- MIT license for other cases. For more information about the license, see `LICENSE-MIT`
