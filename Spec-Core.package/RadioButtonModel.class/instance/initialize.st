@@ -5,6 +5,7 @@ initialize
 	
 	actionWhenActivatedHolder := [] asReactiveVariable.
 	actionWhenDesactivatedHolder := [] asReactiveVariable.
+	canDeselectByClick := false asReactiveVariable.
 	enabledHolder := true asReactiveVariable.
 	stateHolder := false asReactiveVariable.
 	labelClickableHolder := true asReactiveVariable. 

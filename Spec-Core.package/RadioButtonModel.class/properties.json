@@ -10,7 +10,8 @@
 		"actionWhenDesactivatedHolder",
 		"stateHolder",
 		"labelClickableHolder",
-		"labelHolder" ],
+		"labelHolder",
+		"canDeselectByClick" ],
 	"name" : "RadioButtonModel",
 	"pools" : [
 		 ],
