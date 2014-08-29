@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 9/29/2013 13:41" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/29/2014 18:03",
 		"centerWidget:" : "BenjaminVanRyseghem 11/28/2013 17:20",
 		"checkSplitters" : "BenjaminVanRyseghem 9/29/2013 13:50",
 		"isRedrawable" : "BenjaminVanRyseghem 10/1/2013 13:32",
