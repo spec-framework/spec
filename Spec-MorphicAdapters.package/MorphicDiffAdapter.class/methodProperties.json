@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 11:58" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/29/2014 18:08",
 		"contextClass" : "BenjaminVanRyseghem 11/21/2013 18:16",
 		"contextClass:" : "BenjaminVanRyseghem 11/21/2013 21:01",
 		"leftText" : "BenjaminVanRyseghem 11/21/2013 18:16",
