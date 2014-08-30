@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 12/10/2013 23:08" },
+		 },
 	"instance" : {
 		"aboutText" : "BenjaminVanRyseghem 9/25/2013 16:41",
 		"aboutTitle" : "BenComan 12/18/2013 01:34",
@@ -8,6 +8,7 @@
 		"addModelIn:withSpecLayout:" : "BenjaminVanRyseghem 9/25/2013 16:23",
 		"addModelItemsToWindowMenu:" : "BenjaminVanRyseghem 10/19/2013 15:17",
 		"askOkToClose" : "BenjaminVanRyseghem 9/25/2013 16:24",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 13:29",
 		"cancelled" : "BenjaminVanRyseghem 9/25/2013 16:43",
 		"centered" : "BenjaminVanRyseghem 11/28/2013 17:11",
 		"centeredRelativeTo:" : "BenjaminVanRyseghem 11/28/2013 17:18",

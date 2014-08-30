@@ -1,6 +1,8 @@
 private
 buildWidget
 
-	^ super buildWidget
+	^ SpecDialogWindow 
+		specWidget: self contentMorph;
+		setToolbarFrom: self toolbarBlock;
 		model: self model;
-		yourself
+		initialize
