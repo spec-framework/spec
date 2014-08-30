@@ -1,7 +1,10 @@
 private
 buildWidgetPopup
 
-	widget := SpecInterpreter interpretASpec: self class popupSpec model: self.
+	widget := MenuMorph new
+		addIfNeededTitle: (self title)
+		andIcon: (self icon).
+	
 	self menuGroups 
 		do: [ :group || items |
 			items := group buildWithSpec.
