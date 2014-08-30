@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 5/15/2014 17:49" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 11:44",
 		"getIconFor:" : "BenjaminVanRyseghem 11/23/2013 13:04",
 		"getIndex" : "BenjaminVanRyseghem 9/25/2013 18:03",
 		"getList" : "BenjaminVanRyseghem 11/22/2013 18:31",
