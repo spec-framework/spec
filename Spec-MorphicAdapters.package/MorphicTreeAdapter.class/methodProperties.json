@@ -1,10 +1,11 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/29/2014 13:53" },
+		 },
 	"instance" : {
 		"acceptDroppingMorph:event:inMorph:" : "BenjaminVanRyseghem 4/25/2014 17:04",
 		"autoDeselection" : "BenjaminVanRyseghem 9/28/2013 22:40",
 		"autoMultiSelection" : "BenjaminVanRyseghem 9/28/2013 22:40",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 13:06",
 		"changed:" : "BenjaminVanRyseghem 9/28/2013 22:54",
 		"childrenFor:" : "BenjaminVanRyseghem 9/28/2013 23:26",
 		"collapseAll" : "BenjaminVanRyseghem 11/23/2013 21:58",
