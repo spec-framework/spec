@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"buttons" ],
+		"buttons",
+		"canDeselectByClick" ],
 	"name" : "RadioButtonGroup",
 	"pools" : [
 		 ],

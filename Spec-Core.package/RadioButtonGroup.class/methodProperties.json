@@ -2,6 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addRadioButton:" : "",
-		"default:" : "",
-		"initialize" : "CamilloBruni 7/17/2013 23:07" } }
+		"addRadioButton:" : "BenjaminVanRyseghem 8/29/2014 17:05",
+		"canDeselectByClick" : "BenjaminVanRyseghem 8/29/2014 17:03",
+		"canDeselectByClick:" : "BenjaminVanRyseghem 8/29/2014 17:03",
+		"default:" : "BenjaminVanRyseghem 8/29/2014 17:09",
+		"initialize" : "BenjaminVanRyseghem 8/29/2014 17:07",
+		"whenCanDeselectByClickChanged:" : "BenjaminVanRyseghem 8/29/2014 17:04" } }
