@@ -1,12 +1,10 @@
 {
 	"class" : {
-		"adaptAsPopup:" : "BenjaminVanRyseghem 2/18/2014 23:02",
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 11:59",
-		"popupSpec" : "BenjaminVanRyseghem 2/18/2014 23:03" },
+		"adaptAsPopup:" : "BenjaminVanRyseghem 2/18/2014 23:02" },
 	"instance" : {
 		"adaptAsPopup:" : "BenjaminVanRyseghem 2/18/2014 23:11",
-		"buildWidget" : "BenjaminVanRyseghem 2/18/2014 23:53",
-		"buildWidgetPopup" : "NicolaiHess 3/12/2014 10:19",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:15",
+		"buildWidgetPopup" : "BenjaminVanRyseghem 8/30/2014 12:18",
 		"icon" : "BenjaminVanRyseghem 11/1/2013 14:37",
 		"menuGroups" : "BenjaminVanRyseghem 1/11/2014 20:11",
 		"openAt:" : "BenjaminVanRyseghem 1/5/2014 17:29",

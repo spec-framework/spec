@@ -1,5 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "StephaneDucasse 3/7/2014 11:16" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 13:32",
 		"step" : "DamienCassou 4/4/2014 14:54" } }

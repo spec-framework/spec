@@ -1,7 +1,8 @@
 private
 buildWidget
 
-	widget := super buildWidget.
-	widget adoptMenuModel: self model.
-	
-	^ widget
+	^ ToolDockingBarMorph new
+		hResizing: #spaceFill;
+		vResizing: #spaceFill;
+		adoptMenuModel: self model
+		yourself

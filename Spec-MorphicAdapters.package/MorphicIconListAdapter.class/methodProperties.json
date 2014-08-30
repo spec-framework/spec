@@ -1,5 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 11:59" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:06",
 		"getIconFor:" : "BenjaminVanRyseghem 9/25/2013 18:33" } }

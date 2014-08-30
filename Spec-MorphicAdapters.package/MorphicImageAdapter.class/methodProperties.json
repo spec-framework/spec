@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 11:58" },
+		 },
 	"instance" : {
 		"adapt:" : "BenjaminVanRyseghem 1/11/2014 22:22",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 11:52",
 		"click" : "BenjaminVanRyseghem 1/11/2014 22:23",
 		"getImage" : "BenjaminVanRyseghem 1/11/2014 22:08" } }

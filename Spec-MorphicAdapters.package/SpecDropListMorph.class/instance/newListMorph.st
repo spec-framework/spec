@@ -2,8 +2,7 @@ drawing
 newListMorph
 	"Answer a new list morph"
 
-	|m|
-	m := (self listMorphClass
+	^ (self listMorphClass
 		on: self
 		list: #list
 		selected: #listSelectionIndex
@@ -18,5 +17,4 @@ newListMorph
 			"color: self color;"
 			borderStyle: (self theme dropListNormalListBorderStyleFor: self);
 			on: #mouseDown send: #listMouseDown: to: self;
-			yourself.
-	^m
+			yourself

@@ -1,8 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/24/2013 15:14" },
+		 },
 	"instance" : {
-		"buildWidget" : "BenjaminVanRyseghem 11/24/2013 15:14",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 13:31",
 		"cancelAction:" : "BenjaminVanRyseghem 9/28/2013 23:49",
 		"contentMorph" : "BenjaminVanRyseghem 9/28/2013 23:50",
 		"okAction:" : "BenjaminVanRyseghem 9/28/2013 23:48",

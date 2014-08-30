@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 10/1/2013 14:45" },
+		 },
 	"instance" : {
 		"addTab:" : "MartinDias 2/25/2014 13:06",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:46",
 		"getTabs" : "BenjaminVanRyseghem 10/1/2013 14:25",
 		"selectedTab:" : "BenjaminVanRyseghem 10/1/2013 14:45" } }

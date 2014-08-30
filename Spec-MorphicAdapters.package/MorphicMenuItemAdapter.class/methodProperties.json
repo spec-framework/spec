@@ -1,13 +1,14 @@
 {
 	"class" : {
-		"autoRefreshSpec" : "BenjaminVanRyseghem 11/1/2013 18:23",
-		"defaultSpec" : "BenjaminVanRyseghem 11/1/2013 18:27" },
+		 },
 	"instance" : {
 		"action" : "BenjaminVanRyseghem 11/1/2013 13:44",
 		"actionArguments" : "BenjaminVanRyseghem 11/1/2013 15:02",
 		"autoRefresh" : "BenjaminVanRyseghem 11/1/2013 18:23",
 		"balloonText" : "BenjaminVanRyseghem 11/1/2013 18:16",
-		"buildWidget" : "BenjaminVanRyseghem 4/22/2014 14:26",
+		"buildMenuWidget" : "BenjaminVanRyseghem 8/30/2014 12:23",
+		"buildRefreshingMenuWidget" : "BenjaminVanRyseghem 8/30/2014 12:25",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:24",
 		"defaultModifierShortcut" : "BenjaminVanRyseghem 11/29/2013 15:58",
 		"enabled" : "BenjaminVanRyseghem 11/1/2013 17:21",
 		"icon" : "BenjaminVanRyseghem 11/1/2013 17:56",

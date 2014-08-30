@@ -1,10 +1,11 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 12:11" },
+		 },
 	"instance" : {
 		"accept:" : "BenjaminVanRyseghem 9/28/2013 22:05",
 		"acceptOnCR" : "BenjaminVanRyseghem 9/28/2013 22:07",
 		"adapt:" : "EstebanLorenzano 5/1/2014 11:34",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:59",
 		"encrypted" : "BenjaminVanRyseghem 9/28/2013 22:07",
 		"encrypted:" : "BenjaminVanRyseghem 12/4/2013 14:39",
 		"entryCompletion" : "BenjaminVanRyseghem 9/28/2013 22:06",
