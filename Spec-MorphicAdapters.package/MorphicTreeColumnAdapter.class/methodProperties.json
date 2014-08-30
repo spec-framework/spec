@@ -1,8 +1,9 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 11/2/2013 19:34" },
+		 },
 	"instance" : {
 		"argumentBlock" : "BenjaminVanRyseghem 11/2/2013 16:54",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 13:09",
 		"displayBlock" : "BenjaminVanRyseghem 11/2/2013 17:23",
 		"displayBlockChanged" : "BenjaminVanRyseghem 11/2/2013 18:18",
 		"headerAction" : "BenjaminVanRyseghem 11/2/2013 16:57",

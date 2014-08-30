@@ -2,6 +2,7 @@ private
 buildWidget
 
 	^ MorphTreeMorph new
+		color: Color white;
 		model: self treeModel;
 		dragEnabled: self dragEnabled;
 		dropEnabled: self dropEnabled;
