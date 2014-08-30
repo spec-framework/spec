@@ -6,10 +6,10 @@ fi
 
 rm -rf pharo-vm
 
-curl -o prescript.st -L https://raw.github.com/SpecForPharo/spec/master/preload.st
-curl -o script.st -L https://raw.github.com/SpecForPharo/spec/master/installScript.st
-curl -o postscript.st -L https://raw.github.com/SpecForPharo/spec/master/postload.st
-curl -o spec.zip -L https://github.com/SpecForPharo/spec/archive/master.zip
+curl -o prescript.st -L https://raw.github.com/spec-framework/spec/master/preload.st
+curl -o script.st -L https://raw.github.com/spec-framework/spec/master/installScript.st
+curl -o postscript.st -L https://raw.github.com/spec-framework/spec/master/postload.st
+curl -o spec.zip -L https://github.com/spec-framework/spec/archive/master.zip
 unzip -u -o -q spec.zip
 
 curl get.pharo.org/vm | bash
