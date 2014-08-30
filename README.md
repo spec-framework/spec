@@ -5,7 +5,7 @@ Spec is a new framework for describing user interfaces in Pharo 4.
 
 ### Getting started
 
-You can download the latest version of Spec  [here](http://benjamin.is-a-geek.com:9095/view/My%20branches/job/Spec/lastSuccessfulBuild/artifact/Spec.zip).
+You can download the latest version of Spec  [here](http://benjamin.is-a-geek.com:8080/job/Spec/lastSuccessfulBuild/artifact/Spec.zip).
 
 ### Reporting a bug
 
