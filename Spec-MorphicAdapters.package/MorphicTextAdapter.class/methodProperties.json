@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"defaultSpec" : "EstebanLorenzano 4/30/2014 12:00" },
+		 },
 	"instance" : {
 		"accept" : "BenjaminVanRyseghem 11/23/2013 23:20",
 		"accept:notifying:" : "BenjaminVanRyseghem 9/28/2013 21:16",
@@ -9,6 +9,7 @@
 		"autoAccept" : "BenjaminVanRyseghem 11/27/2013 14:30",
 		"autoAccept:" : "BenjaminVanRyseghem 8/10/2014 12:58",
 		"behavior" : "BenjaminVanRyseghem 9/28/2013 21:23",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:55",
 		"classOrMetaClass:" : "BenjaminVanRyseghem 9/28/2013 21:30",
 		"clearUserEditFlag" : "BenjaminVanRyseghem 9/28/2013 21:21",
 		"codePaneMenu:shifted:" : "BenjaminVanRyseghem 9/28/2013 21:17",
