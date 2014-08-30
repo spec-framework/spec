@@ -1,7 +1,7 @@
 Spec
 ====
 
-Spec is a new framework for describing user interfaces in Pharo.
+Spec is a new framework for describing user interfaces in Pharo 4.
 
 ### Getting started
 
