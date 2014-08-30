@@ -1,7 +1,8 @@
 {
 	"class" : {
-		"defaultSpec" : "webwarrior 6/9/2014 15:46" },
+		 },
 	"instance" : {
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:49",
 		"height:" : "webwarrior 6/11/2014 20:23",
 		"isRedrawable" : "webwarrior 6/9/2014 15:47",
 		"layoutProperties:" : "webwarrior 6/9/2014 19:59",
