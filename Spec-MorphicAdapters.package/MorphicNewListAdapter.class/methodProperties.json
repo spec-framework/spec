@@ -1,9 +1,10 @@
 {
 	"class" : {
-		"defaultSpec" : "BenjaminVanRyseghem 3/4/2014 17:25:06" },
+		 },
 	"instance" : {
 		"acceptDroppingMorph:atIndex:event:inMorph:" : "BenjaminVanRyseghem 9/25/2013 18:45",
 		"allowToSelect" : "BenjaminVanRyseghem 9/25/2013 18:45",
+		"buildWidget" : "BenjaminVanRyseghem 8/30/2014 12:30",
 		"deSelectOnReclick" : "BenjaminVanRyseghem 9/25/2013 18:45",
 		"deSelectOnReclick:" : "BenjaminVanRyseghem 9/25/2013 18:54",
 		"doubleClick:" : "BenjaminVanRyseghem 9/25/2013 18:46",
